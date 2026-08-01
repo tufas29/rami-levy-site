@@ -19626,6 +19626,44 @@
       </Groups>
     </Promotion>
     <Promotion>
+      <PromotionUpdateTime>2026-07-08T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001375091</PromotionID>
+      <PromotionDescription>ממרח אגוזי לוז רמי לוי 350גר ב7.90 מ75 מ</PromotionDescription>
+      <PromotionStartDateTime>2025-09-02T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-08-01T11:37:00.000</PromotionEndDateTime>
+      <PromotionStartHour>00:00:00.000</PromotionStartHour>
+      <PromotionEndHour>11:37:00.000</PromotionEndHour>
+      <PromotionDays/>
+      <RedemptionLimit>3</RedemptionLimit>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem>1</IsGiftItem>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>75.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290018893043</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>1</MinQty>
+              <MaxQty/>
+              <DiscountRate>36.80</DiscountRate>
+              <DiscountedPrice>7.90</DiscountedPrice>
+              <DiscountedPricePerMida>2.257</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
       <PromotionUpdateTime>2026-06-01T00:00:00.000</PromotionUpdateTime>
       <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
       <PromotionID>0001375144</PromotionID>
@@ -33321,6 +33359,44 @@
       </Groups>
     </Promotion>
     <Promotion>
+      <PromotionUpdateTime>2026-07-05T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001392902</PromotionID>
+      <PromotionDescription>מגבות נייר כפול רמי לוי ב19.90</PromotionDescription>
+      <PromotionStartDateTime>2026-01-04T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-08-01T09:35:00.000</PromotionEndDateTime>
+      <PromotionStartHour>00:00:00.000</PromotionStartHour>
+      <PromotionEndHour>09:35:00.000</PromotionEndHour>
+      <PromotionDays/>
+      <RedemptionLimit/>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem>1</IsGiftItem>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290103702533</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>1</MinQty>
+              <MaxQty/>
+              <DiscountRate>9.13</DiscountRate>
+              <DiscountedPrice>19.90</DiscountedPrice>
+              <DiscountedPricePerMida>0.157</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
       <PromotionUpdateTime>2026-01-04T00:00:00.000</PromotionUpdateTime>
       <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
       <PromotionID>0001392967</PromotionID>
@@ -34207,6 +34283,44 @@
               <DiscountRate>20.08</DiscountRate>
               <DiscountedPrice>19.90</DiscountedPrice>
               <DiscountedPricePerMida>19.900</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
+      <PromotionUpdateTime>2026-07-27T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001394059</PromotionID>
+      <PromotionDescription>מתלה כביסה מחוזק ב39.90</PromotionDescription>
+      <PromotionStartDateTime>2026-01-12T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-08-01T11:57:00.000</PromotionEndDateTime>
+      <PromotionStartHour>00:00:00.000</PromotionStartHour>
+      <PromotionEndHour>11:57:00.000</PromotionEndHour>
+      <PromotionDays/>
+      <RedemptionLimit/>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem>1</IsGiftItem>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7777555503838</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>1</MinQty>
+              <MaxQty/>
+              <DiscountRate>20.04</DiscountRate>
+              <DiscountedPrice>39.90</DiscountedPrice>
+              <DiscountedPricePerMida>39.900</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
@@ -40282,6 +40396,55 @@
               <DiscountedPrice>49.90</DiscountedPrice>
               <DiscountedPricePerMida>49.900</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
+      <PromotionUpdateTime>2026-07-09T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001397469</PromotionID>
+      <PromotionDescription>גרעיני תירס רמי לוי 4ב12</PromotionDescription>
+      <PromotionStartDateTime>2026-02-04T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-08-01T08:18:00.000</PromotionEndDateTime>
+      <PromotionStartHour>00:00:00.000</PromotionStartHour>
+      <PromotionEndHour>08:18:00.000</PromotionEndHour>
+      <PromotionDays/>
+      <RedemptionLimit/>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem>4</IsGiftItem>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290119670796</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>4</MinQty>
+              <MaxQty/>
+              <DiscountRate>37.50</DiscountRate>
+              <DiscountedPrice>12.00</DiscountedPrice>
+              <DiscountedPricePerMida>0.882</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290119670918</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>4</MinQty>
+              <MaxQty/>
+              <DiscountRate>37.50</DiscountRate>
+              <DiscountedPrice>12.00</DiscountedPrice>
+              <DiscountedPricePerMida>1.053</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
         </Group>
@@ -55976,6 +56139,180 @@
               <DiscountRate>24.62</DiscountRate>
               <DiscountedPrice>30.00</DiscountedPrice>
               <DiscountedPricePerMida>10.000</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
+      <PromotionUpdateTime>2026-07-05T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001410769</PromotionID>
+      <PromotionDescription>חמאת בוטנים 1קג ב29.90</PromotionDescription>
+      <PromotionStartDateTime>2026-05-31T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-08-01T10:33:00.000</PromotionEndDateTime>
+      <PromotionStartHour>00:00:00.000</PromotionStartHour>
+      <PromotionEndHour>10:33:00.000</PromotionEndHour>
+      <PromotionDays/>
+      <RedemptionLimit/>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem>1</IsGiftItem>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290018857885</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>1</MinQty>
+              <MaxQty/>
+              <DiscountRate>14.33</DiscountRate>
+              <DiscountedPrice>29.90</DiscountedPrice>
+              <DiscountedPricePerMida>2.990</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
+      <PromotionUpdateTime>2026-07-06T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001410773</PromotionID>
+      <PromotionDescription>ממרח/חמאת שקד 300 גרם שקד תבור ב29.90</PromotionDescription>
+      <PromotionStartDateTime>2026-05-31T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-08-01T10:40:00.000</PromotionEndDateTime>
+      <PromotionStartHour>00:00:00.000</PromotionStartHour>
+      <PromotionEndHour>10:40:00.000</PromotionEndHour>
+      <PromotionDays/>
+      <RedemptionLimit/>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem>1</IsGiftItem>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290011498740</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>1</MinQty>
+              <MaxQty/>
+              <DiscountRate>14.33</DiscountRate>
+              <DiscountedPrice>29.90</DiscountedPrice>
+              <DiscountedPricePerMida>9.967</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290011498962</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>1</MinQty>
+              <MaxQty/>
+              <DiscountRate>14.33</DiscountRate>
+              <DiscountedPrice>29.90</DiscountedPrice>
+              <DiscountedPricePerMida>9.967</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
+      <PromotionUpdateTime>2026-07-05T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001410774</PromotionID>
+      <PromotionDescription>ממרח חלבה פרווה 350גר ב9.90</PromotionDescription>
+      <PromotionStartDateTime>2026-05-31T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-08-01T10:29:00.000</PromotionEndDateTime>
+      <PromotionStartHour>00:00:00.000</PromotionStartHour>
+      <PromotionEndHour>10:29:00.000</PromotionEndHour>
+      <PromotionDays/>
+      <RedemptionLimit/>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem>1</IsGiftItem>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290106770577</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>1</MinQty>
+              <MaxQty/>
+              <DiscountRate>33.56</DiscountRate>
+              <DiscountedPrice>9.90</DiscountedPrice>
+              <DiscountedPricePerMida>2.829</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
+      <PromotionUpdateTime>2026-07-05T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001410775</PromotionID>
+      <PromotionDescription>גרנולה שקד תבור 450גר ב19.90</PromotionDescription>
+      <PromotionStartDateTime>2026-05-31T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-08-01T10:26:00.000</PromotionEndDateTime>
+      <PromotionStartHour>00:00:00.000</PromotionStartHour>
+      <PromotionEndHour>10:26:00.000</PromotionEndHour>
+      <PromotionDays/>
+      <RedemptionLimit/>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem>1</IsGiftItem>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290106771161</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>1</MinQty>
+              <MaxQty/>
+              <DiscountRate>16.74</DiscountRate>
+              <DiscountedPrice>19.90</DiscountedPrice>
+              <DiscountedPricePerMida>4.422</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290106771314</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>1</MinQty>
+              <MaxQty/>
+              <DiscountRate>16.74</DiscountRate>
+              <DiscountedPrice>19.90</DiscountedPrice>
+              <DiscountedPricePerMida>4.422</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
@@ -114405,6 +114742,44 @@
               <DiscountRate>33.56</DiscountRate>
               <DiscountedPrice>9.90</DiscountedPrice>
               <DiscountedPricePerMida>2.200</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
+      <PromotionUpdateTime>2026-07-20T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001414496</PromotionID>
+      <PromotionDescription>קרם גוף בייבי כיף ב17.90</PromotionDescription>
+      <PromotionStartDateTime>2026-06-21T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-08-01T08:31:00.000</PromotionEndDateTime>
+      <PromotionStartHour>00:00:00.000</PromotionStartHour>
+      <PromotionEndHour>08:31:00.000</PromotionEndHour>
+      <PromotionDays/>
+      <RedemptionLimit/>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem>1</IsGiftItem>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290108359824</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>1</MinQty>
+              <MaxQty/>
+              <DiscountRate>10.05</DiscountRate>
+              <DiscountedPrice>17.90</DiscountedPrice>
+              <DiscountedPricePerMida>2.387</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
