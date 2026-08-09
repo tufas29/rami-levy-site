@@ -44302,6 +44302,17 @@
               <bIsWeighted>0</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
+              <ItemCode>6978515258947</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>1</MinQty>
+              <MaxQty/>
+              <DiscountRate>6.98</DiscountRate>
+              <DiscountedPrice>3999.00</DiscountedPrice>
+              <DiscountedPricePerMida>3999.000</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
               <ItemCode>6978515258961</ItemCode>
               <ItemType>1</ItemType>
               <RewardType>3</RewardType>
