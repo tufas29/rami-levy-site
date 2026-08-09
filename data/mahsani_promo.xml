@@ -203173,7 +203173,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>100</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>0</DiscountedPrice>
               <DiscountedPricePerMida>0</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
@@ -203184,7 +203184,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>100</DiscountRate>
               <DiscountedPrice>0</DiscountedPrice>
               <DiscountedPricePerMida>0</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
@@ -203195,7 +203195,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>3.85</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>49.9</DiscountedPrice>
               <DiscountedPricePerMida>49.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203206,20 +203206,9 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>3.85</DiscountRate>
               <DiscountedPrice>49.9</DiscountedPrice>
               <DiscountedPricePerMida>49.9</DiscountedPricePerMida>
-              <bIsWeighted>1</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
-              <ItemCode>1879627</ItemCode>
-              <ItemType>0</ItemType>
-              <RewardType>0</RewardType>
-              <MinQty>1</MinQty>
-              <MaxQty />
-              <DiscountRate />
-              <DiscountedPrice>64.9</DiscountedPrice>
-              <DiscountedPricePerMida>64.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
@@ -203234,14 +203223,14 @@
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
-              <ItemCode>2067</ItemCode>
+              <ItemCode>1879627</ItemCode>
               <ItemType>0</ItemType>
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>2.78</DiscountRate>
-              <DiscountedPrice>69.9</DiscountedPrice>
-              <DiscountedPricePerMida>69.9</DiscountedPricePerMida>
+              <DiscountRate />
+              <DiscountedPrice>64.9</DiscountedPrice>
+              <DiscountedPricePerMida>64.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
@@ -203253,6 +203242,28 @@
               <DiscountRate />
               <DiscountedPrice>69.9</DiscountedPrice>
               <DiscountedPricePerMida>69.9</DiscountedPricePerMida>
+              <bIsWeighted>1</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>2067</ItemCode>
+              <ItemType>0</ItemType>
+              <RewardType>0</RewardType>
+              <MinQty>1</MinQty>
+              <MaxQty />
+              <DiscountRate>2.78</DiscountRate>
+              <DiscountedPrice>69.9</DiscountedPrice>
+              <DiscountedPricePerMida>69.9</DiscountedPricePerMida>
+              <bIsWeighted>1</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>2105008</ItemCode>
+              <ItemType>0</ItemType>
+              <RewardType>0</RewardType>
+              <MinQty>1</MinQty>
+              <MaxQty />
+              <DiscountRate />
+              <DiscountedPrice>119.9</DiscountedPrice>
+              <DiscountedPricePerMida>119.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
@@ -203267,14 +203278,14 @@
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
-              <ItemCode>2105008</ItemCode>
+              <ItemCode>309</ItemCode>
               <ItemType>0</ItemType>
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
               <DiscountRate />
-              <DiscountedPrice>119.9</DiscountedPrice>
-              <DiscountedPricePerMida>119.9</DiscountedPricePerMida>
+              <DiscountedPrice>59.9</DiscountedPrice>
+              <DiscountedPricePerMida>59.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
@@ -203289,14 +203300,14 @@
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
-              <ItemCode>309</ItemCode>
+              <ItemCode>327</ItemCode>
               <ItemType>0</ItemType>
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
               <DiscountRate />
-              <DiscountedPrice>59.9</DiscountedPrice>
-              <DiscountedPricePerMida>59.9</DiscountedPricePerMida>
+              <DiscountedPrice>69.9</DiscountedPrice>
+              <DiscountedPricePerMida>69.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
@@ -203311,23 +203322,12 @@
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
-              <ItemCode>327</ItemCode>
-              <ItemType>0</ItemType>
-              <RewardType>0</RewardType>
-              <MinQty>1</MinQty>
-              <MaxQty />
-              <DiscountRate />
-              <DiscountedPrice>69.9</DiscountedPrice>
-              <DiscountedPricePerMida>69.9</DiscountedPricePerMida>
-              <bIsWeighted>1</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
               <ItemCode>3416</ItemCode>
               <ItemType>0</ItemType>
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>3.51</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>54.9</DiscountedPrice>
               <DiscountedPricePerMida>54.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203338,7 +203338,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>3.51</DiscountRate>
               <DiscountedPrice>54.9</DiscountedPrice>
               <DiscountedPricePerMida>54.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203371,7 +203371,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>2.6</DiscountRate>
               <DiscountedPrice>74.8</DiscountedPrice>
               <DiscountedPricePerMida>74.8</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203382,7 +203382,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>2.6</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>74.8</DiscountedPrice>
               <DiscountedPricePerMida>74.8</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203393,7 +203393,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>2.78</DiscountRate>
               <DiscountedPrice>69.9</DiscountedPrice>
               <DiscountedPricePerMida>69.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203404,7 +203404,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>2.78</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>69.9</DiscountedPrice>
               <DiscountedPricePerMida>69.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203459,7 +203459,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>1.96</DiscountRate>
               <DiscountedPrice>99.9</DiscountedPrice>
               <DiscountedPricePerMida>99.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203470,7 +203470,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>1.96</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>99.9</DiscountedPrice>
               <DiscountedPricePerMida>99.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203525,7 +203525,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>0.99</DiscountRate>
               <DiscountedPrice>199.9</DiscountedPrice>
               <DiscountedPricePerMida>199.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203536,7 +203536,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>0.99</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>199.9</DiscountedPrice>
               <DiscountedPricePerMida>199.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203547,7 +203547,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>2.78</DiscountRate>
               <DiscountedPrice>69.9</DiscountedPrice>
               <DiscountedPricePerMida>69.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203558,7 +203558,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>2.78</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>69.9</DiscountedPrice>
               <DiscountedPricePerMida>69.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203591,7 +203591,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>1.32</DiscountRate>
               <DiscountedPrice>149.9</DiscountedPrice>
               <DiscountedPricePerMida>149.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203602,7 +203602,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>1.32</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>149.9</DiscountedPrice>
               <DiscountedPricePerMida>149.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203657,7 +203657,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>11.83</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>14.9</DiscountedPrice>
               <DiscountedPricePerMida>14.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203668,7 +203668,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>11.83</DiscountRate>
               <DiscountedPrice>14.9</DiscountedPrice>
               <DiscountedPricePerMida>14.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203745,7 +203745,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>3.08</DiscountRate>
               <DiscountedPrice>62.9</DiscountedPrice>
               <DiscountedPricePerMida>62.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203756,7 +203756,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>3.08</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>62.9</DiscountedPrice>
               <DiscountedPricePerMida>62.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203789,7 +203789,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>2.44</DiscountRate>
               <DiscountedPrice>79.9</DiscountedPrice>
               <DiscountedPricePerMida>79.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203800,7 +203800,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>2.44</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>79.9</DiscountedPrice>
               <DiscountedPricePerMida>79.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203811,7 +203811,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>2.18</DiscountRate>
               <DiscountedPrice>89.9</DiscountedPrice>
               <DiscountedPricePerMida>89.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203822,7 +203822,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>2.18</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>89.9</DiscountedPrice>
               <DiscountedPricePerMida>89.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203877,7 +203877,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>2.44</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>79.9</DiscountedPrice>
               <DiscountedPricePerMida>79.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203888,7 +203888,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>2.44</DiscountRate>
               <DiscountedPrice>79.9</DiscountedPrice>
               <DiscountedPricePerMida>79.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203965,7 +203965,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>2.99</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>64.9</DiscountedPrice>
               <DiscountedPricePerMida>64.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203976,7 +203976,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>2.99</DiscountRate>
               <DiscountedPrice>64.9</DiscountedPrice>
               <DiscountedPricePerMida>64.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203987,7 +203987,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>2.44</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>79.9</DiscountedPrice>
               <DiscountedPricePerMida>79.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -203998,7 +203998,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>2.44</DiscountRate>
               <DiscountedPrice>79.9</DiscountedPrice>
               <DiscountedPricePerMida>79.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204031,7 +204031,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>1.64</DiscountRate>
               <DiscountedPrice>119.9</DiscountedPrice>
               <DiscountedPricePerMida>119.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204042,7 +204042,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>1.64</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>119.9</DiscountedPrice>
               <DiscountedPricePerMida>119.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204097,7 +204097,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>6.27</DiscountRate>
               <DiscountedPrice>29.9</DiscountedPrice>
               <DiscountedPricePerMida>29.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204108,7 +204108,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>6.27</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>29.9</DiscountedPrice>
               <DiscountedPricePerMida>29.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204141,7 +204141,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>8.37</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>21.9</DiscountedPrice>
               <DiscountedPricePerMida>21.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204152,9 +204152,20 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>8.37</DiscountRate>
               <DiscountedPrice>21.9</DiscountedPrice>
               <DiscountedPricePerMida>21.9</DiscountedPricePerMida>
+              <bIsWeighted>1</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>41271</ItemCode>
+              <ItemType>0</ItemType>
+              <RewardType>0</RewardType>
+              <MinQty>1</MinQty>
+              <MaxQty />
+              <DiscountRate />
+              <DiscountedPrice>199.9</DiscountedPrice>
+              <DiscountedPricePerMida>199.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
@@ -204169,23 +204180,12 @@
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
-              <ItemCode>41271</ItemCode>
-              <ItemType>0</ItemType>
-              <RewardType>0</RewardType>
-              <MinQty>1</MinQty>
-              <MaxQty />
-              <DiscountRate />
-              <DiscountedPrice>199.9</DiscountedPrice>
-              <DiscountedPricePerMida>199.9</DiscountedPricePerMida>
-              <bIsWeighted>1</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
               <ItemCode>41273</ItemCode>
               <ItemType>0</ItemType>
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>1.96</DiscountRate>
               <DiscountedPrice>100</DiscountedPrice>
               <DiscountedPricePerMida>100</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204196,7 +204196,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>1.96</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>100</DiscountedPrice>
               <DiscountedPricePerMida>100</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204229,7 +204229,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>2.44</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>79.9</DiscountedPrice>
               <DiscountedPricePerMida>79.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204240,9 +204240,20 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>2.44</DiscountRate>
               <DiscountedPrice>79.9</DiscountedPrice>
               <DiscountedPricePerMida>79.9</DiscountedPricePerMida>
+              <bIsWeighted>1</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>41311</ItemCode>
+              <ItemType>0</ItemType>
+              <RewardType>0</RewardType>
+              <MinQty>1</MinQty>
+              <MaxQty />
+              <DiscountRate />
+              <DiscountedPrice>199.9</DiscountedPrice>
+              <DiscountedPricePerMida>199.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
@@ -204257,23 +204268,12 @@
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
-              <ItemCode>41311</ItemCode>
-              <ItemType>0</ItemType>
-              <RewardType>0</RewardType>
-              <MinQty>1</MinQty>
-              <MaxQty />
-              <DiscountRate />
-              <DiscountedPrice>199.9</DiscountedPrice>
-              <DiscountedPricePerMida>199.9</DiscountedPricePerMida>
-              <bIsWeighted>1</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
               <ItemCode>41320</ItemCode>
               <ItemType>0</ItemType>
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>2.44</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>79.9</DiscountedPrice>
               <DiscountedPricePerMida>79.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204284,7 +204284,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>2.44</DiscountRate>
               <DiscountedPrice>79.9</DiscountedPrice>
               <DiscountedPricePerMida>79.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204361,7 +204361,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>2.78</DiscountRate>
               <DiscountedPrice>69.9</DiscountedPrice>
               <DiscountedPricePerMida>69.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204372,7 +204372,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>2.78</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>69.9</DiscountedPrice>
               <DiscountedPricePerMida>69.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204397,6 +204397,17 @@
               <DiscountRate />
               <DiscountedPrice>79.9</DiscountedPrice>
               <DiscountedPricePerMida>79.9</DiscountedPricePerMida>
+              <bIsWeighted>1</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>41364</ItemCode>
+              <ItemType>0</ItemType>
+              <RewardType>0</RewardType>
+              <MinQty>1</MinQty>
+              <MaxQty />
+              <DiscountRate />
+              <DiscountedPrice>159.9</DiscountedPrice>
+              <DiscountedPricePerMida>159.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
@@ -204411,23 +204422,12 @@
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
-              <ItemCode>41364</ItemCode>
-              <ItemType>0</ItemType>
-              <RewardType>0</RewardType>
-              <MinQty>1</MinQty>
-              <MaxQty />
-              <DiscountRate />
-              <DiscountedPrice>159.9</DiscountedPrice>
-              <DiscountedPricePerMida>159.9</DiscountedPricePerMida>
-              <bIsWeighted>1</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
               <ItemCode>41369</ItemCode>
               <ItemType>0</ItemType>
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>1.85</DiscountRate>
               <DiscountedPrice>105.9</DiscountedPrice>
               <DiscountedPricePerMida>105.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204438,7 +204438,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>1.85</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>105.9</DiscountedPrice>
               <DiscountedPricePerMida>105.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204537,7 +204537,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>8.37</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>21.9</DiscountedPrice>
               <DiscountedPricePerMida>21.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204548,7 +204548,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>8.37</DiscountRate>
               <DiscountedPrice>21.9</DiscountedPrice>
               <DiscountedPricePerMida>21.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204603,7 +204603,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>1.96</DiscountRate>
               <DiscountedPrice>99.9</DiscountedPrice>
               <DiscountedPricePerMida>99.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204614,9 +204614,20 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>1.96</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>99.9</DiscountedPrice>
               <DiscountedPricePerMida>99.9</DiscountedPricePerMida>
+              <bIsWeighted>1</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>41419</ItemCode>
+              <ItemType>0</ItemType>
+              <RewardType>0</RewardType>
+              <MinQty>1</MinQty>
+              <MaxQty />
+              <DiscountRate />
+              <DiscountedPrice>39.9</DiscountedPrice>
+              <DiscountedPricePerMida>39.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
@@ -204631,17 +204642,6 @@
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
-              <ItemCode>41419</ItemCode>
-              <ItemType>0</ItemType>
-              <RewardType>0</RewardType>
-              <MinQty>1</MinQty>
-              <MaxQty />
-              <DiscountRate />
-              <DiscountedPrice>39.9</DiscountedPrice>
-              <DiscountedPricePerMida>39.9</DiscountedPricePerMida>
-              <bIsWeighted>1</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
               <ItemCode>41447</ItemCode>
               <ItemType>0</ItemType>
               <RewardType>0</RewardType>
@@ -204669,7 +204669,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>1.96</DiscountRate>
               <DiscountedPrice>99.9</DiscountedPrice>
               <DiscountedPricePerMida>99.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204680,7 +204680,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>1.96</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>99.9</DiscountedPrice>
               <DiscountedPricePerMida>99.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204727,6 +204727,17 @@
               <DiscountRate>3.23</DiscountRate>
               <DiscountedPrice>59.9</DiscountedPrice>
               <DiscountedPricePerMida>59.9</DiscountedPricePerMida>
+              <bIsWeighted>1</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>41659</ItemCode>
+              <ItemType>0</ItemType>
+              <RewardType>0</RewardType>
+              <MinQty>1</MinQty>
+              <MaxQty />
+              <DiscountRate />
+              <DiscountedPrice>79.9</DiscountedPrice>
+              <DiscountedPricePerMida>79.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
@@ -204741,28 +204752,6 @@
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
-              <ItemCode>41659</ItemCode>
-              <ItemType>0</ItemType>
-              <RewardType>0</RewardType>
-              <MinQty>1</MinQty>
-              <MaxQty />
-              <DiscountRate />
-              <DiscountedPrice>79.9</DiscountedPrice>
-              <DiscountedPricePerMida>79.9</DiscountedPricePerMida>
-              <bIsWeighted>1</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
-              <ItemCode>41680</ItemCode>
-              <ItemType>0</ItemType>
-              <RewardType>0</RewardType>
-              <MinQty>1</MinQty>
-              <MaxQty />
-              <DiscountRate />
-              <DiscountedPrice>149.9</DiscountedPrice>
-              <DiscountedPricePerMida>149.9</DiscountedPricePerMida>
-              <bIsWeighted>1</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
               <ItemCode>41680</ItemCode>
               <ItemType>0</ItemType>
               <RewardType>0</RewardType>
@@ -204774,12 +204763,23 @@
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
-              <ItemCode>41996</ItemCode>
+              <ItemCode>41680</ItemCode>
               <ItemType>0</ItemType>
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
               <DiscountRate />
+              <DiscountedPrice>149.9</DiscountedPrice>
+              <DiscountedPricePerMida>149.9</DiscountedPricePerMida>
+              <bIsWeighted>1</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>41996</ItemCode>
+              <ItemType>0</ItemType>
+              <RewardType>0</RewardType>
+              <MinQty>1</MinQty>
+              <MaxQty />
+              <DiscountRate>2.78</DiscountRate>
               <DiscountedPrice>69.9</DiscountedPrice>
               <DiscountedPricePerMida>69.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204790,7 +204790,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>2.78</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>69.9</DiscountedPrice>
               <DiscountedPricePerMida>69.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204933,7 +204933,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>2.18</DiscountRate>
               <DiscountedPrice>89.9</DiscountedPrice>
               <DiscountedPricePerMida>89.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204944,7 +204944,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>2.18</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>89.9</DiscountedPrice>
               <DiscountedPricePerMida>89.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204977,7 +204977,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>1.41</DiscountRate>
               <DiscountedPrice>139.9</DiscountedPrice>
               <DiscountedPricePerMida>139.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -204988,7 +204988,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>1.41</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>139.9</DiscountedPrice>
               <DiscountedPricePerMida>139.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205065,7 +205065,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>2.18</DiscountRate>
               <DiscountedPrice>89.9</DiscountedPrice>
               <DiscountedPricePerMida>89.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205076,17 +205076,6 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>2.18</DiscountRate>
-              <DiscountedPrice>89.9</DiscountedPrice>
-              <DiscountedPricePerMida>89.9</DiscountedPricePerMida>
-              <bIsWeighted>1</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
-              <ItemCode>42267</ItemCode>
-              <ItemType>0</ItemType>
-              <RewardType>0</RewardType>
-              <MinQty>1</MinQty>
-              <MaxQty />
               <DiscountRate />
               <DiscountedPrice>89.9</DiscountedPrice>
               <DiscountedPricePerMida>89.9</DiscountedPricePerMida>
@@ -205099,6 +205088,17 @@
               <MinQty>1</MinQty>
               <MaxQty />
               <DiscountRate>2.18</DiscountRate>
+              <DiscountedPrice>89.9</DiscountedPrice>
+              <DiscountedPricePerMida>89.9</DiscountedPricePerMida>
+              <bIsWeighted>1</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>42267</ItemCode>
+              <ItemType>0</ItemType>
+              <RewardType>0</RewardType>
+              <MinQty>1</MinQty>
+              <MaxQty />
+              <DiscountRate />
               <DiscountedPrice>89.9</DiscountedPrice>
               <DiscountedPricePerMida>89.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205109,7 +205109,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>2.44</DiscountRate>
               <DiscountedPrice>79.9</DiscountedPrice>
               <DiscountedPricePerMida>79.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205120,7 +205120,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>2.44</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>79.9</DiscountedPrice>
               <DiscountedPricePerMida>79.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205175,7 +205175,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>1.96</DiscountRate>
               <DiscountedPrice>99.9</DiscountedPrice>
               <DiscountedPricePerMida>99.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205186,7 +205186,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>1.96</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>99.9</DiscountedPrice>
               <DiscountedPricePerMida>99.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205219,7 +205219,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>1.52</DiscountRate>
               <DiscountedPrice>129.9</DiscountedPrice>
               <DiscountedPricePerMida>129.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205230,7 +205230,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>1.52</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>129.9</DiscountedPrice>
               <DiscountedPricePerMida>129.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205241,7 +205241,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>1.32</DiscountRate>
               <DiscountedPrice>149</DiscountedPrice>
               <DiscountedPricePerMida>149</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205252,7 +205252,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>1.32</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>149</DiscountedPrice>
               <DiscountedPricePerMida>149</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205329,7 +205329,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>1.71</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>114.9</DiscountedPrice>
               <DiscountedPricePerMida>114.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205340,7 +205340,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>1.71</DiscountRate>
               <DiscountedPrice>114.9</DiscountedPrice>
               <DiscountedPricePerMida>114.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205395,7 +205395,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>1.65</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>119</DiscountedPrice>
               <DiscountedPricePerMida>119</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205406,7 +205406,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>1.65</DiscountRate>
               <DiscountedPrice>119</DiscountedPrice>
               <DiscountedPricePerMida>119</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205549,7 +205549,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>5.73</DiscountRate>
               <DiscountedPrice>32.9</DiscountedPrice>
               <DiscountedPricePerMida>32.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205560,7 +205560,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>5.73</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>32.9</DiscountedPrice>
               <DiscountedPricePerMida>32.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205615,7 +205615,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>4.77</DiscountRate>
               <DiscountedPrice>39.9</DiscountedPrice>
               <DiscountedPricePerMida>39.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205626,7 +205626,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>4.77</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>39.9</DiscountedPrice>
               <DiscountedPricePerMida>39.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205681,7 +205681,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>3.23</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>59.9</DiscountedPrice>
               <DiscountedPricePerMida>59.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205692,9 +205692,20 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>3.23</DiscountRate>
               <DiscountedPrice>59.9</DiscountedPrice>
               <DiscountedPricePerMida>59.9</DiscountedPricePerMida>
+              <bIsWeighted>1</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290000611853</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>0</RewardType>
+              <MinQty>1</MinQty>
+              <MaxQty />
+              <DiscountRate />
+              <DiscountedPrice>14.9</DiscountedPrice>
+              <DiscountedPricePerMida>14.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
@@ -205709,14 +205720,14 @@
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
-              <ItemCode>7290000611853</ItemCode>
+              <ItemCode>7290000611884</ItemCode>
               <ItemType>1</ItemType>
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
               <DiscountRate />
-              <DiscountedPrice>14.9</DiscountedPrice>
-              <DiscountedPricePerMida>14.9</DiscountedPricePerMida>
+              <DiscountedPrice>29.9</DiscountedPrice>
+              <DiscountedPricePerMida>29.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
@@ -205731,23 +205742,12 @@
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
-              <ItemCode>7290000611884</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>0</RewardType>
-              <MinQty>1</MinQty>
-              <MaxQty />
-              <DiscountRate />
-              <DiscountedPrice>29.9</DiscountedPrice>
-              <DiscountedPricePerMida>29.9</DiscountedPricePerMida>
-              <bIsWeighted>1</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
               <ItemCode>7290000631141</ItemCode>
               <ItemType>1</ItemType>
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>12.58</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>13.9</DiscountedPrice>
               <DiscountedPricePerMida>13.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205758,7 +205758,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>12.58</DiscountRate>
               <DiscountedPrice>13.9</DiscountedPrice>
               <DiscountedPricePerMida>13.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205813,7 +205813,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>6.27</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>29.9</DiscountedPrice>
               <DiscountedPricePerMida>29.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205824,7 +205824,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>6.27</DiscountRate>
               <DiscountedPrice>29.9</DiscountedPrice>
               <DiscountedPricePerMida>29.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205901,7 +205901,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate />
+              <DiscountRate>5.42</DiscountRate>
               <DiscountedPrice>34.9</DiscountedPrice>
               <DiscountedPricePerMida>34.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -205912,7 +205912,7 @@
               <RewardType>0</RewardType>
               <MinQty>1</MinQty>
               <MaxQty />
-              <DiscountRate>5.42</DiscountRate>
+              <DiscountRate />
               <DiscountedPrice>34.9</DiscountedPrice>
               <DiscountedPricePerMida>34.9</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
