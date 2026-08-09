@@ -214,25 +214,6 @@
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2022-01-29T19:38:21.000</PriceUpdateTime>
-      <ItemCode>19</ItemCode>
-      <LastSaleDateTime>2026-05-08T09:17:18.000</LastSaleDateTime>
-      <ItemType>0</ItemType>
-      <ItemName>מבצע התרמה משפחות נזקקות.</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>יחידות</UnitQty>
-      <Quantity>1</Quantity>
-      <UnitOfMeasure>יחידות 1</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>5</ItemPrice>
-      <UnitOfMeasurePrice>5</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2022-01-29T23:32:51.000</PriceUpdateTime>
       <ItemCode>20</ItemCode>
       <LastSaleDateTime>2026-08-02T20:50:33.000</LastSaleDateTime>
@@ -248,25 +229,6 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>10</ItemPrice>
       <UnitOfMeasurePrice>10</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2022-01-29T20:27:36.000</PriceUpdateTime>
-      <ItemCode>21</ItemCode>
-      <LastSaleDateTime>2026-05-08T12:57:46.000</LastSaleDateTime>
-      <ItemType>0</ItemType>
-      <ItemName>עמלת החזרת צ ק 42 ש"ח</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty />
-      <Quantity />
-      <UnitOfMeasure />
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>42</ItemPrice>
-      <UnitOfMeasurePrice>42</UnitOfMeasurePrice>
       <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
@@ -3482,25 +3444,6 @@
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2022-01-29T19:35:26.000</PriceUpdateTime>
-      <ItemCode>708</ItemCode>
-      <LastSaleDateTime>2026-05-08T14:18:12.000</LastSaleDateTime>
-      <ItemType>0</ItemType>
-      <ItemName>לפת</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>קילוגרם</UnitQty>
-      <Quantity>1</Quantity>
-      <UnitOfMeasure>1 קילוגרם</UnitOfMeasure>
-      <bIsWeighted>1</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>8.9</ItemPrice>
-      <UnitOfMeasurePrice>8.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2023-09-04T06:42:12.000</PriceUpdateTime>
       <ItemCode>709</ItemCode>
       <LastSaleDateTime>2026-07-10T13:59:37.000</LastSaleDateTime>
@@ -4181,25 +4124,6 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.9</ItemPrice>
       <UnitOfMeasurePrice>4.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2022-01-29T20:25:48.000</PriceUpdateTime>
-      <ItemCode>1553</ItemCode>
-      <LastSaleDateTime>2026-05-08T07:39:56.000</LastSaleDateTime>
-      <ItemType>0</ItemType>
-      <ItemName>טייץ לנשים *1</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>יחידות</UnitQty>
-      <Quantity>1</Quantity>
-      <UnitOfMeasure>יחידות 1</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>17</ItemPrice>
-      <UnitOfMeasurePrice>17</UnitOfMeasurePrice>
       <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
@@ -12624,25 +12548,6 @@
     </Item>
     <Item>
       <PriceUpdateTime>2025-06-24T07:28:24.000</PriceUpdateTime>
-      <ItemCode>136806</ItemCode>
-      <LastSaleDateTime>2026-05-08T14:15:22.000</LastSaleDateTime>
-      <ItemType>0</ItemType>
-      <ItemName>טמפו סודה בנגיעות טעם למון ליים </ItemName>
-      <ManufactureName>טמפו משקאות בעמ</ManufactureName>
-      <ManufactureCountry>IL</ManufactureCountry>
-      <ManufactureItemDescription>טמפו סודה בנגיעות טעם למון ליים 1.5 ליטר רביעייה</ManufactureItemDescription>
-      <UnitQty>ליטר</UnitQty>
-      <Quantity>6</Quantity>
-      <UnitOfMeasure>ליטר 1</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>14</ItemPrice>
-      <UnitOfMeasurePrice>2.13</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-06-24T07:28:24.000</PriceUpdateTime>
       <ItemCode>136813</ItemCode>
       <LastSaleDateTime>2026-07-10T13:37:08.000</LastSaleDateTime>
       <ItemType>0</ItemType>
@@ -13078,7 +12983,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>30.9</ItemPrice>
       <UnitOfMeasurePrice>4.41</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -13517,7 +13422,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>27.9</ItemPrice>
       <UnitOfMeasurePrice>6.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -13651,7 +13556,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.6</ItemPrice>
       <UnitOfMeasurePrice>17.6</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -16115,7 +16020,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>45.9</ItemPrice>
       <UnitOfMeasurePrice>1.66</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -16728,7 +16633,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>19.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -16977,7 +16882,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>19.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -17824,7 +17729,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>6.23</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -18092,7 +17997,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>4.97</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -18225,7 +18130,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>5.76</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -18396,7 +18301,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.9</ItemPrice>
       <UnitOfMeasurePrice>3.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -19080,7 +18985,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>27.9</ItemPrice>
       <UnitOfMeasurePrice>37.2</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -20149,25 +20054,6 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.9</ItemPrice>
       <UnitOfMeasurePrice>3.18</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2024-12-16T11:38:42.000</PriceUpdateTime>
-      <ItemCode>7290000416618</ItemCode>
-      <LastSaleDateTime>2026-05-08T09:06:06.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>השחר פרווה 400 גר</ItemName>
-      <ManufactureName>השחר העולה בעמ</ManufactureName>
-      <ManufactureCountry>IL</ManufactureCountry>
-      <ManufactureItemDescription>ממרח השחר פרווה בדצ בית יוסף כשר לפסח- עם קטניות</ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>400</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>14.9</ItemPrice>
-      <UnitOfMeasurePrice>3.73</UnitOfMeasurePrice>
       <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
@@ -22231,7 +22117,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>28.9</ItemPrice>
       <UnitOfMeasurePrice>28.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -22250,7 +22136,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>3.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -22269,7 +22155,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>3.58</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -22365,7 +22251,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>27.9</ItemPrice>
       <UnitOfMeasurePrice>27.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -23011,7 +22897,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>11.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -23030,7 +22916,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>11.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -24761,7 +24647,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>44.9</ItemPrice>
       <UnitOfMeasurePrice>11.23</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -25293,7 +25179,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>59.9</ItemPrice>
       <UnitOfMeasurePrice>11.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -25540,7 +25426,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>4.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -27324,25 +27210,6 @@
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2022-05-23T14:43:34.000</PriceUpdateTime>
-      <ItemCode>1415283</ItemCode>
-      <LastSaleDateTime>2026-05-08T10:05:24.000</LastSaleDateTime>
-      <ItemType>0</ItemType>
-      <ItemName>עוגת שמרים אגוזים</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>גרם</UnitQty>
-      <Quantity>500</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>24.9</ItemPrice>
-      <UnitOfMeasurePrice>4.98</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2023-06-04T09:21:47.000</PriceUpdateTime>
       <ItemCode>1415406</ItemCode>
       <LastSaleDateTime>2026-07-19T13:05:09.000</LastSaleDateTime>
@@ -27948,7 +27815,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>4.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -27986,7 +27853,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>35.9</ItemPrice>
       <UnitOfMeasurePrice>14.36</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -28005,7 +27872,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>9.97</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -28521,7 +28388,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>9.58</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -28635,7 +28502,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.9</ItemPrice>
       <UnitOfMeasurePrice>15.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -28654,7 +28521,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.9</ItemPrice>
       <UnitOfMeasurePrice>15.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -30160,7 +30027,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.5</ItemPrice>
       <UnitOfMeasurePrice>2.07</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -30179,7 +30046,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.5</ItemPrice>
       <UnitOfMeasurePrice>2.07</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -30487,25 +30354,6 @@
       <ItemPrice>6.9</ItemPrice>
       <UnitOfMeasurePrice>5.52</UnitOfMeasurePrice>
       <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2023-12-19T16:48:10.000</PriceUpdateTime>
-      <ItemCode>7290002111764</ItemCode>
-      <LastSaleDateTime>2026-05-08T09:03:31.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>שעועית לבנה ברוטב עגבניות</ItemName>
-      <ManufactureName>זנלכל בע"מ</ManufactureName>
-      <ManufactureCountry>IL</ManufactureCountry>
-      <ManufactureItemDescription>שעועית לבנה ברוטב עגבניות 560 גר פ"מ </ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>600</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>9.9</ItemPrice>
-      <UnitOfMeasurePrice>1.65</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -33020,25 +32868,6 @@
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2025-07-07T14:28:49.000</PriceUpdateTime>
-      <ItemCode>2238574001545</ItemCode>
-      <LastSaleDateTime>2026-05-08T11:37:22.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>פקורינו משולשים שקיל גד</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>קילוגרם</UnitQty>
-      <Quantity>1</Quantity>
-      <UnitOfMeasure>1 קילוגרם</UnitOfMeasure>
-      <bIsWeighted>1</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>185</ItemPrice>
-      <UnitOfMeasurePrice>185</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2025-06-03T21:06:41.000</PriceUpdateTime>
       <ItemCode>2386834</ItemCode>
       <LastSaleDateTime>2026-08-06T21:17:43.000</LastSaleDateTime>
@@ -34157,7 +33986,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>37.9</ItemPrice>
       <UnitOfMeasurePrice>37.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -35816,7 +35645,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>5.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -36519,7 +36348,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>14.92</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -37684,7 +37513,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>84.9</ItemPrice>
       <UnitOfMeasurePrice>12.09</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -38296,7 +38125,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>54.9</ItemPrice>
       <UnitOfMeasurePrice>10.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -39103,7 +38932,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>5.84</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -40593,25 +40422,6 @@
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2023-06-11T09:00:12.000</PriceUpdateTime>
-      <ItemCode>7290003996117</ItemCode>
-      <LastSaleDateTime>2026-05-08T13:03:14.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>כרוב לבן שלם חסלט 1ק"ג</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>קילוגרם</UnitQty>
-      <Quantity>1</Quantity>
-      <UnitOfMeasure>1 קילוגרם</UnitOfMeasure>
-      <bIsWeighted>1</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>14.9</ItemPrice>
-      <UnitOfMeasurePrice>14.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2023-11-21T10:34:32.000</PriceUpdateTime>
       <ItemCode>3996285</ItemCode>
       <LastSaleDateTime>2026-05-18T16:23:48.000</LastSaleDateTime>
@@ -40703,7 +40513,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>9.9</ItemPrice>
       <UnitOfMeasurePrice>0.04</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -42987,7 +42797,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>14.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -46840,7 +46650,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>12.45</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -49879,7 +49689,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>11.9</ItemPrice>
       <UnitOfMeasurePrice>6.61</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -49898,7 +49708,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>11.9</ItemPrice>
       <UnitOfMeasurePrice>6.61</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -50107,7 +49917,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>19.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -50354,7 +50164,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>20.9</ItemPrice>
       <UnitOfMeasurePrice>20.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -50430,7 +50240,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>11.9</ItemPrice>
       <UnitOfMeasurePrice>11.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -50696,7 +50506,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>4.73</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -50735,7 +50545,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>8.54</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -50754,7 +50564,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>9.97</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -50830,7 +50640,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>2.84</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -50849,7 +50659,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>9.06</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -50868,7 +50678,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>9.06</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -50887,7 +50697,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>9.06</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -51367,25 +51177,6 @@
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>8.45</UnitOfMeasurePrice>
       <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2024-02-12T17:41:22.000</PriceUpdateTime>
-      <ItemCode>7290006788474</ItemCode>
-      <LastSaleDateTime>2026-05-08T13:31:08.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>קרליין-דאו ספריי נושם  מס3.</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>גרם</UnitQty>
-      <Quantity>75</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>11.9</ItemPrice>
-      <UnitOfMeasurePrice>15.87</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -52323,7 +52114,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>2.32</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -52342,7 +52133,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.9</ItemPrice>
       <UnitOfMeasurePrice>5.3</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -52361,7 +52152,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.9</ItemPrice>
       <UnitOfMeasurePrice>15.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -52380,7 +52171,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>14.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -52513,7 +52304,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>74.9</ItemPrice>
       <UnitOfMeasurePrice>14.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -53751,7 +53542,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>26.9</ItemPrice>
       <UnitOfMeasurePrice>13.45</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -54694,7 +54485,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.5</ItemPrice>
       <UnitOfMeasurePrice>2.07</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -54713,7 +54504,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.5</ItemPrice>
       <UnitOfMeasurePrice>2.07</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -55226,7 +55017,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>69.9</ItemPrice>
       <UnitOfMeasurePrice>9.28</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -55245,7 +55036,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>69.9</ItemPrice>
       <UnitOfMeasurePrice>9.28</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -55283,7 +55074,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>69.9</ItemPrice>
       <UnitOfMeasurePrice>9.28</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -55321,7 +55112,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>69.9</ItemPrice>
       <UnitOfMeasurePrice>9.28</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -55378,7 +55169,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>69.9</ItemPrice>
       <UnitOfMeasurePrice>9.28</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -56026,25 +55817,6 @@
       <ItemPrice>35.9</ItemPrice>
       <UnitOfMeasurePrice>4.75</UnitOfMeasurePrice>
       <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2024-12-15T14:27:13.000</PriceUpdateTime>
-      <ItemCode>8921893</ItemCode>
-      <LastSaleDateTime>2026-05-08T14:27:45.000</LastSaleDateTime>
-      <ItemType>0</ItemType>
-      <ItemName>יין ויניארד סוביניון בלאן 750מ"ל</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>מיליליטר</UnitQty>
-      <Quantity>750</Quantity>
-      <UnitOfMeasure>מיליליטר 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>59.9</ItemPrice>
-      <UnitOfMeasurePrice>7.95</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -61234,7 +61006,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>49.9</ItemPrice>
       <UnitOfMeasurePrice>49.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -61253,7 +61025,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>34.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -61681,7 +61453,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>5.87</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -63357,25 +63129,6 @@
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2025-06-25T12:37:47.000</PriceUpdateTime>
-      <ItemCode>51000008039</ItemCode>
-      <LastSaleDateTime>2026-05-08T07:25:07.000</LastSaleDateTime>
-      <ItemType>0</ItemType>
-      <ItemName>מיץ ירקות טבעי 1.36ליטר V8</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>מיליליטר</UnitQty>
-      <Quantity>978</Quantity>
-      <UnitOfMeasure>מיליליטר 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>35.9</ItemPrice>
-      <UnitOfMeasurePrice>3.64</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2024-12-02T12:08:03.000</PriceUpdateTime>
       <ItemCode>51500255162</ItemCode>
       <LastSaleDateTime>2026-08-06T16:16:24.000</LastSaleDateTime>
@@ -64785,7 +64538,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>3.16</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -64804,7 +64557,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>3.16</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -65071,25 +64824,6 @@
       <ItemPrice>89</ItemPrice>
       <UnitOfMeasurePrice>89</UnitOfMeasurePrice>
       <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2026-03-06T06:32:29.000</PriceUpdateTime>
-      <ItemCode>96619321544</ItemCode>
-      <LastSaleDateTime>2026-05-08T13:23:59.000</LastSaleDateTime>
-      <ItemType>0</ItemType>
-      <ItemName>נייר מגבת פרימיום קריקלנד</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty />
-      <Quantity />
-      <UnitOfMeasure />
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>8.9</ItemPrice>
-      <UnitOfMeasurePrice>8.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -67243,7 +66977,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>4.42</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -68042,7 +67776,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.9</ItemPrice>
       <UnitOfMeasurePrice>8.03</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -68099,7 +67833,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.9</ItemPrice>
       <UnitOfMeasurePrice>5.3</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69097,7 +68831,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>39.9</ItemPrice>
       <UnitOfMeasurePrice>39.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69173,7 +68907,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>27.9</ItemPrice>
       <UnitOfMeasurePrice>27.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69211,7 +68945,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>42.9</ItemPrice>
       <UnitOfMeasurePrice>28.6</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69230,7 +68964,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>24.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69249,7 +68983,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>24.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69268,7 +69002,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>24.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69287,7 +69021,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>24.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69306,7 +69040,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>24.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69325,7 +69059,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>24.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69344,7 +69078,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>24.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69363,7 +69097,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>24.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69497,7 +69231,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>119.9</ItemPrice>
       <UnitOfMeasurePrice>15.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69574,7 +69308,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.9</ItemPrice>
       <UnitOfMeasurePrice>9.09</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69593,7 +69327,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.9</ItemPrice>
       <UnitOfMeasurePrice>9.09</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69672,7 +69406,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>14.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69694,7 +69428,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>14.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69716,7 +69450,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>14.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69888,7 +69622,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>28.9</ItemPrice>
       <UnitOfMeasurePrice>23.12</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69908,7 +69642,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>28.9</ItemPrice>
       <UnitOfMeasurePrice>23.12</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -70309,25 +70043,6 @@
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>16.9</UnitOfMeasurePrice>
       <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2022-12-13T10:49:19.000</PriceUpdateTime>
-      <ItemCode>3574661504162</ItemCode>
-      <LastSaleDateTime>2026-05-08T09:05:13.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>קרפרי מוס אינטימי</ItemName>
-      <ManufactureName>ג'ונסון אנד ג'ונסון</ManufactureName>
-      <ManufactureCountry>IT</ManufactureCountry>
-      <ManufactureItemDescription>קרפרי מוס לשטיפה אינטימית 150 מל- חדש</ManufactureItemDescription>
-      <UnitQty>מיליליטר</UnitQty>
-      <Quantity>150</Quantity>
-      <UnitOfMeasure>מיליליטר 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>19.9</ItemPrice>
-      <UnitOfMeasurePrice>13.27</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -72003,7 +71718,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>27.9</ItemPrice>
       <UnitOfMeasurePrice>27.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -72516,7 +72231,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>24.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -72535,7 +72250,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>24.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -72784,7 +72499,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>6.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -72803,7 +72518,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>6.78</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -72975,7 +72690,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>3.38</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -73034,7 +72749,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>36.9</ItemPrice>
       <UnitOfMeasurePrice>12.3</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -73390,7 +73105,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>3.38</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -73447,7 +73162,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>7.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -73584,7 +73299,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>5.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -73603,7 +73318,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>5.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -74368,26 +74083,6 @@
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2025-05-04T10:07:48.000</PriceUpdateTime>
-      <ItemCode>4009900531122</ItemCode>
-      <LastSaleDateTime>2026-05-08T14:20:27.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>מסטיק אורביט פרופשיונל מנטה עדינה ללא סוכר </ItemName>
-      <ManufactureName>קוז'ושקי
-פרסל ,42 96-500 סוצ'אציו פולין</ManufactureName>
-      <ManufactureCountry>PL</ManufactureCountry>
-      <ManufactureItemDescription>מסטיק אורביט פרופשיונל מנטה עדינה ללא סוכר </ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>90</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>11.9</ItemPrice>
-      <UnitOfMeasurePrice>13.22</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2024-06-17T09:45:34.000</PriceUpdateTime>
       <ItemCode>4009900536257</ItemCode>
       <LastSaleDateTime>2026-08-07T08:52:50.000</LastSaleDateTime>
@@ -75061,7 +74756,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>11.96</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -75082,7 +74777,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>11.96</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -75265,7 +74960,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>11.96</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -75343,7 +75038,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>11.96</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -75535,7 +75230,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>24.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -75862,7 +75557,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>19.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -75881,7 +75576,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>19.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -75941,7 +75636,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>9.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -75960,7 +75655,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>39.9</ItemPrice>
       <UnitOfMeasurePrice>4.99</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -75981,7 +75676,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>19.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -76448,7 +76143,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>119.9</ItemPrice>
       <UnitOfMeasurePrice>119.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -76469,7 +76164,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>119.9</ItemPrice>
       <UnitOfMeasurePrice>119.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -77587,7 +77282,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>32.9</ItemPrice>
       <UnitOfMeasurePrice>8.23</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -77606,7 +77301,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>32.9</ItemPrice>
       <UnitOfMeasurePrice>8.23</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -77644,7 +77339,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>32.9</ItemPrice>
       <UnitOfMeasurePrice>8.23</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -77703,7 +77398,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>6.78</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -78145,7 +77840,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>6.78</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -78164,7 +77859,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>6.78</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -78335,7 +78030,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>8.73</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -78354,7 +78049,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>6.78</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -78373,7 +78068,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>6.78</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -78392,7 +78087,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>6.78</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -78411,7 +78106,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>8.73</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -78449,7 +78144,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>12.46</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -78468,7 +78163,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>12.46</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -78487,7 +78182,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>12.46</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -78506,7 +78201,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>14.54</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -78525,7 +78220,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>14.54</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -78601,7 +78296,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>12.69</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -78620,7 +78315,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>12.46</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -78639,7 +78334,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>12.46</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -79510,7 +79205,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>6.63</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -79861,7 +79556,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>16.6</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -79938,7 +79633,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>16.6</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -80231,7 +79926,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>16.6</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -81786,7 +81481,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>5.11</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -81805,7 +81500,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>4.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -82058,7 +81753,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>179.9</ItemPrice>
       <UnitOfMeasurePrice>25.66</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -82079,7 +81774,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>115.9</ItemPrice>
       <UnitOfMeasurePrice>16.51</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -82159,7 +81854,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>12.9</ItemPrice>
       <UnitOfMeasurePrice>6.45</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -82444,7 +82139,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>4.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -82662,7 +82357,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>129.9</ItemPrice>
       <UnitOfMeasurePrice>18.51</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -82760,7 +82455,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>19.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -82988,7 +82683,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>39.9</ItemPrice>
       <UnitOfMeasurePrice>26.6</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -83427,7 +83122,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>34.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -84484,7 +84179,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>11.96</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -85040,7 +84735,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>69.9</ItemPrice>
       <UnitOfMeasurePrice>9.99</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -85059,7 +84754,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>69.9</ItemPrice>
       <UnitOfMeasurePrice>9.99</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -85078,7 +84773,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>69.9</ItemPrice>
       <UnitOfMeasurePrice>9.99</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -87322,7 +87017,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>59.9</ItemPrice>
       <UnitOfMeasurePrice>23.96</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -87360,7 +87055,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>54.9</ItemPrice>
       <UnitOfMeasurePrice>21.96</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -91557,7 +91252,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>3.78</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -91576,7 +91271,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>3.78</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -92055,25 +91750,6 @@ Bakery with p</ManufactureItemDescription>
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2025-09-15T14:42:24.000</PriceUpdateTime>
-      <ItemCode>7290010777457</ItemCode>
-      <LastSaleDateTime>2026-05-08T13:42:28.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>מארז 4 פרנות</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>קילוגרם</UnitQty>
-      <Quantity>1</Quantity>
-      <UnitOfMeasure>1</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>14.9</ItemPrice>
-      <UnitOfMeasurePrice>14.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2025-01-27T06:59:08.000</PriceUpdateTime>
       <ItemCode>7290010777488</ItemCode>
       <LastSaleDateTime>2026-08-05T14:06:15.000</LastSaleDateTime>
@@ -92399,7 +92075,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>59.9</ItemPrice>
       <UnitOfMeasurePrice>39.93</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -93146,7 +92822,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>4</QtyInPackage>
       <ItemPrice>39.9</ItemPrice>
       <UnitOfMeasurePrice>29.32</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -94787,7 +94463,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>29.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -95095,7 +94771,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>37.8</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -95114,7 +94790,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>37.8</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -95133,7 +94809,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>37.8</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -95152,7 +94828,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>37.8</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -96574,7 +96250,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.9</ItemPrice>
       <UnitOfMeasurePrice>15.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -96688,7 +96364,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>23.27</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -97243,7 +96919,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.5</ItemPrice>
       <UnitOfMeasurePrice>10.56</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -97820,7 +97496,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>11.9</ItemPrice>
       <UnitOfMeasurePrice>5.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -97858,7 +97534,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>4.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -97897,25 +97573,6 @@ Bakery with p</ManufactureItemDescription>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>19.9</UnitOfMeasurePrice>
       <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-06-03T21:06:40.000</PriceUpdateTime>
-      <ItemCode>7290012823398</ItemCode>
-      <LastSaleDateTime>2026-05-08T13:48:47.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>מטליות לחות לניקוי הרצפה</ItemName>
-      <ManufactureName>סנו מפעלי ברונו בעמ</ManufactureName>
-      <ManufactureCountry>IL</ManufactureCountry>
-      <ManufactureItemDescription>מגבוני רצפה בריח מרכך כביסה</ManufactureItemDescription>
-      <UnitQty>קילוגרם</UnitQty>
-      <Quantity>1</Quantity>
-      <UnitOfMeasure>1</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>12.9</ItemPrice>
-      <UnitOfMeasurePrice>12.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -98259,7 +97916,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>22.9</ItemPrice>
       <UnitOfMeasurePrice>22.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -101290,7 +100947,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>36.9</ItemPrice>
       <UnitOfMeasurePrice>12.3</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -102086,7 +101743,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>28.9</ItemPrice>
       <UnitOfMeasurePrice>5.35</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -102372,7 +102029,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>55.9</ItemPrice>
       <UnitOfMeasurePrice>11.18</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -104001,7 +103658,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>23.27</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -104638,7 +104295,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>29.8</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -106350,7 +106007,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>36.9</ItemPrice>
       <UnitOfMeasurePrice>12.3</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -106997,25 +106654,6 @@ Bakery with p</ManufactureItemDescription>
       <ItemPrice>6.9</ItemPrice>
       <UnitOfMeasurePrice>4.6</UnitOfMeasurePrice>
       <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2022-09-23T13:16:19.000</PriceUpdateTime>
-      <ItemCode>7290014472235</ItemCode>
-      <LastSaleDateTime>2026-05-08T11:06:19.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>אגוזי פקאן מסוכרים 200 גרם</ItemName>
-      <ManufactureName />
-      <ManufactureCountry>IL</ManufactureCountry>
-      <ManufactureItemDescription>אגוזי פקאן מסוכרים 200 גרם</ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>250</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>27.9</ItemPrice>
-      <UnitOfMeasurePrice>11.16</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -108747,7 +108385,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>10.9</ItemPrice>
       <UnitOfMeasurePrice>2.73</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -108804,7 +108442,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>27.9</ItemPrice>
       <UnitOfMeasurePrice>9.3</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -109203,7 +108841,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>5.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -109260,7 +108898,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>12.9</ItemPrice>
       <UnitOfMeasurePrice>6.45</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -113527,25 +113165,6 @@ Bakery with p</ManufactureItemDescription>
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2022-06-16T09:01:09.000</PriceUpdateTime>
-      <ItemCode>7290016144017</ItemCode>
-      <LastSaleDateTime>2026-05-08T07:57:20.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>קמח חיטה מלא 100%</ItemName>
-      <ManufactureName>קמח מלכים בע"מ</ManufactureName>
-      <ManufactureCountry>IL</ManufactureCountry>
-      <ManufactureItemDescription>קמח נפלאות חיטה מלא 100%</ManufactureItemDescription>
-      <UnitQty>קילוגרם</UnitQty>
-      <Quantity>1</Quantity>
-      <UnitOfMeasure>קילוגרם 1</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>10.9</ItemPrice>
-      <UnitOfMeasurePrice>10.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2022-01-29T23:41:44.000</PriceUpdateTime>
       <ItemCode>7290016144024</ItemCode>
       <LastSaleDateTime>2026-07-24T12:50:20.000</LastSaleDateTime>
@@ -113865,7 +113484,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>9.45</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -114531,7 +114150,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>6.63</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -114551,7 +114170,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.9</ItemPrice>
       <UnitOfMeasurePrice>15.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -114609,7 +114228,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>5.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -114628,7 +114247,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>5.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -114685,7 +114304,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>5.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -116441,25 +116060,6 @@ Bakery with p</ManufactureItemDescription>
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2026-01-05T13:45:07.000</PriceUpdateTime>
-      <ItemCode>7290016492415</ItemCode>
-      <LastSaleDateTime>2026-05-08T13:42:33.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>בורגול עם עדשים </ItemName>
-      <ManufactureName>תבליני פרג בע"מ</ManufactureName>
-      <ManufactureCountry>IL</ManufactureCountry>
-      <ManufactureItemDescription>פרג בורגול עם עדשים 500 גרם</ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>500</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>22.9</ItemPrice>
-      <UnitOfMeasurePrice>4.58</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2022-01-29T22:45:51.000</PriceUpdateTime>
       <ItemCode>7290016509304</ItemCode>
       <LastSaleDateTime>2026-06-16T08:20:46.000</LastSaleDateTime>
@@ -116494,7 +116094,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>5.63</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -116647,7 +116247,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>16.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -116666,7 +116266,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>16.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -116685,7 +116285,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>16.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -116780,7 +116380,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>22.2</ItemPrice>
       <UnitOfMeasurePrice>10.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -117125,7 +116725,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>6.63</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -117145,7 +116745,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>6.63</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -117168,7 +116768,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>6.63</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -117191,7 +116791,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>6.63</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -117210,7 +116810,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>6.63</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -117232,7 +116832,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>6.63</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -117251,7 +116851,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>6.63</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -117270,7 +116870,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>6.63</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -117289,7 +116889,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>6.63</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -117358,25 +116958,6 @@ Bakery with p</ManufactureItemDescription>
       <ManufactureName>DE MICLEN</ManufactureName>
       <ManufactureCountry>SK</ManufactureCountry>
       <ManufactureItemDescription>משחת שיניים פרודונטקס אוריגינל 75 מ"ל משחת שיניים </ManufactureItemDescription>
-      <UnitQty>מיליליטר</UnitQty>
-      <Quantity>75</Quantity>
-      <UnitOfMeasure>מיליליטר 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>33.9</ItemPrice>
-      <UnitOfMeasurePrice>45.2</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-09-14T07:40:07.000</PriceUpdateTime>
-      <ItemCode>7290016866667</ItemCode>
-      <LastSaleDateTime>2026-05-08T11:17:27.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>משחת שיניים פרודונטקס ללא פלאוריד 75מל</ItemName>
-      <ManufactureName>DE MICLEN</ManufactureName>
-      <ManufactureCountry>SK</ManufactureCountry>
-      <ManufactureItemDescription>פרודונטקס משחת שיניים ללא פלאוריד 75 מ"ל,משחת שיני</ManufactureItemDescription>
       <UnitQty>מיליליטר</UnitQty>
       <Quantity>75</Quantity>
       <UnitOfMeasure>מיליליטר 100</UnitOfMeasure>
@@ -118897,25 +118478,6 @@ Bakery with p</ManufactureItemDescription>
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2022-01-30T00:43:21.000</PriceUpdateTime>
-      <ItemCode>7290017088631</ItemCode>
-      <LastSaleDateTime>2026-05-08T13:18:43.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>תולי מגבונים ללא בישום</ItemName>
-      <ManufactureName>DPL</ManufactureName>
-      <ManufactureCountry>IL</ManufactureCountry>
-      <ManufactureItemDescription>תולי מגבונים ללא בישום רביעייה</ManufactureItemDescription>
-      <UnitQty>יחידות</UnitQty>
-      <Quantity>4</Quantity>
-      <UnitOfMeasure>יחידות 1</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>12.9</ItemPrice>
-      <UnitOfMeasurePrice>3.23</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2025-12-15T09:33:13.000</PriceUpdateTime>
       <ItemCode>7290017088693</ItemCode>
       <LastSaleDateTime>2026-08-04T17:59:58.000</LastSaleDateTime>
@@ -118951,7 +118513,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>1.49</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -118970,7 +118532,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>1.79</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -118989,7 +118551,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>1.79</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -119008,7 +118570,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>1.79</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -119027,7 +118589,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>69.9</ItemPrice>
       <UnitOfMeasurePrice>6.99</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -119046,7 +118608,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>69.9</ItemPrice>
       <UnitOfMeasurePrice>6.99</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -119065,7 +118627,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>65.9</ItemPrice>
       <UnitOfMeasurePrice>6.59</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -119407,7 +118969,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>5.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -119464,7 +119026,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>5.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -120254,7 +119816,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>8.28</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -121452,25 +121014,6 @@ Bakery with p</ManufactureItemDescription>
       <ItemPrice>15</ItemPrice>
       <UnitOfMeasurePrice>15</UnitOfMeasurePrice>
       <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-01-12T11:06:26.000</PriceUpdateTime>
-      <ItemCode>7290017724027</ItemCode>
-      <LastSaleDateTime>2026-05-08T13:09:51.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>עוגיות אלפא חורס 300ג</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>גרם</UnitQty>
-      <Quantity>300</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>27.9</ItemPrice>
-      <UnitOfMeasurePrice>9.3</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -122782,7 +122325,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>9.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -122801,7 +122344,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>9.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -122820,7 +122363,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>9.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -122839,7 +122382,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>9.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -122858,7 +122401,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>69.3</ItemPrice>
       <UnitOfMeasurePrice>75.33</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -123048,7 +122591,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>4.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -123067,7 +122610,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>16.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -123391,7 +122934,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>13.96</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -123410,7 +122953,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>2</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -123448,7 +122991,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>3.51</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -123467,7 +123010,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>3.51</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -123486,7 +123029,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>3.51</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -124307,25 +123850,6 @@ Bakery with p</ManufactureItemDescription>
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2025-03-13T07:17:05.000</PriceUpdateTime>
-      <ItemCode>7290018131312</ItemCode>
-      <LastSaleDateTime>2026-05-08T10:34:35.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>לה קרמריה שוקו וניל פרווה 1.4ליטר כשל"</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>ליטר</UnitQty>
-      <Quantity>1.4</Quantity>
-      <UnitOfMeasure>ליטר 1</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>29.9</ItemPrice>
-      <UnitOfMeasurePrice>21.36</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2025-04-06T14:37:55.000</PriceUpdateTime>
       <ItemCode>7290018131343</ItemCode>
       <LastSaleDateTime>2026-06-02T12:53:19.000</LastSaleDateTime>
@@ -124954,7 +124478,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>28.9</ItemPrice>
       <UnitOfMeasurePrice>4.82</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -125011,7 +124535,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>27.9</ItemPrice>
       <UnitOfMeasurePrice>8.72</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -125448,7 +124972,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>39.9</ItemPrice>
       <UnitOfMeasurePrice>5.28</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -125467,7 +124991,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>39.9</ItemPrice>
       <UnitOfMeasurePrice>5.28</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -125562,7 +125086,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>7.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -125581,7 +125105,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>39.9</ItemPrice>
       <UnitOfMeasurePrice>9.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -126536,7 +126060,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>12.9</ItemPrice>
       <UnitOfMeasurePrice>12.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -126555,7 +126079,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>12.9</ItemPrice>
       <UnitOfMeasurePrice>12.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -126745,7 +126269,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>16.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -129068,7 +128592,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>16.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -129087,7 +128611,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>15.75</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -129144,7 +128668,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>18.25</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -129182,7 +128706,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>16.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -129201,7 +128725,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>18.25</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -132236,7 +131760,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>12.9</ItemPrice>
       <UnitOfMeasurePrice>12.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -132255,7 +131779,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>12.9</ItemPrice>
       <UnitOfMeasurePrice>12.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -132616,7 +132140,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>3.78</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -132635,7 +132159,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>5.56</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -132825,7 +132349,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>27.9</ItemPrice>
       <UnitOfMeasurePrice>7.97</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -132844,7 +132368,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>27.9</ItemPrice>
       <UnitOfMeasurePrice>8.72</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -132882,7 +132406,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>27.9</ItemPrice>
       <UnitOfMeasurePrice>7.97</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -132901,7 +132425,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>37.9</ItemPrice>
       <UnitOfMeasurePrice>6.32</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -132977,7 +132501,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>37.9</ItemPrice>
       <UnitOfMeasurePrice>6.32</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -133129,7 +132653,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>37.9</ItemPrice>
       <UnitOfMeasurePrice>6.32</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -133148,7 +132672,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>37.9</ItemPrice>
       <UnitOfMeasurePrice>6.32</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -133849,7 +133373,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>3.38</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -133868,7 +133392,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>3.38</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -133887,7 +133411,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>3.38</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -133906,7 +133430,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>3.38</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -135222,7 +134746,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>49.9</ItemPrice>
       <UnitOfMeasurePrice>14.58</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -135317,7 +134841,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>39.9</ItemPrice>
       <UnitOfMeasurePrice>5.28</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -135412,7 +134936,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>9.9</ItemPrice>
       <UnitOfMeasurePrice>0.83</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -135830,7 +135354,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>6.23</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -135849,7 +135373,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>6.23</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -136040,7 +135564,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>20.9</ItemPrice>
       <UnitOfMeasurePrice>17.42</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -136059,7 +135583,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>20.9</ItemPrice>
       <UnitOfMeasurePrice>17.42</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -138874,7 +138398,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>13.91</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -138969,7 +138493,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>13.91</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -139428,7 +138952,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>12.9</ItemPrice>
       <UnitOfMeasurePrice>4.3</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -141311,7 +140835,7 @@ CRAZY PICKLES
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>99.9</ItemPrice>
       <UnitOfMeasurePrice>14.23</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -143949,7 +143473,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>2.25</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -144486,7 +144010,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>5.24</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -145424,7 +144948,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>34.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -145462,7 +144986,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>16.95</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -145481,7 +145005,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>27.9</ItemPrice>
       <UnitOfMeasurePrice>13.95</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -148283,7 +147807,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>56.9</ItemPrice>
       <UnitOfMeasurePrice>18.97</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -148302,7 +147826,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>52.9</ItemPrice>
       <UnitOfMeasurePrice>17.63</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -150986,7 +150510,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>20.9</ItemPrice>
       <UnitOfMeasurePrice>26.13</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -151005,7 +150529,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>26.9</ItemPrice>
       <UnitOfMeasurePrice>6.73</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -151024,7 +150548,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>4.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -151043,7 +150567,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>25.9</ItemPrice>
       <UnitOfMeasurePrice>6.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -151423,7 +150947,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>28.9</ItemPrice>
       <UnitOfMeasurePrice>8.26</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -151442,7 +150966,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>28.9</ItemPrice>
       <UnitOfMeasurePrice>8.26</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -156342,7 +155866,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>19.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -156914,7 +156438,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>11.9</ItemPrice>
       <UnitOfMeasurePrice>7.93</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -157052,7 +156576,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>8.8</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -157858,7 +157382,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>59.9</ItemPrice>
       <UnitOfMeasurePrice>34.23</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -157915,7 +157439,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>59.8</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -157972,7 +157496,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>39.9</ItemPrice>
       <UnitOfMeasurePrice>39.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -157991,7 +157515,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>39.9</ItemPrice>
       <UnitOfMeasurePrice>39.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -158048,7 +157572,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>8.92</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -158086,7 +157610,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>9.69</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -158107,7 +157631,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>8.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -158145,7 +157669,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>5.47</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -158164,7 +157688,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>5.47</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -158183,7 +157707,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>12.46</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -158207,25 +157731,6 @@ BBQ TASTE
     </Item>
     <Item>
       <PriceUpdateTime>2024-08-28T12:24:08.000</PriceUpdateTime>
-      <ItemCode>7290109581118</ItemCode>
-      <LastSaleDateTime>2026-05-08T13:42:33.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>קציצות עוף ברוטב אדום מאדאם פרז</ItemName>
-      <ManufactureName />
-      <ManufactureCountry>IL</ManufactureCountry>
-      <ManufactureItemDescription>קציצות עוף ברוטב אדום מאדאם פרז</ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>390</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>33.9</ItemPrice>
-      <UnitOfMeasurePrice>8.69</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2024-08-28T12:24:08.000</PriceUpdateTime>
       <ItemCode>7290109581132</ItemCode>
       <LastSaleDateTime>2026-07-15T17:59:31.000</LastSaleDateTime>
       <ItemType>1</ItemType>
@@ -158240,7 +157745,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>8.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -158261,7 +157766,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>8.69</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -158301,7 +157806,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>22.9</ItemPrice>
       <UnitOfMeasurePrice>9.16</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -158320,7 +157825,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>22.9</ItemPrice>
       <UnitOfMeasurePrice>9.16</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -158360,7 +157865,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>22.9</ItemPrice>
       <UnitOfMeasurePrice>7.63</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -158379,7 +157884,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>22.9</ItemPrice>
       <UnitOfMeasurePrice>7.63</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -158399,7 +157904,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>9.97</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -158418,7 +157923,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>9.97</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -158437,7 +157942,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>9.97</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -158476,7 +157981,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>27.9</ItemPrice>
       <UnitOfMeasurePrice>5.58</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -158557,7 +158062,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>14.54</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -158601,7 +158106,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>10.58</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -159007,7 +158512,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>2.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -159045,7 +158550,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>3.38</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -159064,7 +158569,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>9.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -159083,7 +158588,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>9.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -159254,7 +158759,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>2.92</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -159273,7 +158778,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>4.38</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -159368,7 +158873,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>32.9</ItemPrice>
       <UnitOfMeasurePrice>2.06</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -159444,7 +158949,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>16.27</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -159634,7 +159139,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>16.27</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -159654,7 +159159,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>56.9</ItemPrice>
       <UnitOfMeasurePrice>9.03</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -159692,7 +159197,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>1.33</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -159749,7 +159254,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>26.9</ItemPrice>
       <UnitOfMeasurePrice>6.73</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -159768,7 +159273,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>59.9</ItemPrice>
       <UnitOfMeasurePrice>7.58</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -161257,7 +160762,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>30.9</ItemPrice>
       <UnitOfMeasurePrice>10.92</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -164333,25 +163838,6 @@ BBQ TASTE
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2025-01-27T09:47:20.000</PriceUpdateTime>
-      <ItemCode>7290110577896</ItemCode>
-      <LastSaleDateTime>2026-05-08T10:01:07.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>קפסולות צאי מסאלה עלית 14יח</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>גרם</UnitQty>
-      <Quantity>50</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>20.5</ItemPrice>
-      <UnitOfMeasurePrice>41</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2026-05-28T08:41:06.000</PriceUpdateTime>
       <ItemCode>7290110578053</ItemCode>
       <LastSaleDateTime>2026-08-07T13:05:29.000</LastSaleDateTime>
@@ -164747,7 +164233,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>6.63</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -164864,7 +164350,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>17.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -164883,7 +164369,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>0.05</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -165135,7 +164621,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>18.72</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -165845,7 +165331,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>26.9</ItemPrice>
       <UnitOfMeasurePrice>0.34</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -165864,7 +165350,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>26.9</ItemPrice>
       <UnitOfMeasurePrice>0.34</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -165978,7 +165464,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>18.72</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -165997,7 +165483,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>18.72</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -169133,7 +168619,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>36.9</ItemPrice>
       <UnitOfMeasurePrice>49.2</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -169979,25 +169465,6 @@ BBQ TASTE
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2026-01-22T14:12:23.000</PriceUpdateTime>
-      <ItemCode>7290112345981</ItemCode>
-      <LastSaleDateTime>2026-05-08T08:22:01.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>קופון יוגרוט 750מ"ל דלי</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>קילוגרם</UnitQty>
-      <Quantity>1</Quantity>
-      <UnitOfMeasure>1</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>0.01</ItemPrice>
-      <UnitOfMeasurePrice>0.01</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2026-05-28T08:41:06.000</PriceUpdateTime>
       <ItemCode>7290112346629</ItemCode>
       <LastSaleDateTime>2026-07-24T12:39:16.000</LastSaleDateTime>
@@ -170508,7 +169975,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>3.97</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -170527,7 +169994,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>3.97</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -170993,7 +170460,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>26.9</ItemPrice>
       <UnitOfMeasurePrice>6.73</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -171297,7 +170764,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>13.56</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -171317,7 +170784,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>13.56</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -171337,7 +170804,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>11.96</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -171356,7 +170823,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>9.39</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -171375,7 +170842,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>9.39</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -171742,7 +171209,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>2.57</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -171761,7 +171228,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>2.57</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -171932,7 +171399,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>26.9</ItemPrice>
       <UnitOfMeasurePrice>6.73</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -173057,7 +172524,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>28.9</ItemPrice>
       <UnitOfMeasurePrice>8.26</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -175248,7 +174715,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>33.2</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -175305,7 +174772,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>36.9</ItemPrice>
       <UnitOfMeasurePrice>49.2</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -175324,7 +174791,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>36.9</ItemPrice>
       <UnitOfMeasurePrice>49.2</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -175343,7 +174810,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>31.9</ItemPrice>
       <UnitOfMeasurePrice>42.53</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -175362,7 +174829,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>31.9</ItemPrice>
       <UnitOfMeasurePrice>42.53</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -175400,7 +174867,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>32.9</ItemPrice>
       <UnitOfMeasurePrice>43.87</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -175419,7 +174886,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>32.9</ItemPrice>
       <UnitOfMeasurePrice>43.87</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -175438,7 +174905,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>31.9</ItemPrice>
       <UnitOfMeasurePrice>42.53</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -175457,7 +174924,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>31.9</ItemPrice>
       <UnitOfMeasurePrice>42.53</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -182542,7 +182009,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>13.96</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -182569,7 +182036,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>13.96</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -182594,7 +182061,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>13.96</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -182634,7 +182101,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>39.9</ItemPrice>
       <UnitOfMeasurePrice>17.35</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -182655,7 +182122,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>39.9</ItemPrice>
       <UnitOfMeasurePrice>17.35</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -183054,7 +182521,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>9.39</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -184302,7 +183769,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>11.58</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -184474,7 +183941,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>11.9</ItemPrice>
       <UnitOfMeasurePrice>9.92</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -184531,7 +183998,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>4.65</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -184550,7 +184017,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>4.65</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -186321,28 +185788,6 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>9.7</ItemPrice>
       <UnitOfMeasurePrice>1.21</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-07-27T10:54:21.000</PriceUpdateTime>
-      <ItemCode>7290116935447</ItemCode>
-      <LastSaleDateTime>2026-05-08T15:07:53.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>פלח צ'דר, 200 גרם
-</ItemName>
-      <ManufactureName>תנובה בע"מ
-</ManufactureName>
-      <ManufactureCountry>GB</ManufactureCountry>
-      <ManufactureItemDescription>פלח צ'דר, 200 גרם
-</ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>200</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>22.9</ItemPrice>
-      <UnitOfMeasurePrice>11.45</UnitOfMeasurePrice>
       <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
@@ -188752,7 +188197,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>12.9</ItemPrice>
       <UnitOfMeasurePrice>6.45</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -188868,25 +188313,6 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>6.23</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-06-23T10:10:46.000</PriceUpdateTime>
-      <ItemCode>7290117264904</ItemCode>
-      <LastSaleDateTime>2026-05-08T10:49:51.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>תותים בציפוי שוקולד</ItemName>
-      <ManufactureName />
-      <ManufactureCountry>GS</ManufactureCountry>
-      <ManufactureItemDescription>תותים בציפוי שוקולד מריר 150 גרם - מוקפא (פרווה)</ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>150</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>20.9</ItemPrice>
-      <UnitOfMeasurePrice>13.93</UnitOfMeasurePrice>
       <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
@@ -189385,25 +188811,6 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>12.9</ItemPrice>
       <UnitOfMeasurePrice>12.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-12-01T06:13:18.000</PriceUpdateTime>
-      <ItemCode>7290117267387</ItemCode>
-      <LastSaleDateTime>2026-05-08T12:46:22.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>אפונה ירוקה בינונית במי מלח 550גר</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>גרם</UnitQty>
-      <Quantity>550</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>9.9</ItemPrice>
-      <UnitOfMeasurePrice>1.8</UnitOfMeasurePrice>
       <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
@@ -191419,25 +190826,6 @@ BBQ TASTE
     </Item>
     <Item>
       <PriceUpdateTime>2024-09-09T19:16:30.000</PriceUpdateTime>
-      <ItemCode>7290117907597</ItemCode>
-      <LastSaleDateTime>2026-05-08T14:32:49.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>שקדים בציפוי שוקולד מריר </ItemName>
-      <ManufactureName />
-      <ManufactureCountry>IL</ManufactureCountry>
-      <ManufactureItemDescription>שקדים בציפוי שוקולד מריר 180 גרם</ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>180</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>19.9</ItemPrice>
-      <UnitOfMeasurePrice>11.06</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2024-09-09T19:16:30.000</PriceUpdateTime>
       <ItemCode>7290117907603</ItemCode>
       <LastSaleDateTime>2026-07-02T17:44:42.000</LastSaleDateTime>
       <ItemType>1</ItemType>
@@ -191642,25 +191030,6 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>46.9</ItemPrice>
       <UnitOfMeasurePrice>24.68</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2023-11-01T13:14:12.000</PriceUpdateTime>
-      <ItemCode>7290118303107</ItemCode>
-      <LastSaleDateTime>2026-05-08T12:19:14.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>נר הבדלה.</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>קילוגרם</UnitQty>
-      <Quantity>1</Quantity>
-      <UnitOfMeasure>1</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>19.9</ItemPrice>
-      <UnitOfMeasurePrice>19.9</UnitOfMeasurePrice>
       <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
@@ -194592,25 +193961,6 @@ BBQ TASTE
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2024-07-10T17:38:58.000</PriceUpdateTime>
-      <ItemCode>7290119375233</ItemCode>
-      <LastSaleDateTime>2026-05-08T12:08:53.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>סימפוניה 16% עם זיתי קלמטה</ItemName>
-      <ManufactureName>שטראוס בריאות בע"מ</ManufactureName>
-      <ManufactureCountry>IL</ManufactureCountry>
-      <ManufactureItemDescription>סימפוניה 16% עם זיתי קלמטה</ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>200</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>12.9</ItemPrice>
-      <UnitOfMeasurePrice>6.45</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2025-01-24T07:14:25.000</PriceUpdateTime>
       <ItemCode>7290119375356</ItemCode>
       <LastSaleDateTime>2026-08-03T18:43:05.000</LastSaleDateTime>
@@ -194721,25 +194071,6 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>18.27</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-02-13T16:22:57.000</PriceUpdateTime>
-      <ItemCode>7290119376643</ItemCode>
-      <LastSaleDateTime>2026-05-08T10:31:43.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>דנונה מולטי עם אפרסק</ItemName>
-      <ManufactureName>שטראוס בריאות בע"מ</ManufactureName>
-      <ManufactureCountry>IL</ManufactureCountry>
-      <ManufactureItemDescription>דנונה מולטי עם אפרסק 200 גר</ManufactureItemDescription>
-      <UnitQty>מיליליטר</UnitQty>
-      <Quantity>200</Quantity>
-      <UnitOfMeasure>מיליליטר 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>5.9</ItemPrice>
-      <UnitOfMeasurePrice>2.95</UnitOfMeasurePrice>
       <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
@@ -195246,25 +194577,6 @@ BBQ TASTE
       <ManufactureName>שטראוס בריאות בע"מ</ManufactureName>
       <ManufactureCountry>IL</ManufactureCountry>
       <ManufactureItemDescription>דנונה פרו 20  גרם חלבון עם שכבה בטעם פירות יער</ManufactureItemDescription>
-      <UnitQty>מיליליטר</UnitQty>
-      <Quantity>215</Quantity>
-      <UnitOfMeasure>מיליליטר 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>7.5</ItemPrice>
-      <UnitOfMeasurePrice>3.49</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2026-03-03T08:42:05.000</PriceUpdateTime>
-      <ItemCode>7290119380800</ItemCode>
-      <LastSaleDateTime>2026-05-08T06:18:35.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>פרו עם שכבה בטעם מנגו</ItemName>
-      <ManufactureName>שטראוס בריאות בע"מ</ManufactureName>
-      <ManufactureCountry>IL</ManufactureCountry>
-      <ManufactureItemDescription>דנונה פרו 20 גרם חלבון עם שכבה בטעם מנגו</ManufactureItemDescription>
       <UnitQty>מיליליטר</UnitQty>
       <Quantity>215</Quantity>
       <UnitOfMeasure>מיליליטר 100</UnitOfMeasure>
@@ -197748,7 +197060,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>11.9</ItemPrice>
       <UnitOfMeasurePrice>5.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -198052,7 +197364,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>11.9</ItemPrice>
       <UnitOfMeasurePrice>11.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -198071,7 +197383,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>11.9</ItemPrice>
       <UnitOfMeasurePrice>11.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -198090,7 +197402,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>11.9</ItemPrice>
       <UnitOfMeasurePrice>11.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -198128,7 +197440,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>11.9</ItemPrice>
       <UnitOfMeasurePrice>11.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -198396,7 +197708,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>12.9</ItemPrice>
       <UnitOfMeasurePrice>12.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -198624,25 +197936,6 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>7.5</ItemPrice>
       <UnitOfMeasurePrice>4.8</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-10-30T18:56:11.000</PriceUpdateTime>
-      <ItemCode>7290119778843</ItemCode>
-      <LastSaleDateTime>2026-05-08T12:21:19.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>שוופס מי טוניק בטעם אפרסק 1.5 ל</ItemName>
-      <ManufactureName>יפאורה תבורי בע"מ</ManufactureName>
-      <ManufactureCountry>IL</ManufactureCountry>
-      <ManufactureItemDescription>שוופס טוניק אפרסק 1.5 ליטר</ManufactureItemDescription>
-      <UnitQty>ליטר</UnitQty>
-      <Quantity>1.5</Quantity>
-      <UnitOfMeasure>ליטר 1</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>12.9</ItemPrice>
-      <UnitOfMeasurePrice>8.4</UnitOfMeasurePrice>
       <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
@@ -201431,7 +200724,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.9</ItemPrice>
       <UnitOfMeasurePrice>15.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -204706,7 +203999,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>249</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -204801,7 +204094,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>24.93</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -204820,7 +204113,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>24.93</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -204840,7 +204133,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>23.27</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -204859,7 +204152,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>24.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -206528,7 +205821,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>7.96</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -206605,7 +205898,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>8.3</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -206624,7 +205917,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>8.3</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -206795,7 +206088,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>17.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -206873,7 +206166,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>2.33</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -208546,7 +207839,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>8.59</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -208565,7 +207858,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>13.22</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -208584,7 +207877,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>13.22</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -208603,7 +207896,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>13.22</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -208908,25 +208201,6 @@ BBQ TASTE
       <ItemPrice>10.9</ItemPrice>
       <UnitOfMeasurePrice>11.35</UnitOfMeasurePrice>
       <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-12-29T15:16:07.000</PriceUpdateTime>
-      <ItemCode>8000500170359</ItemCode>
-      <LastSaleDateTime>2026-05-08T11:50:45.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>ביצת הפתעה מקסי</ItemName>
-      <ManufactureName />
-      <ManufactureCountry>BE</ManufactureCountry>
-      <ManufactureItemDescription>קינדר ביצת הפתעה מקסי 100 גרם - חדי קרן </ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>100</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>24.9</ItemPrice>
-      <UnitOfMeasurePrice>24.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -209652,7 +208926,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>129.9</ItemPrice>
       <UnitOfMeasurePrice>12.99</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -210476,7 +209750,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>42.9</ItemPrice>
       <UnitOfMeasurePrice>1.43</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -211214,7 +210488,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>31.9</ItemPrice>
       <UnitOfMeasurePrice>16.36</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -211233,7 +210507,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>31.9</ItemPrice>
       <UnitOfMeasurePrice>16.36</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -211252,7 +210526,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>12.46</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -212064,7 +211338,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>79.9</ItemPrice>
       <UnitOfMeasurePrice>1.33</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -212881,7 +212155,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>39.9</ItemPrice>
       <UnitOfMeasurePrice>1.43</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -213242,7 +212516,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>6.3</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -213261,7 +212535,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>6.3</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -213280,7 +212554,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>6.3</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -213299,7 +212573,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>6.3</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -213318,7 +212592,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>5.91</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -213337,7 +212611,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>5.91</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -213356,7 +212630,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>5.35</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -213375,7 +212649,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>5.35</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -213394,7 +212668,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>5.35</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -214365,7 +213639,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>5.59</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -216137,7 +215411,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>25.9</ItemPrice>
       <UnitOfMeasurePrice>3.45</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -216176,7 +215450,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>2.39</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -216216,7 +215490,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>25.9</ItemPrice>
       <UnitOfMeasurePrice>3.45</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -216235,7 +215509,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>3.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -216254,7 +215528,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>3.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -217642,25 +216916,6 @@ BBQ TASTE
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>7.97</UnitOfMeasurePrice>
       <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2026-04-19T21:26:20.000</PriceUpdateTime>
-      <ItemCode>8447029000031</ItemCode>
-      <LastSaleDateTime>2026-05-08T12:28:00.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>אוכמניות</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>קילוגרם</UnitQty>
-      <Quantity>1</Quantity>
-      <UnitOfMeasure>1</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>19.9</ItemPrice>
-      <UnitOfMeasurePrice>19.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -219110,7 +218365,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>79.9</ItemPrice>
       <UnitOfMeasurePrice>1.13</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -219131,7 +218386,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>79.9</ItemPrice>
       <UnitOfMeasurePrice>0.83</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -219152,7 +218407,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>44.9</ItemPrice>
       <UnitOfMeasurePrice>1.15</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -219173,7 +218428,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>39.9</ItemPrice>
       <UnitOfMeasurePrice>0.97</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -219194,7 +218449,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>79.9</ItemPrice>
       <UnitOfMeasurePrice>0.8</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -220029,7 +219284,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>35.9</ItemPrice>
       <UnitOfMeasurePrice>13.3</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -220052,7 +219307,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>35.9</ItemPrice>
       <UnitOfMeasurePrice>13.3</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -220075,7 +219330,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>35.9</ItemPrice>
       <UnitOfMeasurePrice>13.3</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -220098,7 +219353,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>35.9</ItemPrice>
       <UnitOfMeasurePrice>13.3</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -220123,7 +219378,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>35.9</ItemPrice>
       <UnitOfMeasurePrice>13.3</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -220553,7 +219808,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>49.9</ItemPrice>
       <UnitOfMeasurePrice>49.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -220595,7 +219850,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>44.9</ItemPrice>
       <UnitOfMeasurePrice>9.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -220618,7 +219873,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>44.9</ItemPrice>
       <UnitOfMeasurePrice>9.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -220827,7 +220082,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>4.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -220847,25 +220102,6 @@ BBQ TASTE
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>33.8</UnitOfMeasurePrice>
       <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2026-02-26T12:11:36.000</PriceUpdateTime>
-      <ItemCode>8710847973970</ItemCode>
-      <LastSaleDateTime>2026-05-08T07:50:43.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>תחליב רחצה אלוורה</ItemName>
-      <ManufactureName>יוניליוור גרמניה GMBH &amp; CO OHG רחוב אלטר פוסטוג 25</ManufactureName>
-      <ManufactureCountry>DE</ManufactureCountry>
-      <ManufactureItemDescription>תחליב רחצה אלוורה ומי עץ שדר</ManufactureItemDescription>
-      <UnitQty>מיליליטר</UnitQty>
-      <Quantity>750</Quantity>
-      <UnitOfMeasure>מיליליטר 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>19.9</ItemPrice>
-      <UnitOfMeasurePrice>2.65</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -221207,7 +220443,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>40.56</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -221371,25 +220607,6 @@ BBQ TASTE
       <ManufactureName>נוטרישיה קאלק</ManufactureName>
       <ManufactureCountry>NL</ManufactureCountry>
       <ManufactureItemDescription>נוטרילון 1- 800 גרם</ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>800</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>69.9</ItemPrice>
-      <UnitOfMeasurePrice>8.74</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2023-05-16T07:25:34.000</PriceUpdateTime>
-      <ItemCode>8712400802512</ItemCode>
-      <LastSaleDateTime>2026-05-08T11:23:34.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>נוטרילון 2- 800 גרם</ItemName>
-      <ManufactureName>נוטרישיה קאלק</ManufactureName>
-      <ManufactureCountry>NL</ManufactureCountry>
-      <ManufactureItemDescription>נוטרילון 2- 800 גרם</ManufactureItemDescription>
       <UnitQty>גרם</UnitQty>
       <Quantity>800</Quantity>
       <UnitOfMeasure>גרם 100</UnitOfMeasure>
@@ -222114,7 +221331,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>7.45</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -222209,7 +221426,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>12.9</ItemPrice>
       <UnitOfMeasurePrice>2.8</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -222439,7 +221656,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>34.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -222477,7 +221694,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>34.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -224341,7 +223558,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>12.52</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -224360,7 +223577,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>12.52</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -224379,7 +223596,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>12.52</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -224398,7 +223615,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>12.8</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -224589,7 +223806,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>4.23</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -224876,7 +224093,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>17.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -224897,7 +224114,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>17.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -224936,7 +224153,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>4.63</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -224955,7 +224172,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>4.13</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -225593,7 +224810,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>2.56</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -225631,7 +224848,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>2.7</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -225688,7 +224905,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>2.56</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -225783,7 +225000,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>5.97</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -225840,7 +225057,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>32.9</ItemPrice>
       <UnitOfMeasurePrice>32.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -225859,7 +225076,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>32.9</ItemPrice>
       <UnitOfMeasurePrice>32.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -226448,7 +225665,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>49.9</ItemPrice>
       <UnitOfMeasurePrice>1.72</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -226467,7 +225684,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>49.9</ItemPrice>
       <UnitOfMeasurePrice>1.72</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -226525,7 +225742,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>54.9</ItemPrice>
       <UnitOfMeasurePrice>1.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -226544,7 +225761,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>54.9</ItemPrice>
       <UnitOfMeasurePrice>1.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -226582,7 +225799,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>44.9</ItemPrice>
       <UnitOfMeasurePrice>17.27</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -226601,7 +225818,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>44.9</ItemPrice>
       <UnitOfMeasurePrice>17.27</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -226620,7 +225837,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>44.9</ItemPrice>
       <UnitOfMeasurePrice>44.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -226639,7 +225856,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>44.9</ItemPrice>
       <UnitOfMeasurePrice>44.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -226658,7 +225875,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>44.9</ItemPrice>
       <UnitOfMeasurePrice>44.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -226677,7 +225894,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>44.9</ItemPrice>
       <UnitOfMeasurePrice>44.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -226696,7 +225913,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>44.9</ItemPrice>
       <UnitOfMeasurePrice>17.27</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -226715,7 +225932,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>44.9</ItemPrice>
       <UnitOfMeasurePrice>17.27</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -226734,7 +225951,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>44.9</ItemPrice>
       <UnitOfMeasurePrice>17.27</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -226867,7 +226084,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>25.9</ItemPrice>
       <UnitOfMeasurePrice>0.52</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
