@@ -404,25 +404,6 @@
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2022-01-29T19:37:16.000</PriceUpdateTime>
-      <ItemCode>274</ItemCode>
-      <LastSaleDateTime>2026-05-15T11:32:21.000</LastSaleDateTime>
-      <ItemType>0</ItemType>
-      <ItemName>צנון לבן</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>קילוגרם</UnitQty>
-      <Quantity>1</Quantity>
-      <UnitOfMeasure>1 קילוגרם</UnitOfMeasure>
-      <bIsWeighted>1</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>6.9</ItemPrice>
-      <UnitOfMeasurePrice>6.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2022-01-29T21:16:46.000</PriceUpdateTime>
       <ItemCode>293</ItemCode>
       <LastSaleDateTime>2026-06-18T17:45:17.000</LastSaleDateTime>
@@ -458,25 +439,6 @@
       <ItemPrice>17.3</ItemPrice>
       <UnitOfMeasurePrice>17.3</UnitOfMeasurePrice>
       <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-08-10T17:34:50.000</PriceUpdateTime>
-      <ItemCode>309</ItemCode>
-      <LastSaleDateTime>2026-05-15T12:28:37.000</LastSaleDateTime>
-      <ItemType>0</ItemType>
-      <ItemName>דג בס טרי שקיל</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>קילוגרם</UnitQty>
-      <Quantity>1</Quantity>
-      <UnitOfMeasure>1 קילוגרם</UnitOfMeasure>
-      <bIsWeighted>1</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>59.9</ItemPrice>
-      <UnitOfMeasurePrice>59.9</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -5478,25 +5440,6 @@
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2024-12-01T14:27:53.000</PriceUpdateTime>
-      <ItemCode>31129</ItemCode>
-      <LastSaleDateTime>2026-05-15T07:35:02.000</LastSaleDateTime>
-      <ItemType>0</ItemType>
-      <ItemName>חלה מתוקה</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>גרם</UnitQty>
-      <Quantity>260</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>13.9</ItemPrice>
-      <UnitOfMeasurePrice>5.35</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2024-12-01T12:57:05.000</PriceUpdateTime>
       <ItemCode>31143</ItemCode>
       <LastSaleDateTime>2026-06-07T13:44:31.000</LastSaleDateTime>
@@ -9331,7 +9274,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>6.9</ItemPrice>
       <UnitOfMeasurePrice>8.63</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -9369,7 +9312,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>6.9</ItemPrice>
       <UnitOfMeasurePrice>8.63</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -13655,7 +13598,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>11.9</ItemPrice>
       <UnitOfMeasurePrice>11.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -14575,7 +14518,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>10.9</ItemPrice>
       <UnitOfMeasurePrice>1.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -14613,7 +14556,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>10.9</ItemPrice>
       <UnitOfMeasurePrice>1.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -15185,7 +15128,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>2.4</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -22140,7 +22083,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>4.38</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -22349,7 +22292,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>13.28</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -22368,7 +22311,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>9.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -22501,7 +22444,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>105</ItemPrice>
       <UnitOfMeasurePrice>105</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -22520,7 +22463,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>20.9</ItemPrice>
       <UnitOfMeasurePrice>8.36</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -25030,7 +24973,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>47.9</ItemPrice>
       <UnitOfMeasurePrice>47.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -25049,7 +24992,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>98.9</ItemPrice>
       <UnitOfMeasurePrice>98.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -26889,26 +26832,6 @@
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2025-06-05T11:57:25.000</PriceUpdateTime>
-      <ItemCode>7290001338155</ItemCode>
-      <LastSaleDateTime>2026-05-15T07:50:44.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>קרם הגנה לפנים 50 SPF </ItemName>
-      <ManufactureName>מיוצר עי : מיוצר ע"י פאר פארם בע"מ, העמל
-. 17 א.ת </ManufactureName>
-      <ManufactureCountry>IL</ManufactureCountry>
-      <ManufactureItemDescription>סקין גארד קרם הגנה לפנים SPF50 לעור בהיר במיוחד </ManufactureItemDescription>
-      <UnitQty>מיליליטר</UnitQty>
-      <Quantity>60</Quantity>
-      <UnitOfMeasure>מיליליטר 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>41.9</ItemPrice>
-      <UnitOfMeasurePrice>69.83</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2024-02-11T09:06:14.000</PriceUpdateTime>
       <ItemCode>1343845</ItemCode>
       <LastSaleDateTime>2026-08-06T16:15:56.000</LastSaleDateTime>
@@ -27742,7 +27665,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>6.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -27761,7 +27684,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>6.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -28277,7 +28200,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.9</ItemPrice>
       <UnitOfMeasurePrice>8.17</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -28296,7 +28219,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.9</ItemPrice>
       <UnitOfMeasurePrice>8.91</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -30318,7 +30241,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>28.9</ItemPrice>
       <UnitOfMeasurePrice>11.56</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -30413,7 +30336,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>28.9</ItemPrice>
       <UnitOfMeasurePrice>11.56</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -30451,26 +30374,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>98.9</ItemPrice>
       <UnitOfMeasurePrice>98.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2026-05-04T07:01:57.000</PriceUpdateTime>
-      <ItemCode>2162407</ItemCode>
-      <LastSaleDateTime>2026-05-15T13:22:29.000</LastSaleDateTime>
-      <ItemType>0</ItemType>
-      <ItemName>סטייק עין מוכשר קפוא מס 1.</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>קילוגרם</UnitQty>
-      <Quantity>1</Quantity>
-      <UnitOfMeasure>1 קילוגרם</UnitOfMeasure>
-      <bIsWeighted>1</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>98.9</ItemPrice>
-      <UnitOfMeasurePrice>98.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -30508,7 +30412,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>46.9</ItemPrice>
       <UnitOfMeasurePrice>46.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -33289,25 +33193,6 @@
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2024-06-06T09:14:08.000</PriceUpdateTime>
-      <ItemCode>2512264</ItemCode>
-      <LastSaleDateTime>2026-05-15T10:13:12.000</LastSaleDateTime>
-      <ItemType>0</ItemType>
-      <ItemName>גחנון מופחת שומן 700ג צנעני</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>גרם</UnitQty>
-      <Quantity>600</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>19.9</ItemPrice>
-      <UnitOfMeasurePrice>3.32</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2024-02-29T16:00:31.000</PriceUpdateTime>
       <ItemCode>7290002515333</ItemCode>
       <LastSaleDateTime>2026-08-06T00:00:00.000</LastSaleDateTime>
@@ -33837,7 +33722,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>47.9</ItemPrice>
       <UnitOfMeasurePrice>47.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -34504,7 +34389,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.2</ItemPrice>
       <UnitOfMeasurePrice>11.2</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -34523,7 +34408,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.2</ItemPrice>
       <UnitOfMeasurePrice>11.2</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -36703,25 +36588,6 @@
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2022-01-30T00:14:24.000</PriceUpdateTime>
-      <ItemCode>3107353</ItemCode>
-      <LastSaleDateTime>2026-05-15T07:11:28.000</LastSaleDateTime>
-      <ItemType>0</ItemType>
-      <ItemName>משפר אפיה ביתי שמרים יבשים שטיבל 33ג</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>גרם</UnitQty>
-      <Quantity>33</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>5.9</ItemPrice>
-      <UnitOfMeasurePrice>17.88</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2025-06-17T14:50:27.000</PriceUpdateTime>
       <ItemCode>7290003121083</ItemCode>
       <LastSaleDateTime>2026-08-14T12:41:59.000</LastSaleDateTime>
@@ -37995,7 +37861,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>37.9</ItemPrice>
       <UnitOfMeasurePrice>7.58</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -38014,7 +37880,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>37.9</ItemPrice>
       <UnitOfMeasurePrice>9.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -38346,7 +38212,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>21.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -38879,7 +38745,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>99.9</ItemPrice>
       <UnitOfMeasurePrice>99.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -40535,7 +40401,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>2.52</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -40630,7 +40496,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>3.73</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -40668,7 +40534,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>3.58</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -43807,7 +43673,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>44.9</ItemPrice>
       <UnitOfMeasurePrice>44.9</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -43864,7 +43730,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>49.9</ItemPrice>
       <UnitOfMeasurePrice>49.9</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -43978,7 +43844,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>9.9</ItemPrice>
       <UnitOfMeasurePrice>9.9</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -44853,7 +44719,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>6.9</ItemPrice>
       <UnitOfMeasurePrice>6.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -45297,25 +45163,6 @@
     </Item>
     <Item>
       <PriceUpdateTime>2026-04-27T07:08:17.000</PriceUpdateTime>
-      <ItemCode>5079757</ItemCode>
-      <LastSaleDateTime>2026-05-15T07:16:08.000</LastSaleDateTime>
-      <ItemType>0</ItemType>
-      <ItemName>גבינה קממבר שקיל.</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>קילוגרם</UnitQty>
-      <Quantity>1</Quantity>
-      <UnitOfMeasure>1 קילוגרם</UnitOfMeasure>
-      <bIsWeighted>1</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>149</ItemPrice>
-      <UnitOfMeasurePrice>149</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2026-04-27T07:08:17.000</PriceUpdateTime>
       <ItemCode>5079764</ItemCode>
       <LastSaleDateTime>2026-05-20T20:59:49.000</LastSaleDateTime>
       <ItemType>0</ItemType>
@@ -45387,7 +45234,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>9.9</ItemPrice>
       <UnitOfMeasurePrice>4.3</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -45406,7 +45253,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>9.9</ItemPrice>
       <UnitOfMeasurePrice>6.6</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -45425,7 +45272,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>9.9</ItemPrice>
       <UnitOfMeasurePrice>4.71</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -45444,7 +45291,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>9.9</ItemPrice>
       <UnitOfMeasurePrice>7.07</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -45653,25 +45500,6 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>11.9</ItemPrice>
       <UnitOfMeasurePrice>2.38</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2023-06-19T09:48:44.000</PriceUpdateTime>
-      <ItemCode>5100987</ItemCode>
-      <LastSaleDateTime>2026-05-15T11:42:56.000</LastSaleDateTime>
-      <ItemType>0</ItemType>
-      <ItemName>לחמניה פילסברי קשר</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty />
-      <Quantity />
-      <UnitOfMeasure />
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>3</ItemPrice>
-      <UnitOfMeasurePrice>3</UnitOfMeasurePrice>
       <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
@@ -53108,7 +52936,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>150</ItemPrice>
       <UnitOfMeasurePrice>150</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -53146,7 +52974,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>26.9</ItemPrice>
       <UnitOfMeasurePrice>13.45</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -58871,7 +58699,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.2</ItemPrice>
       <UnitOfMeasurePrice>11.35</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -58932,7 +58760,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.2</ItemPrice>
       <UnitOfMeasurePrice>11.2</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -58953,7 +58781,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.2</ItemPrice>
       <UnitOfMeasurePrice>11.2</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -58973,7 +58801,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>3.8</ItemPrice>
       <UnitOfMeasurePrice>10.13</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -59601,7 +59429,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>8.52</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -59620,7 +59448,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>8.52</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -59639,7 +59467,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>8.52</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -59658,7 +59486,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>8.52</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -59677,7 +59505,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>8.52</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -68997,7 +68825,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>9.45</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69016,7 +68844,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>9.45</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69112,7 +68940,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>28.9</ItemPrice>
       <UnitOfMeasurePrice>23.12</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69132,7 +68960,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>28.9</ItemPrice>
       <UnitOfMeasurePrice>23.12</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69171,7 +68999,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>19.93</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -69190,7 +69018,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>19.93</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -71626,7 +71454,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>12.9</ItemPrice>
       <UnitOfMeasurePrice>12.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -71645,7 +71473,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>12.9</ItemPrice>
       <UnitOfMeasurePrice>12.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -72242,26 +72070,6 @@
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2024-07-19T12:23:05.000</PriceUpdateTime>
-      <ItemCode>4005808368280</ItemCode>
-      <LastSaleDateTime>2026-05-15T12:08:31.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>לבלו שפתון לחות דובדבן
-</ItemName>
-      <ManufactureName>BEIERSDORF HELLAS</ManufactureName>
-      <ManufactureCountry>DE</ManufactureCountry>
-      <ManufactureItemDescription>לבלו שפתון מעניק לחות מתמשכת, ברק עדין וטיפוח לשפת</ManufactureItemDescription>
-      <UnitQty>יחידות</UnitQty>
-      <Quantity>1</Quantity>
-      <UnitOfMeasure>יחידות 1</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>12.9</ItemPrice>
-      <UnitOfMeasurePrice>12.9</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2022-06-13T06:36:24.000</PriceUpdateTime>
       <ItemCode>4005808515554</ItemCode>
       <LastSaleDateTime>2026-08-14T14:16:25.000</LastSaleDateTime>
@@ -72721,26 +72529,6 @@
       <ManufactureName>BEIERSDORF HELLAS</ManufactureName>
       <ManufactureCountry>DE</ManufactureCountry>
       <ManufactureItemDescription>ניוואה דאודורנט רול און פרש אקטיב לגבר ללא אלומיני</ManufactureItemDescription>
-      <UnitQty>מיליליטר</UnitQty>
-      <Quantity>50</Quantity>
-      <UnitOfMeasure>מיליליטר 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>17.9</ItemPrice>
-      <UnitOfMeasurePrice>35.8</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2024-12-08T12:04:49.000</PriceUpdateTime>
-      <ItemCode>4005900845702</ItemCode>
-      <LastSaleDateTime>2026-05-15T12:08:16.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>ניוואה מן דאודורנט רול-און קול קיק פרש לגבר
-</ItemName>
-      <ManufactureName>ביירסדורף</ManufactureName>
-      <ManufactureCountry>DE</ManufactureCountry>
-      <ManufactureItemDescription>ניוואה קול קיק פרש. דאודורנט רול-און לגבר מסייע לש</ManufactureItemDescription>
       <UnitQty>מיליליטר</UnitQty>
       <Quantity>50</Quantity>
       <UnitOfMeasure>מיליליטר 100</UnitOfMeasure>
@@ -76153,25 +75941,6 @@
       <ManufactureName />
       <ManufactureCountry>LT</ManufactureCountry>
       <ManufactureItemDescription>גלידת שמנת בטעם מסקרפונה עם מילוי סירופ אוכמניות א</ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>440</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>27.9</ItemPrice>
-      <UnitOfMeasurePrice>6.34</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-02-16T07:45:49.000</PriceUpdateTime>
-      <ItemCode>4770166223068</ItemCode>
-      <LastSaleDateTime>2026-05-15T14:10:08.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>גלידה שמנת משובחת בטעם וניל "dadu"</ItemName>
-      <ManufactureName />
-      <ManufactureCountry>LT</ManufactureCountry>
-      <ManufactureItemDescription>גלידה שמנת משובחת בטעם וניל אריזה משפחתית 400 גרם </ManufactureItemDescription>
       <UnitQty>גרם</UnitQty>
       <Quantity>440</Quantity>
       <UnitOfMeasure>גרם 100</UnitOfMeasure>
@@ -82158,7 +81927,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>119.9</ItemPrice>
       <UnitOfMeasurePrice>17.09</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -82177,7 +81946,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>19.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -82482,7 +82251,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>8.42</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -82501,7 +82270,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>8.42</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -82520,7 +82289,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>8.42</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -82539,7 +82308,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>8.42</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -82558,7 +82327,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>8.42</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -82577,7 +82346,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>8.42</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -82596,7 +82365,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>8.42</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -87154,7 +86923,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>14.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -90477,7 +90246,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>9.9</ItemPrice>
       <UnitOfMeasurePrice>3.96</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -93992,7 +93761,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>9.45</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -94011,7 +93780,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>28.9</ItemPrice>
       <UnitOfMeasurePrice>5.78</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -94030,7 +93799,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>9.45</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -96314,7 +96083,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>16.6</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -96333,7 +96102,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>16.6</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -96352,7 +96121,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>16.6</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -96371,7 +96140,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>16.6</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -96865,7 +96634,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>8.9</ItemPrice>
       <UnitOfMeasurePrice>8.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -99999,7 +99768,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>32.9</ItemPrice>
       <UnitOfMeasurePrice>65.8</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -100075,7 +99844,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>45.9</ItemPrice>
       <UnitOfMeasurePrice>9.18</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -100094,7 +99863,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>56.9</ItemPrice>
       <UnitOfMeasurePrice>56.9</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -102222,7 +101991,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>20.9</ItemPrice>
       <UnitOfMeasurePrice>8.36</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -104907,7 +104676,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>36.9</ItemPrice>
       <UnitOfMeasurePrice>5.68</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -104926,7 +104695,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>39.9</ItemPrice>
       <UnitOfMeasurePrice>5.62</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -108869,25 +108638,6 @@ Bakery with p</ManufactureItemDescription>
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2025-04-08T17:26:54.000</PriceUpdateTime>
-      <ItemCode>7290015130288</ItemCode>
-      <LastSaleDateTime>2026-05-15T11:48:24.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>חטיף חלבון קראנצ' בטעם פאדג' שוקולד </ItemName>
-      <ManufactureName />
-      <ManufactureCountry>GB</ManufactureCountry>
-      <ManufactureItemDescription>WIN חטיף חלבון קראנצ' בטעם פאדג' שוקולד   64 גרם</ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>64</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>14.9</ItemPrice>
-      <UnitOfMeasurePrice>23.28</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2025-04-03T14:24:56.000</PriceUpdateTime>
       <ItemCode>7290015130301</ItemCode>
       <LastSaleDateTime>2026-07-19T12:27:37.000</LastSaleDateTime>
@@ -110083,7 +109833,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>22.9</ItemPrice>
       <UnitOfMeasurePrice>4.58</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -110102,7 +109852,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>22.9</ItemPrice>
       <UnitOfMeasurePrice>5.73</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -110693,7 +110443,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>41.9</ItemPrice>
       <UnitOfMeasurePrice>20.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -110712,7 +110462,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>41.9</ItemPrice>
       <UnitOfMeasurePrice>20.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -110731,7 +110481,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>41.9</ItemPrice>
       <UnitOfMeasurePrice>20.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -110750,7 +110500,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>41.9</ItemPrice>
       <UnitOfMeasurePrice>20.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -115680,25 +115430,6 @@ Bakery with p</ManufactureItemDescription>
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2023-09-21T16:22:53.000</PriceUpdateTime>
-      <ItemCode>7290016411782</ItemCode>
-      <LastSaleDateTime>2026-05-15T12:01:37.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>סלק עלים</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>קילוגרם</UnitQty>
-      <Quantity>1</Quantity>
-      <UnitOfMeasure>1‎ קילוגרם</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>6.9</ItemPrice>
-      <UnitOfMeasurePrice>6.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2025-10-28T08:39:23.000</PriceUpdateTime>
       <ItemCode>7290016437621</ItemCode>
       <LastSaleDateTime>2026-07-26T17:30:49.000</LastSaleDateTime>
@@ -117445,7 +117176,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>25.9</ItemPrice>
       <UnitOfMeasurePrice>25.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -117464,7 +117195,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>19.93</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -117540,7 +117271,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>26.9</ItemPrice>
       <UnitOfMeasurePrice>13.45</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -117578,7 +117309,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>3.32</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -117654,7 +117385,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>9.45</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -117673,7 +117404,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>28.9</ItemPrice>
       <UnitOfMeasurePrice>13.76</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -117713,7 +117444,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>26.9</ItemPrice>
       <UnitOfMeasurePrice>13.45</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -118534,7 +118265,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>10.9</ItemPrice>
       <UnitOfMeasurePrice>1.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -123449,7 +123180,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>39.9</ItemPrice>
       <UnitOfMeasurePrice>6.14</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -127317,7 +127048,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>11.41</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -127336,7 +127067,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>11.41</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -127375,7 +127106,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>30.9</ItemPrice>
       <UnitOfMeasurePrice>9.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -127508,7 +127239,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>9.58</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -127603,7 +127334,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>11.41</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -127853,25 +127584,6 @@ Bakery with p</ManufactureItemDescription>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>3.44</UnitOfMeasurePrice>
       <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2023-11-12T09:51:44.000</PriceUpdateTime>
-      <ItemCode>7290018893005</ItemCode>
-      <LastSaleDateTime>2026-05-15T09:28:44.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>סולטי ביגלה שטוח חרדל דבש 160</ItemName>
-      <ManufactureName>אלקה קו.</ManufactureName>
-      <ManufactureCountry>RO</ManufactureCountry>
-      <ManufactureItemDescription>צ'וקטה בייגלה שטוח חרדל ודבש 160 גרם</ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>200</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>8.9</ItemPrice>
-      <UnitOfMeasurePrice>4.45</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -128214,7 +127926,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>11.9</ItemPrice>
       <UnitOfMeasurePrice>9.92</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -129664,7 +129376,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>8.5</ItemPrice>
       <UnitOfMeasurePrice>5.47</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -129683,7 +129395,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>8.5</ItemPrice>
       <UnitOfMeasurePrice>5.47</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -129702,7 +129414,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>8.5</ItemPrice>
       <UnitOfMeasurePrice>5.47</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -129721,7 +129433,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>8.5</ItemPrice>
       <UnitOfMeasurePrice>5.47</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -129740,7 +129452,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>8.5</ItemPrice>
       <UnitOfMeasurePrice>5.47</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -131402,7 +131114,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>3.43</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -136349,7 +136061,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>25.9</ItemPrice>
       <UnitOfMeasurePrice>20.72</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -136370,7 +136082,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>9.45</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -136389,7 +136101,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>10.9</ItemPrice>
       <UnitOfMeasurePrice>10.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -136408,7 +136120,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>10.9</ItemPrice>
       <UnitOfMeasurePrice>10.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -136505,7 +136217,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>9.45</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -136524,7 +136236,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>9.45</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -136638,7 +136350,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>18.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -136735,7 +136447,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>20.9</ItemPrice>
       <UnitOfMeasurePrice>3.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -136773,7 +136485,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>3.32</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -137255,7 +136967,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>6.9</ItemPrice>
       <UnitOfMeasurePrice>6.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -137274,7 +136986,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>6.9</ItemPrice>
       <UnitOfMeasurePrice>6.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -137293,7 +137005,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>6.9</ItemPrice>
       <UnitOfMeasurePrice>6.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -137522,7 +137234,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>18.9</ItemPrice>
       <UnitOfMeasurePrice>3.78</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -137751,7 +137463,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>3.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -137982,7 +137694,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>28.9</ItemPrice>
       <UnitOfMeasurePrice>11.56</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -138020,7 +137732,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>35.9</ItemPrice>
       <UnitOfMeasurePrice>14.36</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -140086,7 +139798,7 @@ CRAZY PICKLES
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>41.9</ItemPrice>
       <UnitOfMeasurePrice>20.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -140105,7 +139817,7 @@ CRAZY PICKLES
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>41.9</ItemPrice>
       <UnitOfMeasurePrice>20.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -140124,7 +139836,7 @@ CRAZY PICKLES
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>42.9</ItemPrice>
       <UnitOfMeasurePrice>21.45</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -142312,7 +142024,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>5.9</ItemPrice>
       <UnitOfMeasurePrice>7.02</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -144852,7 +144564,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>16.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -144871,7 +144583,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>27.9</ItemPrice>
       <UnitOfMeasurePrice>13.95</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -147195,7 +146907,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>5.9</ItemPrice>
       <UnitOfMeasurePrice>5.36</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -148890,7 +148602,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>10.9</ItemPrice>
       <UnitOfMeasurePrice>5.89</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -148909,7 +148621,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>10.9</ItemPrice>
       <UnitOfMeasurePrice>5.89</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -149840,7 +149552,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.2</ItemPrice>
       <UnitOfMeasurePrice>6.46</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -149916,7 +149628,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>10.9</ItemPrice>
       <UnitOfMeasurePrice>5.89</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -162540,7 +162252,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.2</ItemPrice>
       <UnitOfMeasurePrice>6.46</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -163283,25 +162995,6 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.2</ItemPrice>
       <UnitOfMeasurePrice>2.8</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2022-12-26T14:20:11.000</PriceUpdateTime>
-      <ItemCode>7290110565435</ItemCode>
-      <LastSaleDateTime>2026-05-15T14:16:24.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>לימבו בטעם פטל 0% שומן</ItemName>
-      <ManufactureName>שטראוס בריאות בע"מ</ManufactureName>
-      <ManufactureCountry>IL</ManufactureCountry>
-      <ManufactureItemDescription>לימבו קינוח ג'לי בטעם פטל 0% שומן</ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>125</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>2.3</ItemPrice>
-      <UnitOfMeasurePrice>1.84</UnitOfMeasurePrice>
       <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
@@ -164274,7 +163967,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>0.08</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -166136,7 +165829,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>21.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -166155,7 +165848,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>21.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -169327,7 +169020,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.9</ItemPrice>
       <UnitOfMeasurePrice>8.17</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -169384,7 +169077,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.2</ItemPrice>
       <UnitOfMeasurePrice>6.46</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -172541,7 +172234,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>10.64</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -173073,7 +172766,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>6.9</ItemPrice>
       <UnitOfMeasurePrice>7.84</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -173092,7 +172785,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>6.9</ItemPrice>
       <UnitOfMeasurePrice>8.63</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -173111,7 +172804,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>6.9</ItemPrice>
       <UnitOfMeasurePrice>7.84</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -173301,7 +172994,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>9.93</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -173320,7 +173013,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>9.93</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -174923,25 +174616,6 @@ Households &amp; Cosmeti</ManufactureName>
       <ItemPrice>31.9</ItemPrice>
       <UnitOfMeasurePrice>42.53</UnitOfMeasurePrice>
       <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-06-08T19:04:14.000</PriceUpdateTime>
-      <ItemCode>7290113592032</ItemCode>
-      <LastSaleDateTime>2026-05-15T07:32:35.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>סט 12 נרות גדולים צבע ים</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>קילוגרם</UnitQty>
-      <Quantity>1</Quantity>
-      <UnitOfMeasure>1‎ קילוגרם</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>4.5</ItemPrice>
-      <UnitOfMeasurePrice>4.5</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -177981,7 +177655,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>2.39</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -178019,7 +177693,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>8.9</ItemPrice>
       <UnitOfMeasurePrice>1.78</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -178114,7 +177788,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>9.9</ItemPrice>
       <UnitOfMeasurePrice>5.66</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -178494,7 +178168,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.9</ItemPrice>
       <UnitOfMeasurePrice>0.12</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -179555,7 +179229,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.9</ItemPrice>
       <UnitOfMeasurePrice>3.66</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -179689,7 +179363,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.9</ItemPrice>
       <UnitOfMeasurePrice>3.57</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -179708,7 +179382,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.9</ItemPrice>
       <UnitOfMeasurePrice>3.57</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -179786,7 +179460,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.9</ItemPrice>
       <UnitOfMeasurePrice>3.09</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -179805,7 +179479,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.9</ItemPrice>
       <UnitOfMeasurePrice>6.57</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -179826,7 +179500,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.9</ItemPrice>
       <UnitOfMeasurePrice>3.38</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -181430,7 +181104,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>10.64</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -181449,7 +181123,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>9.93</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -181929,25 +181603,6 @@ Households &amp; Cosmeti</ManufactureName>
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2025-06-12T10:27:41.000</PriceUpdateTime>
-      <ItemCode>7290115480214</ItemCode>
-      <LastSaleDateTime>2026-05-15T15:01:51.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>מרכך כביסה מרוכז - ארומתרפי ג'ונגל</ItemName>
-      <ManufactureName>הנקל סוד בע"מ</ManufactureName>
-      <ManufactureCountry>IL</ManufactureCountry>
-      <ManufactureItemDescription>סוד מרכך כביסה מרוכז - ארומתרפי ג'ונגל</ManufactureItemDescription>
-      <UnitQty>מיליליטר</UnitQty>
-      <Quantity>90</Quantity>
-      <UnitOfMeasure>מיליליטר 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>13.9</ItemPrice>
-      <UnitOfMeasurePrice>15.44</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2024-10-20T12:35:57.000</PriceUpdateTime>
       <ItemCode>7290115480337</ItemCode>
       <LastSaleDateTime>2026-08-11T13:01:48.000</LastSaleDateTime>
@@ -182179,7 +181834,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.4</ItemPrice>
       <UnitOfMeasurePrice>6.29</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -182198,7 +181853,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.4</ItemPrice>
       <UnitOfMeasurePrice>6.29</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -184515,25 +184170,6 @@ Households &amp; Cosmeti</ManufactureName>
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2024-09-03T11:38:37.000</PriceUpdateTime>
-      <ItemCode>7290116856735</ItemCode>
-      <LastSaleDateTime>2026-05-15T11:25:10.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>שלישייה מנורות לד W15</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>קילוגרם</UnitQty>
-      <Quantity>1</Quantity>
-      <UnitOfMeasure>1‎ קילוגרם</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>24.9</ItemPrice>
-      <UnitOfMeasurePrice>24.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2024-10-08T09:56:54.000</PriceUpdateTime>
       <ItemCode>7290116856742</ItemCode>
       <LastSaleDateTime>2026-08-14T08:09:33.000</LastSaleDateTime>
@@ -186120,28 +185756,6 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>7.2</ItemPrice>
       <UnitOfMeasurePrice>3.6</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2026-04-17T06:29:39.000</PriceUpdateTime>
-      <ItemCode>7290116936161</ItemCode>
-      <LastSaleDateTime>2026-05-15T10:43:25.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>משקה GO וניל
-</ItemName>
-      <ManufactureName>תנובה בע"מ
-</ManufactureName>
-      <ManufactureCountry>IL</ManufactureCountry>
-      <ManufactureItemDescription>משקה GO בטעם וניל 20 גרם חלבון ללא תוספת סוכר
-</ManufactureItemDescription>
-      <UnitQty>מיליליטר</UnitQty>
-      <Quantity>340</Quantity>
-      <UnitOfMeasure>מיליליטר 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>8.9</ItemPrice>
-      <UnitOfMeasurePrice>2.62</UnitOfMeasurePrice>
       <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
@@ -189868,7 +189482,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>14.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -191202,7 +190816,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>12.9</ItemPrice>
       <UnitOfMeasurePrice>9.21</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -191644,25 +191258,6 @@ Households &amp; Cosmeti</ManufactureName>
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2024-12-15T18:09:52.000</PriceUpdateTime>
-      <ItemCode>7290118423843</ItemCode>
-      <LastSaleDateTime>2026-05-15T13:29:56.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>פתיבר פינוקים בטעם עוגת גבינה	</ItemName>
-      <ManufactureName>D"R gerard</ManufactureName>
-      <ManufactureCountry>PL</ManufactureCountry>
-      <ManufactureItemDescription>אסם פתי בר פינוקי עוגת גבינה 16*220גרם</ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>220</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>14.9</ItemPrice>
-      <UnitOfMeasurePrice>6.77</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2026-07-02T05:49:11.000</PriceUpdateTime>
       <ItemCode>7290118423966</ItemCode>
       <LastSaleDateTime>2026-08-14T13:07:17.000</LastSaleDateTime>
@@ -191716,25 +191311,6 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>5.3</ItemPrice>
       <UnitOfMeasurePrice>13.25</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-08-19T16:39:35.000</PriceUpdateTime>
-      <ItemCode>7290118424109</ItemCode>
-      <LastSaleDateTime>2026-05-15T13:18:24.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>חטיף במבה ביסלי ברביקיו כלפ</ItemName>
-      <ManufactureName>אסם השקעות בע"מ</ManufactureName>
-      <ManufactureCountry>IL</ManufactureCountry>
-      <ManufactureItemDescription>חטיף במבה ביסלי ברביקיו כל"פ אריזה רגילה</ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>70</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>5.9</ItemPrice>
-      <UnitOfMeasurePrice>8.43</UnitOfMeasurePrice>
       <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
@@ -193445,7 +193021,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>9.9</ItemPrice>
       <UnitOfMeasurePrice>5.35</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -193521,7 +193097,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.4</ItemPrice>
       <UnitOfMeasurePrice>6.29</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -193540,7 +193116,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.9</ItemPrice>
       <UnitOfMeasurePrice>9.8</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -193692,7 +193268,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.4</ItemPrice>
       <UnitOfMeasurePrice>9.78</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -193711,7 +193287,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.4</ItemPrice>
       <UnitOfMeasurePrice>9.78</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -193977,7 +193553,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.4</ItemPrice>
       <UnitOfMeasurePrice>6.29</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -193996,7 +193572,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.2</ItemPrice>
       <UnitOfMeasurePrice>6.46</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -194148,25 +193724,6 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>7.82</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-08-18T08:23:44.000</PriceUpdateTime>
-      <ItemCode>7290119376582</ItemCode>
-      <LastSaleDateTime>2026-05-15T11:20:46.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>ספלנדיד קרמל ואגוזי לוז</ItemName>
-      <ManufactureName>שטראוס גרופ בע"מ</ManufactureName>
-      <ManufactureCountry>IL</ManufactureCountry>
-      <ManufactureItemDescription>ספלנדיד חלב במילוי קרם בטעם קרמל ושברי אגוזי לוז</ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>98</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>17.9</ItemPrice>
-      <UnitOfMeasurePrice>18.27</UnitOfMeasurePrice>
       <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
@@ -194908,7 +194465,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>3.9</ItemPrice>
       <UnitOfMeasurePrice>7.09</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -194965,7 +194522,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>9.9</ItemPrice>
       <UnitOfMeasurePrice>5.35</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -194984,7 +194541,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>9.9</ItemPrice>
       <UnitOfMeasurePrice>5.35</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -195003,7 +194560,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>10.9</ItemPrice>
       <UnitOfMeasurePrice>5.89</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -197823,7 +197380,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>8.5</ItemPrice>
       <UnitOfMeasurePrice>5.47</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -199923,7 +199480,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>3.75</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -201694,7 +201251,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>6.5</ItemPrice>
       <UnitOfMeasurePrice>7.39</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -201713,7 +201270,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>6.5</ItemPrice>
       <UnitOfMeasurePrice>8.13</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -201846,7 +201403,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>12.9</ItemPrice>
       <UnitOfMeasurePrice>9.21</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -201884,25 +201441,6 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>10.9</ItemPrice>
       <UnitOfMeasurePrice>4.84</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2026-03-03T14:53:20.000</PriceUpdateTime>
-      <ItemCode>7290122783032</ItemCode>
-      <LastSaleDateTime>2026-05-15T14:13:11.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>פיטנס פריכיות מצופות שוקולד כלפ</ItemName>
-      <ManufactureName>טחנת האבן</ManufactureName>
-      <ManufactureCountry>IL</ManufactureCountry>
-      <ManufactureItemDescription>פיטנס פריכיות מצופות שוקולד כלפ 60גרם</ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>60</Quantity>
-      <UnitOfMeasure>גרם 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>10.9</ItemPrice>
-      <UnitOfMeasurePrice>18.17</UnitOfMeasurePrice>
       <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
@@ -206644,25 +206182,6 @@ Households &amp; Cosmeti</ManufactureName>
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2025-07-30T08:28:09.000</PriceUpdateTime>
-      <ItemCode>7891024179482</ItemCode>
-      <LastSaleDateTime>2026-05-15T09:45:26.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>מי פה אופטיק ווייט חיוך זוהר</ItemName>
-      <ManufactureName>קולגייט- פלמוליב</ManufactureName>
-      <ManufactureCountry>PL</ManufactureCountry>
-      <ManufactureItemDescription>מי פה אופטיק וייט לחיוך זוהר</ManufactureItemDescription>
-      <UnitQty>מיליליטר</UnitQty>
-      <Quantity>500</Quantity>
-      <UnitOfMeasure>מיליליטר 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>26.9</ItemPrice>
-      <UnitOfMeasurePrice>5.38</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2024-05-21T07:47:27.000</PriceUpdateTime>
       <ItemCode>8000020000365</ItemCode>
       <LastSaleDateTime>2026-07-10T14:03:57.000</LastSaleDateTime>
@@ -207081,7 +206600,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>12.9</ItemPrice>
       <UnitOfMeasurePrice>12.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -207100,7 +206619,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>14.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -209789,25 +209308,6 @@ Households &amp; Cosmeti</ManufactureName>
       <ItemStatus />
     </Item>
     <Item>
-      <PriceUpdateTime>2024-08-22T10:15:44.000</PriceUpdateTime>
-      <ItemCode>8001841694382</ItemCode>
-      <LastSaleDateTime>2026-05-15T12:00:47.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>פנטן מסכה לצבע מלא חיים  300מ"ל</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>מיליליטר</UnitQty>
-      <Quantity>300</Quantity>
-      <UnitOfMeasure>מיליליטר 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>32.9</ItemPrice>
-      <UnitOfMeasurePrice>10.97</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
       <PriceUpdateTime>2025-10-21T09:09:19.000</PriceUpdateTime>
       <ItemCode>8001841694429</ItemCode>
       <LastSaleDateTime>2026-08-07T13:07:40.000</LastSaleDateTime>
@@ -211002,7 +210502,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>12.9</ItemPrice>
       <UnitOfMeasurePrice>6.45</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -211116,7 +210616,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>25.9</ItemPrice>
       <UnitOfMeasurePrice>6.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -212397,25 +211897,6 @@ Households &amp; Cosmeti</ManufactureName>
       <ItemPrice>35.9</ItemPrice>
       <UnitOfMeasurePrice>10.52</UnitOfMeasurePrice>
       <AllowDiscount>1</AllowDiscount>
-      <ItemStatus />
-    </Item>
-    <Item>
-      <PriceUpdateTime>2023-01-11T15:06:09.000</PriceUpdateTime>
-      <ItemCode>8006890690293</ItemCode>
-      <LastSaleDateTime>2026-05-15T13:50:26.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>בירה מורטי 330מ"ל בודד</ItemName>
-      <ManufactureName />
-      <ManufactureCountry />
-      <ManufactureItemDescription />
-      <UnitQty>מיליליטר</UnitQty>
-      <Quantity>330</Quantity>
-      <UnitOfMeasure>מיליליטר 100</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>1</QtyInPackage>
-      <ItemPrice>7.9</ItemPrice>
-      <UnitOfMeasurePrice>2.3</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -214780,7 +214261,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>8.52</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -214837,7 +214318,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>4.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -214857,7 +214338,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>3.58</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -215048,7 +214529,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>9.9</ItemPrice>
       <UnitOfMeasurePrice>1.92</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -221180,7 +220661,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>1.99</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -222256,7 +221737,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>33.2</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -224819,7 +224300,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>9.9</ItemPrice>
       <UnitOfMeasurePrice>24.75</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -224838,7 +224319,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>9.9</ItemPrice>
       <UnitOfMeasurePrice>24.75</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -225199,7 +224680,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>14.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -225218,7 +224699,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>14.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -225237,7 +224718,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>14.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -225256,7 +224737,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>14.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -225275,7 +224756,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>14.9</ItemPrice>
       <UnitOfMeasurePrice>14.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
