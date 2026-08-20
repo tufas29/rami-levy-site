@@ -11673,17 +11673,6 @@
               <DiscountedPricePerMida>9.950</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
             </PromotionItem>
-            <PromotionItem>
-              <ItemCode>8718951461444</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>3</RewardType>
-              <MinQty>1</MinQty>
-              <MaxQty/>
-              <DiscountRate>33.44</DiscountRate>
-              <DiscountedPrice>19.90</DiscountedPrice>
-              <DiscountedPricePerMida>9.950</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
           </PromotionItems>
         </Group>
       </Groups>
@@ -17560,19 +17549,19 @@
       </Groups>
     </Promotion>
     <Promotion>
-      <PromotionUpdateTime>2026-08-16T00:00:00.000</PromotionUpdateTime>
+      <PromotionUpdateTime>2026-08-19T00:00:00.000</PromotionUpdateTime>
       <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
-      <PromotionID>0001115564</PromotionID>
-      <PromotionDescription>פילה סלמון טרי  אושר פיש  89.90 מוג 4</PromotionDescription>
-      <PromotionStartDateTime>2026-08-16T00:00:00.000</PromotionStartDateTime>
-      <PromotionEndDateTime>2026-08-23T23:59:00.000</PromotionEndDateTime>
+      <PromotionID>0003115937</PromotionID>
+      <PromotionDescription>מאגדת רביעיה מיני אייס  פלדמן  2 ב 20</PromotionDescription>
+      <PromotionStartDateTime>2026-08-19T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-10-03T23:59:00.000</PromotionEndDateTime>
       <PromotionStartHour/>
       <PromotionEndHour/>
       <PromotionDays/>
-      <RedemptionLimit>40</RedemptionLimit>
+      <RedemptionLimit/>
       <MinNoOfItemOffered>10</MinNoOfItemOffered>
       <ClubID>0</ClubID>
-      <IsGiftItem/>
+      <IsGiftItem>2</IsGiftItem>
       <AdditionalIsCoupon>0</AdditionalIsCoupon>
       <AdditionalRestrictions/>
       <Remarks/>
@@ -17583,15 +17572,26 @@
           <DiscountType/>
           <PromotionItems>
             <PromotionItem>
-              <ItemCode>7290008545877</ItemCode>
+              <ItemCode>7290101114680</ItemCode>
               <ItemType>1</ItemType>
-              <RewardType>3</RewardType>
-              <MinQty>0.010</MinQty>
-              <MaxQty>40</MaxQty>
-              <DiscountRate>10.01</DiscountRate>
-              <DiscountedPrice>89.90</DiscountedPrice>
-              <DiscountedPricePerMida>89.900</DiscountedPricePerMida>
-              <bIsWeighted>1</bIsWeighted>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>44.13</DiscountRate>
+              <DiscountedPrice>20.00</DiscountedPrice>
+              <DiscountedPricePerMida>1000.000</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290101114697</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>44.13</DiscountRate>
+              <DiscountedPrice>20.00</DiscountedPrice>
+              <DiscountedPricePerMida>1000.000</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
         </Group>
@@ -30089,44 +30089,6 @@
       </Groups>
     </Promotion>
     <Promotion>
-      <PromotionUpdateTime>2026-08-03T00:00:00.000</PromotionUpdateTime>
-      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
-      <PromotionID>0001114512</PromotionID>
-      <PromotionDescription>תרסיס סופר קלינר למטבח  יעקובי  2 ב 30</PromotionDescription>
-      <PromotionStartDateTime>2026-08-03T00:00:00.000</PromotionStartDateTime>
-      <PromotionEndDateTime>2026-10-03T23:59:00.000</PromotionEndDateTime>
-      <PromotionStartHour/>
-      <PromotionEndHour/>
-      <PromotionDays/>
-      <RedemptionLimit/>
-      <MinNoOfItemOffered>10</MinNoOfItemOffered>
-      <ClubID>0</ClubID>
-      <IsGiftItem>2</IsGiftItem>
-      <AdditionalIsCoupon>0</AdditionalIsCoupon>
-      <AdditionalRestrictions/>
-      <Remarks/>
-      <Groups>
-        <Group>
-          <GroupID>1</GroupID>
-          <MinPurchaseAmount>0.00</MinPurchaseAmount>
-          <DiscountType/>
-          <PromotionItems>
-            <PromotionItem>
-              <ItemCode>8420822132475</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>1</RewardType>
-              <MinQty>2</MinQty>
-              <MaxQty/>
-              <DiscountRate>24.62</DiscountRate>
-              <DiscountedPrice>30.00</DiscountedPrice>
-              <DiscountedPricePerMida>2.000</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-          </PromotionItems>
-        </Group>
-      </Groups>
-    </Promotion>
-    <Promotion>
       <PromotionUpdateTime>2026-08-18T00:00:00.000</PromotionUpdateTime>
       <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
       <PromotionID>0001115892</PromotionID>
@@ -30350,44 +30312,6 @@
               <DiscountRate>16.20</DiscountRate>
               <DiscountedPrice>30.00</DiscountedPrice>
               <DiscountedPricePerMida>2.000</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-          </PromotionItems>
-        </Group>
-      </Groups>
-    </Promotion>
-    <Promotion>
-      <PromotionUpdateTime>2026-08-03T00:00:00.000</PromotionUpdateTime>
-      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
-      <PromotionID>0001114515</PromotionID>
-      <PromotionDescription>משחת  קולגייט  ילדים סמיילס 2 ב 20</PromotionDescription>
-      <PromotionStartDateTime>2026-08-03T00:00:00.000</PromotionStartDateTime>
-      <PromotionEndDateTime>2026-10-03T23:59:00.000</PromotionEndDateTime>
-      <PromotionStartHour/>
-      <PromotionEndHour/>
-      <PromotionDays/>
-      <RedemptionLimit/>
-      <MinNoOfItemOffered>10</MinNoOfItemOffered>
-      <ClubID>0</ClubID>
-      <IsGiftItem>2</IsGiftItem>
-      <AdditionalIsCoupon>0</AdditionalIsCoupon>
-      <AdditionalRestrictions/>
-      <Remarks/>
-      <Groups>
-        <Group>
-          <GroupID>1</GroupID>
-          <MinPurchaseAmount>0.00</MinPurchaseAmount>
-          <DiscountType/>
-          <PromotionItems>
-            <PromotionItem>
-              <ItemCode>8718951170445</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>1</RewardType>
-              <MinQty>2</MinQty>
-              <MaxQty/>
-              <DiscountRate>8.26</DiscountRate>
-              <DiscountedPrice>20.00</DiscountedPrice>
-              <DiscountedPricePerMida>20.000</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
@@ -44088,6 +44012,66 @@
       </Groups>
     </Promotion>
     <Promotion>
+      <PromotionUpdateTime>2026-08-19T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001115922</PromotionID>
+      <PromotionDescription>פריכיות  פיטנס  2 ב 14</PromotionDescription>
+      <PromotionStartDateTime>2026-08-19T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-09-12T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour/>
+      <PromotionEndHour/>
+      <PromotionDays/>
+      <RedemptionLimit/>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem>2</IsGiftItem>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290118422181</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>11.39</DiscountRate>
+              <DiscountedPrice>14.00</DiscountedPrice>
+              <DiscountedPricePerMida>11.667</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290118422204</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>11.39</DiscountRate>
+              <DiscountedPrice>14.00</DiscountedPrice>
+              <DiscountedPricePerMida>11.667</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290118424147</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>11.39</DiscountRate>
+              <DiscountedPrice>14.00</DiscountedPrice>
+              <DiscountedPricePerMida>11.667</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
       <PromotionUpdateTime>2026-08-13T00:00:00.000</PromotionUpdateTime>
       <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
       <PromotionID>0001115323</PromotionID>
@@ -44119,55 +44103,6 @@
               <DiscountRate>7.15</DiscountRate>
               <DiscountedPrice>129.90</DiscountedPrice>
               <DiscountedPricePerMida>129.900</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-          </PromotionItems>
-        </Group>
-      </Groups>
-    </Promotion>
-    <Promotion>
-      <PromotionUpdateTime>2026-08-04T00:00:00.000</PromotionUpdateTime>
-      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
-      <PromotionID>0001114771</PromotionID>
-      <PromotionDescription>משחת  קולגייט  סנסטיב פרו רליף  2 ב 20</PromotionDescription>
-      <PromotionStartDateTime>2026-08-04T00:00:00.000</PromotionStartDateTime>
-      <PromotionEndDateTime>2026-10-31T23:59:00.000</PromotionEndDateTime>
-      <PromotionStartHour/>
-      <PromotionEndHour/>
-      <PromotionDays/>
-      <RedemptionLimit/>
-      <MinNoOfItemOffered>10</MinNoOfItemOffered>
-      <ClubID>0</ClubID>
-      <IsGiftItem>2</IsGiftItem>
-      <AdditionalIsCoupon>0</AdditionalIsCoupon>
-      <AdditionalRestrictions/>
-      <Remarks/>
-      <Groups>
-        <Group>
-          <GroupID>1</GroupID>
-          <MinPurchaseAmount>0.00</MinPurchaseAmount>
-          <DiscountType/>
-          <PromotionItems>
-            <PromotionItem>
-              <ItemCode>7891024123492</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>10</RewardType>
-              <MinQty>2</MinQty>
-              <MaxQty/>
-              <DiscountRate>40.83</DiscountRate>
-              <DiscountedPrice>20.00</DiscountedPrice>
-              <DiscountedPricePerMida>0.133</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
-              <ItemCode>7891024124253</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>10</RewardType>
-              <MinQty>2</MinQty>
-              <MaxQty/>
-              <DiscountRate>40.83</DiscountRate>
-              <DiscountedPrice>20.00</DiscountedPrice>
-              <DiscountedPricePerMida>13.333</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
@@ -45491,6 +45426,77 @@
       </Groups>
     </Promotion>
     <Promotion>
+      <PromotionUpdateTime>2026-08-19T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001115923</PromotionID>
+      <PromotionDescription>משקה שיבולת שועל  אלטרנטיב  1 ל  2 ב 22-</PromotionDescription>
+      <PromotionStartDateTime>2026-08-19T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-10-03T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour/>
+      <PromotionEndHour/>
+      <PromotionDays/>
+      <RedemptionLimit/>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem>2</IsGiftItem>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290110325619</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>9.84</DiscountRate>
+              <DiscountedPrice>22.00</DiscountedPrice>
+              <DiscountedPricePerMida>11.000</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290110327514</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>9.84</DiscountRate>
+              <DiscountedPrice>22.00</DiscountedPrice>
+              <DiscountedPricePerMida>11.000</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290116932842</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>9.84</DiscountRate>
+              <DiscountedPrice>22.00</DiscountedPrice>
+              <DiscountedPricePerMida>11.000</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290116933894</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>9.84</DiscountRate>
+              <DiscountedPrice>22.00</DiscountedPrice>
+              <DiscountedPricePerMida>11.000</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
       <PromotionUpdateTime>2026-08-16T00:00:00.000</PromotionUpdateTime>
       <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
       <PromotionID>0001115647</PromotionID>
@@ -45843,6 +45849,44 @@
               <DiscountRate>24.75</DiscountRate>
               <DiscountedPrice>45.00</DiscountedPrice>
               <DiscountedPricePerMida>22.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
+      <PromotionUpdateTime>2026-08-19T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001115924</PromotionID>
+      <PromotionDescription>תירס גמדי  וילי פוד  2 ב 14</PromotionDescription>
+      <PromotionStartDateTime>2026-08-19T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-10-03T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour/>
+      <PromotionEndHour/>
+      <PromotionDays/>
+      <RedemptionLimit/>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem>2</IsGiftItem>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290003578177</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>1</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>9.09</DiscountRate>
+              <DiscountedPrice>14.00</DiscountedPrice>
+              <DiscountedPricePerMida>1.707</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
@@ -47695,6 +47739,110 @@
       </Groups>
     </Promotion>
     <Promotion>
+      <PromotionUpdateTime>2026-08-19T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001115927</PromotionID>
+      <PromotionDescription>חטיף קראנצ שוקולד ביסקויט  פרה  2 ב 13</PromotionDescription>
+      <PromotionStartDateTime>2026-08-19T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-10-03T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour/>
+      <PromotionEndHour/>
+      <PromotionDays/>
+      <RedemptionLimit/>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem>2</IsGiftItem>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290105363572</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>23.53</DiscountRate>
+              <DiscountedPrice>13.00</DiscountedPrice>
+              <DiscountedPricePerMida>6.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290105364784</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>23.53</DiscountRate>
+              <DiscountedPrice>13.00</DiscountedPrice>
+              <DiscountedPricePerMida>6.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290112331984</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>23.53</DiscountRate>
+              <DiscountedPrice>13.00</DiscountedPrice>
+              <DiscountedPricePerMida>6.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290119376001</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>23.53</DiscountRate>
+              <DiscountedPrice>13.00</DiscountedPrice>
+              <DiscountedPricePerMida>6.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290119377657</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>23.53</DiscountRate>
+              <DiscountedPrice>13.00</DiscountedPrice>
+              <DiscountedPricePerMida>6.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290119383733</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>23.53</DiscountRate>
+              <DiscountedPrice>13.00</DiscountedPrice>
+              <DiscountedPricePerMida>6.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290119384068</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>23.53</DiscountRate>
+              <DiscountedPrice>13.00</DiscountedPrice>
+              <DiscountedPricePerMida>6.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
       <PromotionUpdateTime>2026-08-13T00:00:00.000</PromotionUpdateTime>
       <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
       <PromotionID>0001115240</PromotionID>
@@ -48660,6 +48808,88 @@
               <DiscountRate>12.05</DiscountRate>
               <DiscountedPrice>21.90</DiscountedPrice>
               <DiscountedPricePerMida>9.522</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
+      <PromotionUpdateTime>2026-08-19T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001115928</PromotionID>
+      <PromotionDescription>תרסיס  מקסימה  למייבש 2 ב 25</PromotionDescription>
+      <PromotionStartDateTime>2026-08-19T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-10-03T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour/>
+      <PromotionEndHour/>
+      <PromotionDays/>
+      <RedemptionLimit/>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem>2</IsGiftItem>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290004731557</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>21.38</DiscountRate>
+              <DiscountedPrice>25.00</DiscountedPrice>
+              <DiscountedPricePerMida>1.667</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290004731564</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>21.38</DiscountRate>
+              <DiscountedPrice>25.00</DiscountedPrice>
+              <DiscountedPricePerMida>0.017</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290005423253</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>21.38</DiscountRate>
+              <DiscountedPrice>25.00</DiscountedPrice>
+              <DiscountedPricePerMida>0.017</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290108354089</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>21.38</DiscountRate>
+              <DiscountedPrice>25.00</DiscountedPrice>
+              <DiscountedPricePerMida>1.667</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290108358827</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>21.38</DiscountRate>
+              <DiscountedPrice>25.00</DiscountedPrice>
+              <DiscountedPricePerMida>1.667</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
@@ -51047,6 +51277,44 @@
       </Groups>
     </Promotion>
     <Promotion>
+      <PromotionUpdateTime>2026-08-19T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001115930</PromotionID>
+      <PromotionDescription>סטייק פרגית טרי הכפר 2 ב 100</PromotionDescription>
+      <PromotionStartDateTime>2026-08-19T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-08-24T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour/>
+      <PromotionEndHour/>
+      <PromotionDays/>
+      <RedemptionLimit/>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem/>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290004093198</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>1.900</MinQty>
+              <MaxQty/>
+              <DiscountRate>16.53</DiscountRate>
+              <DiscountedPrice>95.00</DiscountedPrice>
+              <DiscountedPricePerMida>50.000</DiscountedPricePerMida>
+              <bIsWeighted>1</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
       <PromotionUpdateTime>2026-08-17T00:00:00.000</PromotionUpdateTime>
       <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
       <PromotionID>0001115258</PromotionID>
@@ -51100,6 +51368,44 @@
               <DiscountRate>28.61</DiscountRate>
               <DiscountedPrice>49.90</DiscountedPrice>
               <DiscountedPricePerMida>49.900</DiscountedPricePerMida>
+              <bIsWeighted>1</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
+      <PromotionUpdateTime>2026-08-19T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001115931</PromotionID>
+      <PromotionDescription>פילה סלמון טרי  אושר פיש  79.90 מוג 4</PromotionDescription>
+      <PromotionStartDateTime>2026-08-19T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-09-12T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour/>
+      <PromotionEndHour/>
+      <PromotionDays/>
+      <RedemptionLimit>40</RedemptionLimit>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem/>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290008545877</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>0.010</MinQty>
+              <MaxQty>40</MaxQty>
+              <DiscountRate>20.02</DiscountRate>
+              <DiscountedPrice>79.90</DiscountedPrice>
+              <DiscountedPricePerMida>79.900</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
@@ -51647,6 +51953,44 @@
       </Groups>
     </Promotion>
     <Promotion>
+      <PromotionUpdateTime>2026-08-19T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001115932</PromotionID>
+      <PromotionDescription>פילה סלמון מנות  אושר פיש  99.90 מוג 4</PromotionDescription>
+      <PromotionStartDateTime>2026-08-19T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-09-12T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour/>
+      <PromotionEndHour/>
+      <PromotionDays/>
+      <RedemptionLimit>40</RedemptionLimit>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem/>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290008545891</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>0.010</MinQty>
+              <MaxQty>40</MaxQty>
+              <DiscountRate>9.10</DiscountRate>
+              <DiscountedPrice>99.90</DiscountedPrice>
+              <DiscountedPricePerMida>99.900</DiscountedPricePerMida>
+              <bIsWeighted>1</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
       <PromotionUpdateTime>2026-08-04T00:00:00.000</PromotionUpdateTime>
       <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
       <PromotionID>0001114699</PromotionID>
@@ -51679,6 +52023,44 @@
               <DiscountedPrice>14.00</DiscountedPrice>
               <DiscountedPricePerMida>7.000</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
+      <PromotionUpdateTime>2026-08-19T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001115933</PromotionID>
+      <PromotionDescription>פילה סלמון ללא עור  אושר פיש 109.9 מוג 4</PromotionDescription>
+      <PromotionStartDateTime>2026-08-19T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-09-12T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour/>
+      <PromotionEndHour/>
+      <PromotionDays/>
+      <RedemptionLimit>40</RedemptionLimit>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem/>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290008545884</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>0.010</MinQty>
+              <MaxQty>40</MaxQty>
+              <DiscountRate>8.34</DiscountRate>
+              <DiscountedPrice>109.90</DiscountedPrice>
+              <DiscountedPricePerMida>109.900</DiscountedPricePerMida>
+              <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
         </Group>
@@ -51731,28 +52113,6 @@
             </PromotionItem>
             <PromotionItem>
               <ItemCode>7290005426193</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>10</RewardType>
-              <MinQty>2</MinQty>
-              <MaxQty/>
-              <DiscountRate>9.09</DiscountRate>
-              <DiscountedPrice>18.00</DiscountedPrice>
-              <DiscountedPricePerMida>9.000</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
-              <ItemCode>7290005426230</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>10</RewardType>
-              <MinQty>2</MinQty>
-              <MaxQty/>
-              <DiscountRate>9.09</DiscountRate>
-              <DiscountedPrice>18.00</DiscountedPrice>
-              <DiscountedPricePerMida>9.000</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
-              <ItemCode>7290108353686</ItemCode>
               <ItemType>1</ItemType>
               <RewardType>10</RewardType>
               <MinQty>2</MinQty>
@@ -51918,88 +52278,6 @@
               <DiscountRate>19.71</DiscountRate>
               <DiscountedPrice>22.00</DiscountedPrice>
               <DiscountedPricePerMida>11.000</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-          </PromotionItems>
-        </Group>
-      </Groups>
-    </Promotion>
-    <Promotion>
-      <PromotionUpdateTime>2026-08-04T00:00:00.000</PromotionUpdateTime>
-      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
-      <PromotionID>0001114707</PromotionID>
-      <PromotionDescription>תרסיס  מקסימה  למייבש 2 ב 30</PromotionDescription>
-      <PromotionStartDateTime>2026-08-04T00:00:00.000</PromotionStartDateTime>
-      <PromotionEndDateTime>2026-10-03T23:59:00.000</PromotionEndDateTime>
-      <PromotionStartHour/>
-      <PromotionEndHour/>
-      <PromotionDays/>
-      <RedemptionLimit/>
-      <MinNoOfItemOffered>10</MinNoOfItemOffered>
-      <ClubID>0</ClubID>
-      <IsGiftItem>2</IsGiftItem>
-      <AdditionalIsCoupon>0</AdditionalIsCoupon>
-      <AdditionalRestrictions/>
-      <Remarks/>
-      <Groups>
-        <Group>
-          <GroupID>1</GroupID>
-          <MinPurchaseAmount>0.00</MinPurchaseAmount>
-          <DiscountType/>
-          <PromotionItems>
-            <PromotionItem>
-              <ItemCode>7290004731557</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>10</RewardType>
-              <MinQty>2</MinQty>
-              <MaxQty/>
-              <DiscountRate>5.66</DiscountRate>
-              <DiscountedPrice>30.00</DiscountedPrice>
-              <DiscountedPricePerMida>2.000</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
-              <ItemCode>7290004731564</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>10</RewardType>
-              <MinQty>2</MinQty>
-              <MaxQty/>
-              <DiscountRate>5.66</DiscountRate>
-              <DiscountedPrice>30.00</DiscountedPrice>
-              <DiscountedPricePerMida>0.020</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
-              <ItemCode>7290005423253</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>10</RewardType>
-              <MinQty>2</MinQty>
-              <MaxQty/>
-              <DiscountRate>5.66</DiscountRate>
-              <DiscountedPrice>30.00</DiscountedPrice>
-              <DiscountedPricePerMida>0.020</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
-              <ItemCode>7290108354089</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>10</RewardType>
-              <MinQty>2</MinQty>
-              <MaxQty/>
-              <DiscountRate>5.66</DiscountRate>
-              <DiscountedPrice>30.00</DiscountedPrice>
-              <DiscountedPricePerMida>2.000</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
-              <ItemCode>7290108358827</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>10</RewardType>
-              <MinQty>2</MinQty>
-              <MaxQty/>
-              <DiscountRate>5.66</DiscountRate>
-              <DiscountedPrice>30.00</DiscountedPrice>
-              <DiscountedPricePerMida>2.000</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
@@ -52197,6 +52475,44 @@
               <DiscountedPrice>16.00</DiscountedPrice>
               <DiscountedPricePerMida>8.000</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
+      <PromotionUpdateTime>2026-08-19T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001115934</PromotionID>
+      <PromotionDescription>לשון קפוא  טאק טורו  34.90 מוג 6</PromotionDescription>
+      <PromotionStartDateTime>2026-08-19T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-10-03T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour/>
+      <PromotionEndHour/>
+      <PromotionDays/>
+      <RedemptionLimit>60</RedemptionLimit>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem/>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290001131121</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>0.010</MinQty>
+              <MaxQty>60</MaxQty>
+              <DiscountRate>41.74</DiscountRate>
+              <DiscountedPrice>34.90</DiscountedPrice>
+              <DiscountedPricePerMida>34.900</DiscountedPricePerMida>
+              <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
         </Group>
@@ -52421,6 +52737,44 @@
       </Groups>
     </Promotion>
     <Promotion>
+      <PromotionUpdateTime>2026-08-19T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001115935</PromotionID>
+      <PromotionDescription>בשר 8 שריר קפוא  טאק טורו  34.90 מוג 6</PromotionDescription>
+      <PromotionStartDateTime>2026-08-19T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-10-03T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour/>
+      <PromotionEndHour/>
+      <PromotionDays/>
+      <RedemptionLimit>60</RedemptionLimit>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem/>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290001131077</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>0.010</MinQty>
+              <MaxQty>60</MaxQty>
+              <DiscountRate>22.27</DiscountRate>
+              <DiscountedPrice>34.90</DiscountedPrice>
+              <DiscountedPricePerMida>34.900</DiscountedPricePerMida>
+              <bIsWeighted>1</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
       <PromotionUpdateTime>2026-08-13T00:00:00.000</PromotionUpdateTime>
       <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
       <PromotionID>0001115361</PromotionID>
@@ -52481,6 +52835,44 @@
       </Groups>
     </Promotion>
     <Promotion>
+      <PromotionUpdateTime>2026-08-19T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001115936</PromotionID>
+      <PromotionDescription>(טחון בקר קפוא עטרה 1 ק ג 2 ב  (7100ח</PromotionDescription>
+      <PromotionStartDateTime>2026-08-19T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-09-12T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour/>
+      <PromotionEndHour/>
+      <PromotionDays/>
+      <RedemptionLimit/>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem>2</IsGiftItem>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290004257491</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>1</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>8.93</DiscountRate>
+              <DiscountedPrice>100.00</DiscountedPrice>
+              <DiscountedPricePerMida>50.000</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
       <PromotionUpdateTime>2026-08-13T00:00:00.000</PromotionUpdateTime>
       <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
       <PromotionID>0001115380</PromotionID>
@@ -52534,6 +52926,231 @@
               <DiscountRate>6.25</DiscountRate>
               <DiscountedPrice>66.00</DiscountedPrice>
               <DiscountedPricePerMida>4.400</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
+      <PromotionUpdateTime>2026-08-19T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0003114749</PromotionID>
+      <PromotionDescription>מגוון טבלאות שוקולד  פרה  2 ב 15</PromotionDescription>
+      <PromotionStartDateTime>2026-08-04T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-10-03T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour/>
+      <PromotionEndHour/>
+      <PromotionDays/>
+      <RedemptionLimit/>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem>2</IsGiftItem>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290000170053</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>11.76</DiscountRate>
+              <DiscountedPrice>15.00</DiscountedPrice>
+              <DiscountedPricePerMida>7.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290000170077</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>11.76</DiscountRate>
+              <DiscountedPrice>15.00</DiscountedPrice>
+              <DiscountedPricePerMida>7.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290000180212</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>11.76</DiscountRate>
+              <DiscountedPrice>15.00</DiscountedPrice>
+              <DiscountedPricePerMida>7.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290003903955</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>11.76</DiscountRate>
+              <DiscountedPrice>15.00</DiscountedPrice>
+              <DiscountedPricePerMida>7.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290008750400</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>11.76</DiscountRate>
+              <DiscountedPrice>15.00</DiscountedPrice>
+              <DiscountedPricePerMida>7.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290008750677</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>11.76</DiscountRate>
+              <DiscountedPrice>15.00</DiscountedPrice>
+              <DiscountedPricePerMida>7.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290104724718</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>11.76</DiscountRate>
+              <DiscountedPrice>15.00</DiscountedPrice>
+              <DiscountedPricePerMida>7.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290106722415</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>11.76</DiscountRate>
+              <DiscountedPrice>15.00</DiscountedPrice>
+              <DiscountedPricePerMida>7.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290110579463</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>11.76</DiscountRate>
+              <DiscountedPrice>15.00</DiscountedPrice>
+              <DiscountedPricePerMida>7.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290112348548</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>11.76</DiscountRate>
+              <DiscountedPrice>15.00</DiscountedPrice>
+              <DiscountedPricePerMida>7.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290112351104</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>11.76</DiscountRate>
+              <DiscountedPrice>15.00</DiscountedPrice>
+              <DiscountedPricePerMida>7.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290112351128</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>11.76</DiscountRate>
+              <DiscountedPrice>15.00</DiscountedPrice>
+              <DiscountedPricePerMida>8.333</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290112358844</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>11.76</DiscountRate>
+              <DiscountedPrice>15.00</DiscountedPrice>
+              <DiscountedPricePerMida>7.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290115670394</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>11.76</DiscountRate>
+              <DiscountedPrice>15.00</DiscountedPrice>
+              <DiscountedPricePerMida>7.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290119382576</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>11.76</DiscountRate>
+              <DiscountedPrice>15.00</DiscountedPrice>
+              <DiscountedPricePerMida>7.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290119384839</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>11.76</DiscountRate>
+              <DiscountedPrice>15.00</DiscountedPrice>
+              <DiscountedPricePerMida>7.500</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290119384884</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>11.76</DiscountRate>
+              <DiscountedPrice>15.00</DiscountedPrice>
+              <DiscountedPricePerMida>8.333</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290119386413</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>11.76</DiscountRate>
+              <DiscountedPrice>15.00</DiscountedPrice>
+              <DiscountedPricePerMida>7.500</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
@@ -52735,7 +53352,7 @@
               <MaxQty/>
               <DiscountRate>9.82</DiscountRate>
               <DiscountedPrice>90.00</DiscountedPrice>
-              <DiscountedPricePerMida>6.000</DiscountedPricePerMida>
+              <DiscountedPricePerMida>0.060</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
@@ -52796,6 +53413,142 @@
               <DiscountRate>11.76</DiscountRate>
               <DiscountedPrice>15.00</DiscountedPrice>
               <DiscountedPricePerMida>5.000</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
+      <PromotionUpdateTime>2026-08-20T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0003115938</PromotionID>
+      <PromotionDescription>חרוזית 560 גרם   בני דרום   2 ב 16</PromotionDescription>
+      <PromotionStartDateTime>2026-08-19T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-10-03T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour/>
+      <PromotionEndHour/>
+      <PromotionDays/>
+      <RedemptionLimit/>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem>2</IsGiftItem>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290002015420</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>1</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>19.19</DiscountRate>
+              <DiscountedPrice>16.00</DiscountedPrice>
+              <DiscountedPricePerMida>1.429</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
+      <PromotionUpdateTime>2026-08-20T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0003115438</PromotionID>
+      <PromotionDescription>טורטיות   טורטיאס  2 ב 20</PromotionDescription>
+      <PromotionStartDateTime>2026-08-16T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-10-03T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour/>
+      <PromotionEndHour/>
+      <PromotionDays/>
+      <RedemptionLimit/>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem>2</IsGiftItem>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290113192881</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>15.97</DiscountRate>
+              <DiscountedPrice>20.00</DiscountedPrice>
+              <DiscountedPricePerMida>3.704</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>8697826469092</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>15.97</DiscountRate>
+              <DiscountedPrice>20.00</DiscountedPrice>
+              <DiscountedPricePerMida>2.222</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
+      <PromotionUpdateTime>2026-08-20T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0003115940</PromotionID>
+      <PromotionDescription>חמאה איטלקית  מחלבת גד  3 ב 20</PromotionDescription>
+      <PromotionStartDateTime>2026-08-20T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-10-03T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour/>
+      <PromotionEndHour/>
+      <PromotionDays/>
+      <RedemptionLimit/>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem>3</IsGiftItem>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290019635130</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>3</MinQty>
+              <MaxQty/>
+              <DiscountRate>32.66</DiscountRate>
+              <DiscountedPrice>20.00</DiscountedPrice>
+              <DiscountedPricePerMida>6.667</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290019635147</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>3</MinQty>
+              <MaxQty/>
+              <DiscountRate>32.66</DiscountRate>
+              <DiscountedPrice>20.00</DiscountedPrice>
+              <DiscountedPricePerMida>6.667</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
@@ -54208,6 +54961,99 @@
       </Groups>
     </Promotion>
     <Promotion>
+      <PromotionUpdateTime>2026-08-20T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0003115362</PromotionID>
+      <PromotionDescription>מגוון יינות פרימיום 2 ב 220</PromotionDescription>
+      <PromotionStartDateTime>2026-08-13T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-10-03T17:47:00.000</PromotionEndDateTime>
+      <PromotionStartHour>00:00:00.000</PromotionStartHour>
+      <PromotionEndHour>17:47:00.000</PromotionEndHour>
+      <PromotionDays/>
+      <RedemptionLimit/>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem>2</IsGiftItem>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290017298962</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>21.54</DiscountRate>
+              <DiscountedPrice>220.00</DiscountedPrice>
+              <DiscountedPricePerMida>0.147</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290017298979</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>21.54</DiscountRate>
+              <DiscountedPrice>220.00</DiscountedPrice>
+              <DiscountedPricePerMida>0.147</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290019220992</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>21.54</DiscountRate>
+              <DiscountedPrice>220.00</DiscountedPrice>
+              <DiscountedPricePerMida>0.147</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290019397694</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>15.51</DiscountRate>
+              <DiscountedPrice>220.00</DiscountedPrice>
+              <DiscountedPricePerMida>0.147</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290108621204</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>21.54</DiscountRate>
+              <DiscountedPrice>220.00</DiscountedPrice>
+              <DiscountedPricePerMida>0.147</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290108621211</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>21.54</DiscountRate>
+              <DiscountedPrice>220.00</DiscountedPrice>
+              <DiscountedPricePerMida>14.667</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
       <PromotionUpdateTime>2026-08-17T00:00:00.000</PromotionUpdateTime>
       <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
       <PromotionID>0001115781</PromotionID>
@@ -54376,6 +55222,66 @@
               <DiscountRate>19.35</DiscountRate>
               <DiscountedPrice>60.00</DiscountedPrice>
               <DiscountedPricePerMida>4.000</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
+      <PromotionUpdateTime>2026-08-20T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0003114586</PromotionID>
+      <PromotionDescription>יינות אינספייר  טפרברג  2 ב 120</PromotionDescription>
+      <PromotionStartDateTime>2026-08-03T00:00:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-10-03T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour/>
+      <PromotionEndHour/>
+      <PromotionDays/>
+      <RedemptionLimit/>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem>2</IsGiftItem>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290017289595</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>7.98</DiscountRate>
+              <DiscountedPrice>120.00</DiscountedPrice>
+              <DiscountedPricePerMida>8.000</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290017289779</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>7.98</DiscountRate>
+              <DiscountedPrice>120.00</DiscountedPrice>
+              <DiscountedPricePerMida>0.080</DiscountedPricePerMida>
+              <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+            <PromotionItem>
+              <ItemCode>7290017289786</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>10</RewardType>
+              <MinQty>2</MinQty>
+              <MaxQty/>
+              <DiscountRate>7.98</DiscountRate>
+              <DiscountedPrice>120.00</DiscountedPrice>
+              <DiscountedPricePerMida>8.000</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
@@ -59382,17 +60288,6 @@
               <DiscountedPricePerMida>9.091</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
             </PromotionItem>
-            <PromotionItem>
-              <ItemCode>7290116535333</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>10</RewardType>
-              <MinQty>2</MinQty>
-              <MaxQty/>
-              <DiscountRate>32.77</DiscountRate>
-              <DiscountedPrice>16.00</DiscountedPrice>
-              <DiscountedPricePerMida>9.091</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
           </PromotionItems>
         </Group>
       </Groups>
@@ -61979,99 +62874,6 @@
               <DiscountRate>14.57</DiscountRate>
               <DiscountedPrice>34.00</DiscountedPrice>
               <DiscountedPricePerMida>2.537</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-          </PromotionItems>
-        </Group>
-      </Groups>
-    </Promotion>
-    <Promotion>
-      <PromotionUpdateTime>2026-08-18T00:00:00.000</PromotionUpdateTime>
-      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
-      <PromotionID>0001115858</PromotionID>
-      <PromotionDescription>מבשם אויר  סנו  פרש אוטומטיק 2 ב 25</PromotionDescription>
-      <PromotionStartDateTime>2026-08-18T00:00:00.000</PromotionStartDateTime>
-      <PromotionEndDateTime>2026-10-03T23:59:00.000</PromotionEndDateTime>
-      <PromotionStartHour/>
-      <PromotionEndHour/>
-      <PromotionDays/>
-      <RedemptionLimit/>
-      <MinNoOfItemOffered>10</MinNoOfItemOffered>
-      <ClubID>0</ClubID>
-      <IsGiftItem>2</IsGiftItem>
-      <AdditionalIsCoupon>0</AdditionalIsCoupon>
-      <AdditionalRestrictions/>
-      <Remarks/>
-      <Groups>
-        <Group>
-          <GroupID>1</GroupID>
-          <MinPurchaseAmount>0.00</MinPurchaseAmount>
-          <DiscountType/>
-          <PromotionItems>
-            <PromotionItem>
-              <ItemCode>7290011598259</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>10</RewardType>
-              <MinQty>2</MinQty>
-              <MaxQty/>
-              <DiscountRate>3.10</DiscountRate>
-              <DiscountedPrice>25.00</DiscountedPrice>
-              <DiscountedPricePerMida>5.000</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
-              <ItemCode>7290108352337</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>10</RewardType>
-              <MinQty>2</MinQty>
-              <MaxQty/>
-              <DiscountRate>3.10</DiscountRate>
-              <DiscountedPrice>25.00</DiscountedPrice>
-              <DiscountedPricePerMida>5.000</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
-              <ItemCode>7290108352344</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>10</RewardType>
-              <MinQty>2</MinQty>
-              <MaxQty/>
-              <DiscountRate>3.10</DiscountRate>
-              <DiscountedPrice>25.00</DiscountedPrice>
-              <DiscountedPricePerMida>5.000</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
-              <ItemCode>7290108357264</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>10</RewardType>
-              <MinQty>2</MinQty>
-              <MaxQty/>
-              <DiscountRate>3.10</DiscountRate>
-              <DiscountedPrice>25.00</DiscountedPrice>
-              <DiscountedPricePerMida>5.000</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
-              <ItemCode>7290108358018</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>10</RewardType>
-              <MinQty>2</MinQty>
-              <MaxQty/>
-              <DiscountRate>3.10</DiscountRate>
-              <DiscountedPrice>25.00</DiscountedPrice>
-              <DiscountedPricePerMida>5.000</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
-              <ItemCode>7290108358025</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>10</RewardType>
-              <MinQty>2</MinQty>
-              <MaxQty/>
-              <DiscountRate>3.10</DiscountRate>
-              <DiscountedPrice>25.00</DiscountedPrice>
-              <DiscountedPricePerMida>0.050</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
