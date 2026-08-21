@@ -1507,6 +1507,44 @@
       </Groups>
     </Promotion>
     <Promotion>
+      <PromotionUpdateTime>2026-08-20T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001382596</PromotionID>
+      <PromotionDescription>בטטה ב4.9 מוגבל ל3</PromotionDescription>
+      <PromotionStartDateTime>2026-08-20T20:11:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-08-22T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour>20:11:00.000</PromotionStartHour>
+      <PromotionEndHour>23:59:00.000</PromotionEndHour>
+      <PromotionDays/>
+      <RedemptionLimit>3</RedemptionLimit>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem/>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290000000138</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>0.010</MinQty>
+              <MaxQty>3</MaxQty>
+              <DiscountRate>12.50</DiscountRate>
+              <DiscountedPrice>4.90</DiscountedPrice>
+              <DiscountedPricePerMida>4.900</DiscountedPricePerMida>
+              <bIsWeighted>1</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
       <PromotionUpdateTime>2026-08-17T00:00:00.000</PromotionUpdateTime>
       <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
       <PromotionID>0001416987</PromotionID>
@@ -3495,82 +3533,6 @@
               <DiscountedPrice>9.90</DiscountedPrice>
               <DiscountedPricePerMida>9.900</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-          </PromotionItems>
-        </Group>
-      </Groups>
-    </Promotion>
-    <Promotion>
-      <PromotionUpdateTime>2026-08-20T00:00:00.000</PromotionUpdateTime>
-      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
-      <PromotionID>0001382581</PromotionID>
-      <PromotionDescription>כרוב לבן ב2.9 מוגבל ל3</PromotionDescription>
-      <PromotionStartDateTime>2026-08-20T06:05:00.000</PromotionStartDateTime>
-      <PromotionEndDateTime>2026-08-22T23:59:00.000</PromotionEndDateTime>
-      <PromotionStartHour>06:05:00.000</PromotionStartHour>
-      <PromotionEndHour>23:59:00.000</PromotionEndHour>
-      <PromotionDays/>
-      <RedemptionLimit>3</RedemptionLimit>
-      <MinNoOfItemOffered>10</MinNoOfItemOffered>
-      <ClubID>0</ClubID>
-      <IsGiftItem/>
-      <AdditionalIsCoupon>0</AdditionalIsCoupon>
-      <AdditionalRestrictions/>
-      <Remarks/>
-      <Groups>
-        <Group>
-          <GroupID>1</GroupID>
-          <MinPurchaseAmount>0.00</MinPurchaseAmount>
-          <DiscountType/>
-          <PromotionItems>
-            <PromotionItem>
-              <ItemCode>7290000000109</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>3</RewardType>
-              <MinQty>0.010</MinQty>
-              <MaxQty>3</MaxQty>
-              <DiscountRate>12.12</DiscountRate>
-              <DiscountedPrice>2.90</DiscountedPrice>
-              <DiscountedPricePerMida>2.900</DiscountedPricePerMida>
-              <bIsWeighted>1</bIsWeighted>
-            </PromotionItem>
-          </PromotionItems>
-        </Group>
-      </Groups>
-    </Promotion>
-    <Promotion>
-      <PromotionUpdateTime>2026-08-20T00:00:00.000</PromotionUpdateTime>
-      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
-      <PromotionID>0001388805</PromotionID>
-      <PromotionDescription>פלפל רומרו ב11.9 מוגבל ל3</PromotionDescription>
-      <PromotionStartDateTime>2026-08-20T14:07:00.000</PromotionStartDateTime>
-      <PromotionEndDateTime>2026-08-22T23:59:00.000</PromotionEndDateTime>
-      <PromotionStartHour>14:07:00.000</PromotionStartHour>
-      <PromotionEndHour>23:59:00.000</PromotionEndHour>
-      <PromotionDays/>
-      <RedemptionLimit>3</RedemptionLimit>
-      <MinNoOfItemOffered>10</MinNoOfItemOffered>
-      <ClubID>0</ClubID>
-      <IsGiftItem/>
-      <AdditionalIsCoupon>0</AdditionalIsCoupon>
-      <AdditionalRestrictions/>
-      <Remarks/>
-      <Groups>
-        <Group>
-          <GroupID>1</GroupID>
-          <MinPurchaseAmount>0.00</MinPurchaseAmount>
-          <DiscountType/>
-          <PromotionItems>
-            <PromotionItem>
-              <ItemCode>7290000000328</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>3</RewardType>
-              <MinQty>0.010</MinQty>
-              <MaxQty>3</MaxQty>
-              <DiscountRate>7.75</DiscountRate>
-              <DiscountedPrice>11.90</DiscountedPrice>
-              <DiscountedPricePerMida>11.900</DiscountedPricePerMida>
-              <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
         </Group>
@@ -6321,44 +6283,6 @@
               <DiscountedPrice>6.90</DiscountedPrice>
               <DiscountedPricePerMida>0.986</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-          </PromotionItems>
-        </Group>
-      </Groups>
-    </Promotion>
-    <Promotion>
-      <PromotionUpdateTime>2026-08-19T00:00:00.000</PromotionUpdateTime>
-      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
-      <PromotionID>0001382485</PromotionID>
-      <PromotionDescription>תירס טרי ב6.9 מוגבל ל3</PromotionDescription>
-      <PromotionStartDateTime>2026-08-19T18:04:00.000</PromotionStartDateTime>
-      <PromotionEndDateTime>2026-08-22T23:59:00.000</PromotionEndDateTime>
-      <PromotionStartHour>18:04:00.000</PromotionStartHour>
-      <PromotionEndHour>23:59:00.000</PromotionEndHour>
-      <PromotionDays/>
-      <RedemptionLimit>3</RedemptionLimit>
-      <MinNoOfItemOffered>10</MinNoOfItemOffered>
-      <ClubID>0</ClubID>
-      <IsGiftItem/>
-      <AdditionalIsCoupon>0</AdditionalIsCoupon>
-      <AdditionalRestrictions/>
-      <Remarks/>
-      <Groups>
-        <Group>
-          <GroupID>1</GroupID>
-          <MinPurchaseAmount>0.00</MinPurchaseAmount>
-          <DiscountType/>
-          <PromotionItems>
-            <PromotionItem>
-              <ItemCode>7290000000148</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>3</RewardType>
-              <MinQty>0.010</MinQty>
-              <MaxQty>3</MaxQty>
-              <DiscountRate>11.54</DiscountRate>
-              <DiscountedPrice>6.90</DiscountedPrice>
-              <DiscountedPricePerMida>6.900</DiscountedPricePerMida>
-              <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
         </Group>
@@ -12305,11 +12229,11 @@
     <Promotion>
       <PromotionUpdateTime>2026-08-20T00:00:00.000</PromotionUpdateTime>
       <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
-      <PromotionID>0001382639</PromotionID>
-      <PromotionDescription>גזר ארוז ב2.9 מוגבל ל3</PromotionDescription>
-      <PromotionStartDateTime>2026-08-20T05:59:00.000</PromotionStartDateTime>
+      <PromotionID>0001382580</PromotionID>
+      <PromotionDescription>בצל יבש ב2.9 מוגבל ל3</PromotionDescription>
+      <PromotionStartDateTime>2026-08-20T22:02:00.000</PromotionStartDateTime>
       <PromotionEndDateTime>2026-08-22T23:59:00.000</PromotionEndDateTime>
-      <PromotionStartHour>05:59:00.000</PromotionStartHour>
+      <PromotionStartHour>22:02:00.000</PromotionStartHour>
       <PromotionEndHour>23:59:00.000</PromotionEndHour>
       <PromotionDays/>
       <RedemptionLimit>3</RedemptionLimit>
@@ -12326,7 +12250,7 @@
           <DiscountType/>
           <PromotionItems>
             <PromotionItem>
-              <ItemCode>7290000000102</ItemCode>
+              <ItemCode>7290000000108</ItemCode>
               <ItemType>1</ItemType>
               <RewardType>3</RewardType>
               <MinQty>0.010</MinQty>
@@ -14078,44 +14002,6 @@
               <DiscountedPrice>9.90</DiscountedPrice>
               <DiscountedPricePerMida>1.980</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-          </PromotionItems>
-        </Group>
-      </Groups>
-    </Promotion>
-    <Promotion>
-      <PromotionUpdateTime>2026-08-20T00:00:00.000</PromotionUpdateTime>
-      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
-      <PromotionID>0001391042</PromotionID>
-      <PromotionDescription>פלפל מתוק שושוקה ב11.9 מוגבל ל3</PromotionDescription>
-      <PromotionStartDateTime>2026-08-20T14:25:00.000</PromotionStartDateTime>
-      <PromotionEndDateTime>2026-08-22T23:59:00.000</PromotionEndDateTime>
-      <PromotionStartHour>14:25:00.000</PromotionStartHour>
-      <PromotionEndHour>23:59:00.000</PromotionEndHour>
-      <PromotionDays/>
-      <RedemptionLimit>3</RedemptionLimit>
-      <MinNoOfItemOffered>10</MinNoOfItemOffered>
-      <ClubID>0</ClubID>
-      <IsGiftItem/>
-      <AdditionalIsCoupon>0</AdditionalIsCoupon>
-      <AdditionalRestrictions/>
-      <Remarks/>
-      <Groups>
-        <Group>
-          <GroupID>1</GroupID>
-          <MinPurchaseAmount>0.00</MinPurchaseAmount>
-          <DiscountType/>
-          <PromotionItems>
-            <PromotionItem>
-              <ItemCode>7290000000237</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>3</RewardType>
-              <MinQty>0.010</MinQty>
-              <MaxQty>3</MaxQty>
-              <DiscountRate>7.75</DiscountRate>
-              <DiscountedPrice>11.90</DiscountedPrice>
-              <DiscountedPricePerMida>11.900</DiscountedPricePerMida>
-              <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
         </Group>
@@ -118890,44 +118776,6 @@
       </Groups>
     </Promotion>
     <Promotion>
-      <PromotionUpdateTime>2026-08-20T00:00:00.000</PromotionUpdateTime>
-      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
-      <PromotionID>0001382580</PromotionID>
-      <PromotionDescription>בצל יבש ב2.9 מוגבל ל3</PromotionDescription>
-      <PromotionStartDateTime>2026-08-20T12:37:00.000</PromotionStartDateTime>
-      <PromotionEndDateTime>2026-08-22T23:59:00.000</PromotionEndDateTime>
-      <PromotionStartHour>12:37:00.000</PromotionStartHour>
-      <PromotionEndHour>23:59:00.000</PromotionEndHour>
-      <PromotionDays/>
-      <RedemptionLimit>3</RedemptionLimit>
-      <MinNoOfItemOffered>10</MinNoOfItemOffered>
-      <ClubID>0</ClubID>
-      <IsGiftItem/>
-      <AdditionalIsCoupon>0</AdditionalIsCoupon>
-      <AdditionalRestrictions/>
-      <Remarks/>
-      <Groups>
-        <Group>
-          <GroupID>1</GroupID>
-          <MinPurchaseAmount>0.00</MinPurchaseAmount>
-          <DiscountType/>
-          <PromotionItems>
-            <PromotionItem>
-              <ItemCode>7290000000108</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>3</RewardType>
-              <MinQty>0.010</MinQty>
-              <MaxQty>3</MaxQty>
-              <DiscountRate>46.30</DiscountRate>
-              <DiscountedPrice>2.90</DiscountedPrice>
-              <DiscountedPricePerMida>2.900</DiscountedPricePerMida>
-              <bIsWeighted>1</bIsWeighted>
-            </PromotionItem>
-          </PromotionItems>
-        </Group>
-      </Groups>
-    </Promotion>
-    <Promotion>
       <PromotionUpdateTime>2026-08-03T00:00:00.000</PromotionUpdateTime>
       <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
       <PromotionID>0001416346</PromotionID>
@@ -135545,44 +135393,6 @@
               <DiscountedPrice>199.90</DiscountedPrice>
               <DiscountedPricePerMida>199.900</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-          </PromotionItems>
-        </Group>
-      </Groups>
-    </Promotion>
-    <Promotion>
-      <PromotionUpdateTime>2026-08-20T00:00:00.000</PromotionUpdateTime>
-      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
-      <PromotionID>0001382625</PromotionID>
-      <PromotionDescription>קישוא ירוק ב3.9 מוגבל ל3</PromotionDescription>
-      <PromotionStartDateTime>2026-08-20T12:37:00.000</PromotionStartDateTime>
-      <PromotionEndDateTime>2026-08-22T23:59:00.000</PromotionEndDateTime>
-      <PromotionStartHour>12:37:00.000</PromotionStartHour>
-      <PromotionEndHour>23:59:00.000</PromotionEndHour>
-      <PromotionDays/>
-      <RedemptionLimit>3</RedemptionLimit>
-      <MinNoOfItemOffered>10</MinNoOfItemOffered>
-      <ClubID>0</ClubID>
-      <IsGiftItem/>
-      <AdditionalIsCoupon>0</AdditionalIsCoupon>
-      <AdditionalRestrictions/>
-      <Remarks/>
-      <Groups>
-        <Group>
-          <GroupID>1</GroupID>
-          <MinPurchaseAmount>0.00</MinPurchaseAmount>
-          <DiscountType/>
-          <PromotionItems>
-            <PromotionItem>
-              <ItemCode>7290000000107</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>3</RewardType>
-              <MinQty>0.010</MinQty>
-              <MaxQty>3</MaxQty>
-              <DiscountRate>50.00</DiscountRate>
-              <DiscountedPrice>3.90</DiscountedPrice>
-              <DiscountedPricePerMida>3.900</DiscountedPricePerMida>
-              <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
         </Group>
@@ -196044,6 +195854,44 @@
       </Groups>
     </Promotion>
     <Promotion>
+      <PromotionUpdateTime>2026-08-20T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001382485</PromotionID>
+      <PromotionDescription>תירס טרי ב6.9 מוגבל ל3</PromotionDescription>
+      <PromotionStartDateTime>2026-08-20T18:27:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-08-22T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour>18:27:00.000</PromotionStartHour>
+      <PromotionEndHour>23:59:00.000</PromotionEndHour>
+      <PromotionDays/>
+      <RedemptionLimit>3</RedemptionLimit>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem/>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290000000148</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>0.010</MinQty>
+              <MaxQty>3</MaxQty>
+              <DiscountRate>11.54</DiscountRate>
+              <DiscountedPrice>6.90</DiscountedPrice>
+              <DiscountedPricePerMida>6.900</DiscountedPricePerMida>
+              <bIsWeighted>1</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
       <PromotionUpdateTime>2026-08-18T00:00:00.000</PromotionUpdateTime>
       <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
       <PromotionID>0001417572</PromotionID>
@@ -204924,6 +204772,44 @@
               <DiscountedPrice>22.90</DiscountedPrice>
               <DiscountedPricePerMida>22.900</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
+      <PromotionUpdateTime>2026-08-20T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001382625</PromotionID>
+      <PromotionDescription>קישוא ירוק ב4.8 מוגבל ל3</PromotionDescription>
+      <PromotionStartDateTime>2026-08-20T18:28:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-08-22T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour>18:28:00.000</PromotionStartHour>
+      <PromotionEndHour>23:59:00.000</PromotionEndHour>
+      <PromotionDays/>
+      <RedemptionLimit>3</RedemptionLimit>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem/>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290000000107</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>0.010</MinQty>
+              <MaxQty>3</MaxQty>
+              <DiscountRate>38.46</DiscountRate>
+              <DiscountedPrice>4.80</DiscountedPrice>
+              <DiscountedPricePerMida>4.800</DiscountedPricePerMida>
+              <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
         </Group>
@@ -215987,44 +215873,6 @@
       </Groups>
     </Promotion>
     <Promotion>
-      <PromotionUpdateTime>2026-08-20T00:00:00.000</PromotionUpdateTime>
-      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
-      <PromotionID>0001387061</PromotionID>
-      <PromotionDescription>אבטיח ב1.9 מוגבל ל12</PromotionDescription>
-      <PromotionStartDateTime>2026-08-20T05:59:00.000</PromotionStartDateTime>
-      <PromotionEndDateTime>2026-08-22T23:59:00.000</PromotionEndDateTime>
-      <PromotionStartHour>05:59:00.000</PromotionStartHour>
-      <PromotionEndHour>23:59:00.000</PromotionEndHour>
-      <PromotionDays/>
-      <RedemptionLimit>12</RedemptionLimit>
-      <MinNoOfItemOffered>10</MinNoOfItemOffered>
-      <ClubID>0</ClubID>
-      <IsGiftItem/>
-      <AdditionalIsCoupon>0</AdditionalIsCoupon>
-      <AdditionalRestrictions/>
-      <Remarks/>
-      <Groups>
-        <Group>
-          <GroupID>1</GroupID>
-          <MinPurchaseAmount>0.00</MinPurchaseAmount>
-          <DiscountType/>
-          <PromotionItems>
-            <PromotionItem>
-              <ItemCode>7290000000169</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>3</RewardType>
-              <MinQty>0.010</MinQty>
-              <MaxQty>12</MaxQty>
-              <DiscountRate>13.64</DiscountRate>
-              <DiscountedPrice>1.90</DiscountedPrice>
-              <DiscountedPricePerMida>1.900</DiscountedPricePerMida>
-              <bIsWeighted>1</bIsWeighted>
-            </PromotionItem>
-          </PromotionItems>
-        </Group>
-      </Groups>
-    </Promotion>
-    <Promotion>
       <PromotionUpdateTime>2026-08-15T00:00:00.000</PromotionUpdateTime>
       <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
       <PromotionID>0001422444</PromotionID>
@@ -221933,6 +221781,44 @@
       </Groups>
     </Promotion>
     <Promotion>
+      <PromotionUpdateTime>2026-08-20T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001382639</PromotionID>
+      <PromotionDescription>גזר ארוז ב3.3 מוגבל ל3</PromotionDescription>
+      <PromotionStartDateTime>2026-08-20T20:08:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-08-22T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour>20:08:00.000</PromotionStartHour>
+      <PromotionEndHour>23:59:00.000</PromotionEndHour>
+      <PromotionDays/>
+      <RedemptionLimit>3</RedemptionLimit>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem/>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290000000102</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>0.010</MinQty>
+              <MaxQty>3</MaxQty>
+              <DiscountRate>15.38</DiscountRate>
+              <DiscountedPrice>3.30</DiscountedPrice>
+              <DiscountedPricePerMida>3.300</DiscountedPricePerMida>
+              <bIsWeighted>1</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
       <PromotionUpdateTime>2026-08-16T00:00:00.000</PromotionUpdateTime>
       <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
       <PromotionID>0001422490</PromotionID>
@@ -222749,44 +222635,6 @@
       </Groups>
     </Promotion>
     <Promotion>
-      <PromotionUpdateTime>2026-08-20T00:00:00.000</PromotionUpdateTime>
-      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
-      <PromotionID>0001390807</PromotionID>
-      <PromotionDescription>בצל אדום ב4.6 מוגבל ל3</PromotionDescription>
-      <PromotionStartDateTime>2026-08-20T05:59:00.000</PromotionStartDateTime>
-      <PromotionEndDateTime>2026-08-22T23:59:00.000</PromotionEndDateTime>
-      <PromotionStartHour>05:59:00.000</PromotionStartHour>
-      <PromotionEndHour>23:59:00.000</PromotionEndHour>
-      <PromotionDays/>
-      <RedemptionLimit>3</RedemptionLimit>
-      <MinNoOfItemOffered>10</MinNoOfItemOffered>
-      <ClubID>0</ClubID>
-      <IsGiftItem/>
-      <AdditionalIsCoupon>0</AdditionalIsCoupon>
-      <AdditionalRestrictions/>
-      <Remarks/>
-      <Groups>
-        <Group>
-          <GroupID>1</GroupID>
-          <MinPurchaseAmount>0.00</MinPurchaseAmount>
-          <DiscountType/>
-          <PromotionItems>
-            <PromotionItem>
-              <ItemCode>7290000000289</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>3</RewardType>
-              <MinQty>0.010</MinQty>
-              <MaxQty>3</MaxQty>
-              <DiscountRate>22.03</DiscountRate>
-              <DiscountedPrice>4.60</DiscountedPrice>
-              <DiscountedPricePerMida>4.600</DiscountedPricePerMida>
-              <bIsWeighted>1</bIsWeighted>
-            </PromotionItem>
-          </PromotionItems>
-        </Group>
-      </Groups>
-    </Promotion>
-    <Promotion>
       <PromotionUpdateTime>2026-08-16T00:00:00.000</PromotionUpdateTime>
       <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
       <PromotionID>0001422509</PromotionID>
@@ -223410,6 +223258,44 @@
               <DiscountedPrice>36.90</DiscountedPrice>
               <DiscountedPricePerMida>2.460</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
+            </PromotionItem>
+          </PromotionItems>
+        </Group>
+      </Groups>
+    </Promotion>
+    <Promotion>
+      <PromotionUpdateTime>2026-08-20T00:00:00.000</PromotionUpdateTime>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>0001390807</PromotionID>
+      <PromotionDescription>בצל אדום ב3.9 מוגבל ל3</PromotionDescription>
+      <PromotionStartDateTime>2026-08-20T18:27:00.000</PromotionStartDateTime>
+      <PromotionEndDateTime>2026-08-22T23:59:00.000</PromotionEndDateTime>
+      <PromotionStartHour>18:27:00.000</PromotionStartHour>
+      <PromotionEndHour>23:59:00.000</PromotionEndHour>
+      <PromotionDays/>
+      <RedemptionLimit>3</RedemptionLimit>
+      <MinNoOfItemOffered>10</MinNoOfItemOffered>
+      <ClubID>0</ClubID>
+      <IsGiftItem/>
+      <AdditionalIsCoupon>0</AdditionalIsCoupon>
+      <AdditionalRestrictions/>
+      <Remarks/>
+      <Groups>
+        <Group>
+          <GroupID>1</GroupID>
+          <MinPurchaseAmount>0.00</MinPurchaseAmount>
+          <DiscountType/>
+          <PromotionItems>
+            <PromotionItem>
+              <ItemCode>7290000000289</ItemCode>
+              <ItemType>1</ItemType>
+              <RewardType>3</RewardType>
+              <MinQty>0.010</MinQty>
+              <MaxQty>3</MaxQty>
+              <DiscountRate>33.90</DiscountRate>
+              <DiscountedPrice>3.90</DiscountedPrice>
+              <DiscountedPricePerMida>3.900</DiscountedPricePerMida>
+              <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
         </Group>
