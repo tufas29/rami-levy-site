@@ -9255,7 +9255,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>6.9</ItemPrice>
       <UnitOfMeasurePrice>8.63</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -9293,7 +9293,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>6.9</ItemPrice>
       <UnitOfMeasurePrice>8.63</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10243,7 +10243,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>28.9</ItemPrice>
       <UnitOfMeasurePrice>4.82</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10319,7 +10319,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>3.65</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10338,7 +10338,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>3.65</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10357,7 +10357,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>26.9</ItemPrice>
       <UnitOfMeasurePrice>6.73</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10376,7 +10376,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>17.9</ItemPrice>
       <UnitOfMeasurePrice>2.56</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10414,7 +10414,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15</ItemPrice>
       <UnitOfMeasurePrice>3.75</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10490,7 +10490,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>24.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10509,7 +10509,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>3.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10547,7 +10547,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>2.99</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10566,7 +10566,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>3.11</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10585,7 +10585,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>21.9</ItemPrice>
       <UnitOfMeasurePrice>2.74</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10604,7 +10604,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>20.9</ItemPrice>
       <UnitOfMeasurePrice>2.61</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10623,7 +10623,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>3.11</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10642,7 +10642,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>3.11</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10661,7 +10661,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>3.74</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10680,7 +10680,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>29.9</ItemPrice>
       <UnitOfMeasurePrice>3.74</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10699,7 +10699,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>28.9</ItemPrice>
       <UnitOfMeasurePrice>3.61</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10718,7 +10718,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>28.9</ItemPrice>
       <UnitOfMeasurePrice>3.61</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10737,7 +10737,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>23.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10756,7 +10756,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>2.99</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10775,7 +10775,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>24.9</ItemPrice>
       <UnitOfMeasurePrice>24.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10794,7 +10794,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>27.9</ItemPrice>
       <UnitOfMeasurePrice>4.65</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10832,7 +10832,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>20.9</ItemPrice>
       <UnitOfMeasurePrice>2.61</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -10908,7 +10908,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>26.9</ItemPrice>
       <UnitOfMeasurePrice>6.73</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -11307,7 +11307,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.9</ItemPrice>
       <UnitOfMeasurePrice>4.04</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -11326,7 +11326,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>15.9</ItemPrice>
       <UnitOfMeasurePrice>3.75</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -14822,7 +14822,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>7.9</ItemPrice>
       <UnitOfMeasurePrice>3.29</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -14860,7 +14860,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>7.9</ItemPrice>
       <UnitOfMeasurePrice>3.29</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -14879,7 +14879,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>7.9</ItemPrice>
       <UnitOfMeasurePrice>3.29</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -15070,7 +15070,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>7.9</ItemPrice>
       <UnitOfMeasurePrice>3.29</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -15108,7 +15108,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>7.9</ItemPrice>
       <UnitOfMeasurePrice>3.29</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -15127,7 +15127,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>7.9</ItemPrice>
       <UnitOfMeasurePrice>3.29</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -15146,7 +15146,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>7.9</ItemPrice>
       <UnitOfMeasurePrice>3.29</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -15165,7 +15165,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>7.9</ItemPrice>
       <UnitOfMeasurePrice>3.29</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -15184,7 +15184,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>7.9</ItemPrice>
       <UnitOfMeasurePrice>3.29</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -15222,7 +15222,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>7.9</ItemPrice>
       <UnitOfMeasurePrice>3.29</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -23737,7 +23737,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>35.9</ItemPrice>
       <UnitOfMeasurePrice>7.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -23756,7 +23756,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>35.9</ItemPrice>
       <UnitOfMeasurePrice>7.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -23775,7 +23775,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>35.9</ItemPrice>
       <UnitOfMeasurePrice>7.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -28161,7 +28161,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.9</ItemPrice>
       <UnitOfMeasurePrice>8.17</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -28180,7 +28180,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.9</ItemPrice>
       <UnitOfMeasurePrice>8.91</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -31741,7 +31741,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>119.9</ItemPrice>
       <UnitOfMeasurePrice>119.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -42247,7 +42247,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>11.9</ItemPrice>
       <UnitOfMeasurePrice>2.13</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -43767,7 +43767,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>9.9</ItemPrice>
       <UnitOfMeasurePrice>9.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -50188,7 +50188,7 @@
       <QtyInPackage>6</QtyInPackage>
       <ItemPrice>31.9</ItemPrice>
       <UnitOfMeasurePrice>15.2</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -52628,7 +52628,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>33.9</ItemPrice>
       <UnitOfMeasurePrice>33.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -52647,7 +52647,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>44.9</ItemPrice>
       <UnitOfMeasurePrice>7.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -52666,7 +52666,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>44.9</ItemPrice>
       <UnitOfMeasurePrice>6.41</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -52685,7 +52685,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>49.9</ItemPrice>
       <UnitOfMeasurePrice>7.13</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -52704,7 +52704,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>34.9</ItemPrice>
       <UnitOfMeasurePrice>34.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -52723,7 +52723,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>49.9</ItemPrice>
       <UnitOfMeasurePrice>7.13</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -52742,7 +52742,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>49.9</ItemPrice>
       <UnitOfMeasurePrice>7.13</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -52761,7 +52761,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>46.9</ItemPrice>
       <UnitOfMeasurePrice>6.7</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -53669,7 +53669,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>39.9</ItemPrice>
       <UnitOfMeasurePrice>5.28</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -53688,7 +53688,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>39.9</ItemPrice>
       <UnitOfMeasurePrice>5.28</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -54030,7 +54030,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.9</ItemPrice>
       <UnitOfMeasurePrice>8.91</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -54049,7 +54049,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.9</ItemPrice>
       <UnitOfMeasurePrice>8.91</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -71360,7 +71360,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>12.9</ItemPrice>
       <UnitOfMeasurePrice>12.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -71379,7 +71379,7 @@
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>12.9</ItemPrice>
       <UnitOfMeasurePrice>12.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -81949,7 +81949,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>19.9</ItemPrice>
       <UnitOfMeasurePrice>19.9</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -84149,7 +84149,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>69.9</ItemPrice>
       <UnitOfMeasurePrice>9.99</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -84168,7 +84168,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>69.9</ItemPrice>
       <UnitOfMeasurePrice>9.99</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -84187,7 +84187,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>69.9</ItemPrice>
       <UnitOfMeasurePrice>9.99</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -89332,7 +89332,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.9</ItemPrice>
       <UnitOfMeasurePrice>8.91</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -89370,7 +89370,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.9</ItemPrice>
       <UnitOfMeasurePrice>8.91</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -94642,7 +94642,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>41.9</ItemPrice>
       <UnitOfMeasurePrice>6.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -94661,7 +94661,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>45.9</ItemPrice>
       <UnitOfMeasurePrice>6.12</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -94681,7 +94681,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>47.9</ItemPrice>
       <UnitOfMeasurePrice>7.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -94703,7 +94703,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>47.9</ItemPrice>
       <UnitOfMeasurePrice>7.98</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -94724,7 +94724,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>46.9</ItemPrice>
       <UnitOfMeasurePrice>6.7</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -94746,7 +94746,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>46.9</ItemPrice>
       <UnitOfMeasurePrice>6.7</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -101370,7 +101370,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>7.9</ItemPrice>
       <UnitOfMeasurePrice>3.29</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -101408,7 +101408,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>7.9</ItemPrice>
       <UnitOfMeasurePrice>3.29</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -101427,7 +101427,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>8.9</ItemPrice>
       <UnitOfMeasurePrice>3.71</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -101769,7 +101769,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>46.9</ItemPrice>
       <UnitOfMeasurePrice>7.22</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -104644,7 +104644,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>36.9</ItemPrice>
       <UnitOfMeasurePrice>5.68</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -104663,7 +104663,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>39.9</ItemPrice>
       <UnitOfMeasurePrice>5.62</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -123129,7 +123129,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>39.9</ItemPrice>
       <UnitOfMeasurePrice>6.14</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -124483,7 +124483,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>2.01</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -124599,7 +124599,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>7.9</ItemPrice>
       <UnitOfMeasurePrice>3.29</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -124637,7 +124637,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>3.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -124675,7 +124675,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>3.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -124694,7 +124694,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>3.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -124714,7 +124714,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>28.9</ItemPrice>
       <UnitOfMeasurePrice>3.61</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -124752,7 +124752,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>23.9</ItemPrice>
       <UnitOfMeasurePrice>2.99</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -124771,7 +124771,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>26.9</ItemPrice>
       <UnitOfMeasurePrice>4.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -128793,7 +128793,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>9.9</ItemPrice>
       <UnitOfMeasurePrice>2.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -128812,7 +128812,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>9.9</ItemPrice>
       <UnitOfMeasurePrice>2.48</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -129439,7 +129439,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>2.12</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -129458,7 +129458,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>2.12</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -129477,7 +129477,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>2.12</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -129496,7 +129496,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>2.12</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -130847,7 +130847,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>2.12</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -130866,7 +130866,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>2.12</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -134753,7 +134753,7 @@ Bakery with p</ManufactureItemDescription>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>42.9</ItemPrice>
       <UnitOfMeasurePrice>5.68</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -141092,7 +141092,7 @@ CRAZY PICKLES
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>8.9</ItemPrice>
       <UnitOfMeasurePrice>3.71</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -141111,7 +141111,7 @@ CRAZY PICKLES
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>8.9</ItemPrice>
       <UnitOfMeasurePrice>3.71</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
+      <AllowDiscount>0</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -141440,7 +141440,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>16.9</ItemPrice>
       <UnitOfMeasurePrice>2.11</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -142050,7 +142050,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>5.9</ItemPrice>
       <UnitOfMeasurePrice>7.02</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -146971,7 +146971,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>5.9</ItemPrice>
       <UnitOfMeasurePrice>5.36</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -149693,7 +149693,7 @@ BBQ TASTE
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.2</ItemPrice>
       <UnitOfMeasurePrice>6.46</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -162452,7 +162452,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.2</ItemPrice>
       <UnitOfMeasurePrice>6.46</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -169220,7 +169220,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.9</ItemPrice>
       <UnitOfMeasurePrice>8.17</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -169277,7 +169277,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.2</ItemPrice>
       <UnitOfMeasurePrice>6.46</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -172947,7 +172947,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>6.9</ItemPrice>
       <UnitOfMeasurePrice>7.84</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -172966,7 +172966,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>6.9</ItemPrice>
       <UnitOfMeasurePrice>8.63</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -172985,7 +172985,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>6.9</ItemPrice>
       <UnitOfMeasurePrice>7.84</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -173631,7 +173631,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>8.9</ItemPrice>
       <UnitOfMeasurePrice>2.78</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -173650,7 +173650,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>8.9</ItemPrice>
       <UnitOfMeasurePrice>3.07</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -181901,7 +181901,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.4</ItemPrice>
       <UnitOfMeasurePrice>6.29</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -181920,7 +181920,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.4</ItemPrice>
       <UnitOfMeasurePrice>6.29</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -181958,7 +181958,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.6</ItemPrice>
       <UnitOfMeasurePrice>8.36</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -193085,7 +193085,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.4</ItemPrice>
       <UnitOfMeasurePrice>6.29</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -193104,7 +193104,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.9</ItemPrice>
       <UnitOfMeasurePrice>9.8</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -193256,7 +193256,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.4</ItemPrice>
       <UnitOfMeasurePrice>9.78</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -193275,7 +193275,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.4</ItemPrice>
       <UnitOfMeasurePrice>9.78</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -193541,7 +193541,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.4</ItemPrice>
       <UnitOfMeasurePrice>6.29</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -193560,7 +193560,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.2</ItemPrice>
       <UnitOfMeasurePrice>6.46</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -194415,7 +194415,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>3.9</ItemPrice>
       <UnitOfMeasurePrice>7.09</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -194434,7 +194434,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>3.9</ItemPrice>
       <UnitOfMeasurePrice>7.09</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -194453,7 +194453,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>4.6</ItemPrice>
       <UnitOfMeasurePrice>8.36</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -197138,7 +197138,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>4.23</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -197311,7 +197311,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>13.9</ItemPrice>
       <UnitOfMeasurePrice>2.12</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -201163,7 +201163,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>6.5</ItemPrice>
       <UnitOfMeasurePrice>7.39</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
@@ -201182,7 +201182,7 @@ Households &amp; Cosmeti</ManufactureName>
       <QtyInPackage>1</QtyInPackage>
       <ItemPrice>6.5</ItemPrice>
       <UnitOfMeasurePrice>8.13</UnitOfMeasurePrice>
-      <AllowDiscount>0</AllowDiscount>
+      <AllowDiscount>1</AllowDiscount>
       <ItemStatus />
     </Item>
     <Item>
