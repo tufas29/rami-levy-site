@@ -39986,7 +39986,7 @@
               <RewardType>10</RewardType>
               <MinQty>1.850</MinQty>
               <MaxQty/>
-              <DiscountRate>22.05</DiscountRate>
+              <DiscountRate>12.28</DiscountRate>
               <DiscountedPrice>64.75</DiscountedPrice>
               <DiscountedPricePerMida>35.000</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
@@ -44169,44 +44169,6 @@
               <DiscountedPrice>120.00</DiscountedPrice>
               <DiscountedPricePerMida>0.080</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-          </PromotionItems>
-        </Group>
-      </Groups>
-    </Promotion>
-    <Promotion>
-      <PromotionUpdateTime>2026-08-05T00:00:00.000</PromotionUpdateTime>
-      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
-      <PromotionID>0001114820</PromotionID>
-      <PromotionDescription>טחון טרי דל שומן 2 ב 140</PromotionDescription>
-      <PromotionStartDateTime>2026-08-16T00:00:00.000</PromotionStartDateTime>
-      <PromotionEndDateTime>2027-01-02T23:59:00.000</PromotionEndDateTime>
-      <PromotionStartHour/>
-      <PromotionEndHour/>
-      <PromotionDays/>
-      <RedemptionLimit/>
-      <MinNoOfItemOffered>10</MinNoOfItemOffered>
-      <ClubID>0</ClubID>
-      <IsGiftItem/>
-      <AdditionalIsCoupon>0</AdditionalIsCoupon>
-      <AdditionalRestrictions/>
-      <Remarks/>
-      <Groups>
-        <Group>
-          <GroupID>1</GroupID>
-          <MinPurchaseAmount>0.00</MinPurchaseAmount>
-          <DiscountType/>
-          <PromotionItems>
-            <PromotionItem>
-              <ItemCode>7290008545181</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>3</RewardType>
-              <MinQty>1.850</MinQty>
-              <MaxQty/>
-              <DiscountRate>22.14</DiscountRate>
-              <DiscountedPrice>129.50</DiscountedPrice>
-              <DiscountedPricePerMida>70.000</DiscountedPricePerMida>
-              <bIsWeighted>1</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
         </Group>
@@ -56132,44 +56094,6 @@
       </Groups>
     </Promotion>
     <Promotion>
-      <PromotionUpdateTime>2026-08-19T00:00:00.000</PromotionUpdateTime>
-      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
-      <PromotionID>0001115932</PromotionID>
-      <PromotionDescription>פילה סלמון מנות  אושר פיש  99.90 מוג 4</PromotionDescription>
-      <PromotionStartDateTime>2026-08-19T00:00:00.000</PromotionStartDateTime>
-      <PromotionEndDateTime>2026-09-12T23:59:00.000</PromotionEndDateTime>
-      <PromotionStartHour/>
-      <PromotionEndHour/>
-      <PromotionDays/>
-      <RedemptionLimit>40</RedemptionLimit>
-      <MinNoOfItemOffered>10</MinNoOfItemOffered>
-      <ClubID>0</ClubID>
-      <IsGiftItem/>
-      <AdditionalIsCoupon>0</AdditionalIsCoupon>
-      <AdditionalRestrictions/>
-      <Remarks/>
-      <Groups>
-        <Group>
-          <GroupID>1</GroupID>
-          <MinPurchaseAmount>0.00</MinPurchaseAmount>
-          <DiscountType/>
-          <PromotionItems>
-            <PromotionItem>
-              <ItemCode>7290008545891</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>3</RewardType>
-              <MinQty>0.010</MinQty>
-              <MaxQty>40</MaxQty>
-              <DiscountRate>9.10</DiscountRate>
-              <DiscountedPrice>99.90</DiscountedPrice>
-              <DiscountedPricePerMida>99.900</DiscountedPricePerMida>
-              <bIsWeighted>1</bIsWeighted>
-            </PromotionItem>
-          </PromotionItems>
-        </Group>
-      </Groups>
-    </Promotion>
-    <Promotion>
       <PromotionUpdateTime>2026-08-04T00:00:00.000</PromotionUpdateTime>
       <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
       <PromotionID>0001114699</PromotionID>
@@ -67925,7 +67849,7 @@
               <RewardType>3</RewardType>
               <MinQty>1.850</MinQty>
               <MaxQty/>
-              <DiscountRate>27.70</DiscountRate>
+              <DiscountRate>7.01</DiscountRate>
               <DiscountedPrice>120.25</DiscountedPrice>
               <DiscountedPricePerMida>65.000</DiscountedPricePerMida>
               <bIsWeighted>1</bIsWeighted>
