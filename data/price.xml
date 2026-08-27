@@ -5,177 +5,6 @@
   <BikoretNo>7</BikoretNo>
   <Items>
     <Item>
-      <PriceUpdateTime>2025-01-16T08:34:17.000</PriceUpdateTime>
-      <ItemCode>7290010154678</ItemCode>
-      <LastSaleDateTime>2026-08-25T09:28:36.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>אריסה מרוקאית תבליני</ItemName>
-      <ManufactureName>לא ידוע</ManufactureName>
-      <ManufactureCountry>לא ידוע</ManufactureCountry>
-      <ManufactureItemDescription>אריסה מרוקאית תבליני</ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>250.00</Quantity>
-      <UnitOfMeasure>100 גרם</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>לא ידוע</QtyInPackage>
-      <ItemPrice>15.70</ItemPrice>
-      <UnitOfMeasurePrice>6.28</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus/>
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-01-16T08:34:17.000</PriceUpdateTime>
-      <ItemCode>7290010154685</ItemCode>
-      <LastSaleDateTime>2026-08-24T09:42:54.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>סלט שום כתוש 250 ג</ItemName>
-      <ManufactureName>לא ידוע</ManufactureName>
-      <ManufactureCountry>לא ידוע</ManufactureCountry>
-      <ManufactureItemDescription>סלט שום כתוש 250 ג</ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>250.00</Quantity>
-      <UnitOfMeasure>100 גרם</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>לא ידוע</QtyInPackage>
-      <ItemPrice>15.70</ItemPrice>
-      <UnitOfMeasurePrice>6.28</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus/>
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-01-01T09:11:56.000</PriceUpdateTime>
-      <ItemCode>7290110573577</ItemCode>
-      <LastSaleDateTime>2026-06-04T12:26:10.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>משקה יוגורט פרו חלבו</ItemName>
-      <ManufactureName>לא ידוע</ManufactureName>
-      <ManufactureCountry>לא ידוע</ManufactureCountry>
-      <ManufactureItemDescription>משקה יוגורט פרו חלבו</ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>255.00</Quantity>
-      <UnitOfMeasure>100 גרם</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>לא ידוע</QtyInPackage>
-      <ItemPrice>7.30</ItemPrice>
-      <UnitOfMeasurePrice>2.86</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus/>
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-01-01T07:50:01.000</PriceUpdateTime>
-      <ItemCode>7290001690888</ItemCode>
-      <LastSaleDateTime>2026-07-24T13:14:34.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>נסיכת הנילוס</ItemName>
-      <ManufactureName>לא ידוע</ManufactureName>
-      <ManufactureCountry>לא ידוע</ManufactureCountry>
-      <ManufactureItemDescription>נסיכת הנילוס</ManufactureItemDescription>
-      <UnitQty>ליטר</UnitQty>
-      <Quantity>1.00</Quantity>
-      <UnitOfMeasure>קילוגרם </UnitOfMeasure>
-      <bIsWeighted>1</bIsWeighted>
-      <QtyInPackage>לא ידוע</QtyInPackage>
-      <ItemPrice>35.30</ItemPrice>
-      <UnitOfMeasurePrice>35.30</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus/>
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-03-25T09:08:48.000</PriceUpdateTime>
-      <ItemCode>7290116533711</ItemCode>
-      <LastSaleDateTime>2026-07-27T09:34:41.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>רקסונה ספריי 150 נשי</ItemName>
-      <ManufactureName>לא ידוע</ManufactureName>
-      <ManufactureCountry>לא ידוע</ManufactureCountry>
-      <ManufactureItemDescription>רקסונה ספריי 150 נשי</ManufactureItemDescription>
-      <UnitQty>מיליליטר</UnitQty>
-      <Quantity>150.00</Quantity>
-      <UnitOfMeasure>100 מיליליטר</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>לא ידוע</QtyInPackage>
-      <ItemPrice>13.90</ItemPrice>
-      <UnitOfMeasurePrice>9.27</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus/>
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-03-06T11:34:34.000</PriceUpdateTime>
-      <ItemCode>7290018795460</ItemCode>
-      <LastSaleDateTime>2026-06-10T20:28:29.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>תרד טורקי מרינה</ItemName>
-      <ManufactureName>לא ידוע</ManufactureName>
-      <ManufactureCountry>לא ידוע</ManufactureCountry>
-      <ManufactureItemDescription>תרד טורקי מרינה</ManufactureItemDescription>
-      <UnitQty>קילוגרם</UnitQty>
-      <Quantity>1.00</Quantity>
-      <UnitOfMeasure>יחידות  </UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>לא ידוע</QtyInPackage>
-      <ItemPrice>11.90</ItemPrice>
-      <UnitOfMeasurePrice>11.90</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus/>
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-07-14T07:24:15.000</PriceUpdateTime>
-      <ItemCode>7290118073710</ItemCode>
-      <LastSaleDateTime>2026-08-26T19:00:22.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>מקל מטאטא/מגב מחוזק</ItemName>
-      <ManufactureName>לא ידוע</ManufactureName>
-      <ManufactureCountry>לא ידוע</ManufactureCountry>
-      <ManufactureItemDescription>מקל מטאטא/מגב מחוזק</ManufactureItemDescription>
-      <UnitQty>קילוגרם</UnitQty>
-      <Quantity>1.00</Quantity>
-      <UnitOfMeasure>יחידות  </UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>לא ידוע</QtyInPackage>
-      <ItemPrice>6.90</ItemPrice>
-      <UnitOfMeasurePrice>6.90</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus/>
-    </Item>
-    <Item>
-      <PriceUpdateTime>2025-07-21T07:18:03.000</PriceUpdateTime>
-      <ItemCode>7290108358124</ItemCode>
-      <LastSaleDateTime>2026-06-30T09:16:39.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>מקסימה דפי בישום לחי</ItemName>
-      <ManufactureName>לא ידוע</ManufactureName>
-      <ManufactureCountry>לא ידוע</ManufactureCountry>
-      <ManufactureItemDescription>מקסימה דפי בישום לחי</ManufactureItemDescription>
-      <UnitQty>קילוגרם</UnitQty>
-      <Quantity>1.00</Quantity>
-      <UnitOfMeasure>יחידות  </UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>לא ידוע</QtyInPackage>
-      <ItemPrice>12.90</ItemPrice>
-      <UnitOfMeasurePrice>12.90</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus/>
-    </Item>
-    <Item>
-      <PriceUpdateTime>2026-04-07T12:08:39.000</PriceUpdateTime>
-      <ItemCode>7290018566558</ItemCode>
-      <LastSaleDateTime>2026-08-26T21:07:56.000</LastSaleDateTime>
-      <ItemType>1</ItemType>
-      <ItemName>מנצס 150 גר בשקית קל</ItemName>
-      <ManufactureName>לא ידוע</ManufactureName>
-      <ManufactureCountry>לא ידוע</ManufactureCountry>
-      <ManufactureItemDescription>מנצס 150 גר בשקית קל</ManufactureItemDescription>
-      <UnitQty>גרם</UnitQty>
-      <Quantity>150.00</Quantity>
-      <UnitOfMeasure>100 גרם</UnitOfMeasure>
-      <bIsWeighted>0</bIsWeighted>
-      <QtyInPackage>לא ידוע</QtyInPackage>
-      <ItemPrice>8.90</ItemPrice>
-      <UnitOfMeasurePrice>5.93</UnitOfMeasurePrice>
-      <AllowDiscount>1</AllowDiscount>
-      <ItemStatus/>
-    </Item>
-    <Item>
       <PriceUpdateTime>2026-07-15T23:31:00.000</PriceUpdateTime>
       <ItemCode>7290002204213</ItemCode>
       <LastSaleDateTime>2026-07-02T17:48:47.000</LastSaleDateTime>
@@ -95780,6 +95609,44 @@
       <QtyInPackage>לא ידוע</QtyInPackage>
       <ItemPrice>27.90</ItemPrice>
       <UnitOfMeasurePrice>11.16</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus/>
+    </Item>
+    <Item>
+      <PriceUpdateTime>2025-01-16T08:34:17.000</PriceUpdateTime>
+      <ItemCode>7290010154678</ItemCode>
+      <LastSaleDateTime>2026-08-25T09:28:36.000</LastSaleDateTime>
+      <ItemType>1</ItemType>
+      <ItemName>אריסה מרוקאית תבליני</ItemName>
+      <ManufactureName>לא ידוע</ManufactureName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufactureItemDescription>אריסה מרוקאית תבליני</ManufactureItemDescription>
+      <UnitQty>גרם</UnitQty>
+      <Quantity>250.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>לא ידוע</QtyInPackage>
+      <ItemPrice>15.70</ItemPrice>
+      <UnitOfMeasurePrice>6.28</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus/>
+    </Item>
+    <Item>
+      <PriceUpdateTime>2025-01-16T08:34:17.000</PriceUpdateTime>
+      <ItemCode>7290010154685</ItemCode>
+      <LastSaleDateTime>2026-08-24T09:42:54.000</LastSaleDateTime>
+      <ItemType>1</ItemType>
+      <ItemName>סלט שום כתוש 250 ג</ItemName>
+      <ManufactureName>לא ידוע</ManufactureName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufactureItemDescription>סלט שום כתוש 250 ג</ManufactureItemDescription>
+      <UnitQty>גרם</UnitQty>
+      <Quantity>250.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>לא ידוע</QtyInPackage>
+      <ItemPrice>15.70</ItemPrice>
+      <UnitOfMeasurePrice>6.28</UnitOfMeasurePrice>
       <AllowDiscount>1</AllowDiscount>
       <ItemStatus/>
     </Item>
@@ -231136,6 +231003,139 @@
       <QtyInPackage>לא ידוע</QtyInPackage>
       <ItemPrice>11.90</ItemPrice>
       <UnitOfMeasurePrice>11.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus/>
+    </Item>
+    <Item>
+      <PriceUpdateTime>2025-01-01T09:11:56.000</PriceUpdateTime>
+      <ItemCode>7290110573577</ItemCode>
+      <LastSaleDateTime>2026-06-04T12:26:10.000</LastSaleDateTime>
+      <ItemType>1</ItemType>
+      <ItemName>משקה יוגורט פרו חלבו</ItemName>
+      <ManufactureName>לא ידוע</ManufactureName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufactureItemDescription>משקה יוגורט פרו חלבו</ManufactureItemDescription>
+      <UnitQty>גרם</UnitQty>
+      <Quantity>255.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>לא ידוע</QtyInPackage>
+      <ItemPrice>7.30</ItemPrice>
+      <UnitOfMeasurePrice>2.86</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus/>
+    </Item>
+    <Item>
+      <PriceUpdateTime>2025-01-01T07:50:01.000</PriceUpdateTime>
+      <ItemCode>7290001690888</ItemCode>
+      <LastSaleDateTime>2026-07-24T13:14:34.000</LastSaleDateTime>
+      <ItemType>1</ItemType>
+      <ItemName>נסיכת הנילוס</ItemName>
+      <ManufactureName>לא ידוע</ManufactureName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufactureItemDescription>נסיכת הנילוס</ManufactureItemDescription>
+      <UnitQty>ליטר</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>קילוגרם </UnitOfMeasure>
+      <bIsWeighted>1</bIsWeighted>
+      <QtyInPackage>לא ידוע</QtyInPackage>
+      <ItemPrice>35.30</ItemPrice>
+      <UnitOfMeasurePrice>35.30</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus/>
+    </Item>
+    <Item>
+      <PriceUpdateTime>2025-03-25T09:08:48.000</PriceUpdateTime>
+      <ItemCode>7290116533711</ItemCode>
+      <LastSaleDateTime>2026-07-27T09:34:41.000</LastSaleDateTime>
+      <ItemType>1</ItemType>
+      <ItemName>רקסונה ספריי 150 נשי</ItemName>
+      <ManufactureName>לא ידוע</ManufactureName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufactureItemDescription>רקסונה ספריי 150 נשי</ManufactureItemDescription>
+      <UnitQty>מיליליטר</UnitQty>
+      <Quantity>150.00</Quantity>
+      <UnitOfMeasure>100 מיליליטר</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>לא ידוע</QtyInPackage>
+      <ItemPrice>13.90</ItemPrice>
+      <UnitOfMeasurePrice>9.27</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus/>
+    </Item>
+    <Item>
+      <PriceUpdateTime>2025-03-06T11:34:34.000</PriceUpdateTime>
+      <ItemCode>7290018795460</ItemCode>
+      <LastSaleDateTime>2026-06-10T20:28:29.000</LastSaleDateTime>
+      <ItemType>1</ItemType>
+      <ItemName>תרד טורקי מרינה</ItemName>
+      <ManufactureName>לא ידוע</ManufactureName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufactureItemDescription>תרד טורקי מרינה</ManufactureItemDescription>
+      <UnitQty>קילוגרם</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>יחידות  </UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>לא ידוע</QtyInPackage>
+      <ItemPrice>11.90</ItemPrice>
+      <UnitOfMeasurePrice>11.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus/>
+    </Item>
+    <Item>
+      <PriceUpdateTime>2025-07-14T07:24:15.000</PriceUpdateTime>
+      <ItemCode>7290118073710</ItemCode>
+      <LastSaleDateTime>2026-08-26T19:00:22.000</LastSaleDateTime>
+      <ItemType>1</ItemType>
+      <ItemName>מקל מטאטא/מגב מחוזק</ItemName>
+      <ManufactureName>לא ידוע</ManufactureName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufactureItemDescription>מקל מטאטא/מגב מחוזק</ManufactureItemDescription>
+      <UnitQty>קילוגרם</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>יחידות  </UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>לא ידוע</QtyInPackage>
+      <ItemPrice>6.90</ItemPrice>
+      <UnitOfMeasurePrice>6.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus/>
+    </Item>
+    <Item>
+      <PriceUpdateTime>2025-07-21T07:18:03.000</PriceUpdateTime>
+      <ItemCode>7290108358124</ItemCode>
+      <LastSaleDateTime>2026-06-30T09:16:39.000</LastSaleDateTime>
+      <ItemType>1</ItemType>
+      <ItemName>מקסימה דפי בישום לחי</ItemName>
+      <ManufactureName>לא ידוע</ManufactureName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufactureItemDescription>מקסימה דפי בישום לחי</ManufactureItemDescription>
+      <UnitQty>קילוגרם</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>יחידות  </UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>לא ידוע</QtyInPackage>
+      <ItemPrice>12.90</ItemPrice>
+      <UnitOfMeasurePrice>12.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus/>
+    </Item>
+    <Item>
+      <PriceUpdateTime>2026-04-07T12:08:39.000</PriceUpdateTime>
+      <ItemCode>7290018566558</ItemCode>
+      <LastSaleDateTime>2026-08-26T21:07:56.000</LastSaleDateTime>
+      <ItemType>1</ItemType>
+      <ItemName>מנצס 150 גר בשקית קל</ItemName>
+      <ManufactureName>לא ידוע</ManufactureName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufactureItemDescription>מנצס 150 גר בשקית קל</ManufactureItemDescription>
+      <UnitQty>גרם</UnitQty>
+      <Quantity>150.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>לא ידוע</QtyInPackage>
+      <ItemPrice>8.90</ItemPrice>
+      <UnitOfMeasurePrice>5.93</UnitOfMeasurePrice>
       <AllowDiscount>1</AllowDiscount>
       <ItemStatus/>
     </Item>

@@ -26273,7 +26273,7 @@
               <MaxQty/>
               <DiscountRate>18.70</DiscountRate>
               <DiscountedPrice>80.00</DiscountedPrice>
-              <DiscountedPricePerMida>5.333</DiscountedPricePerMida>
+              <DiscountedPricePerMida>0.053</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
@@ -27731,7 +27731,7 @@
               <MaxQty/>
               <DiscountRate>28.77</DiscountRate>
               <DiscountedPrice>100.00</DiscountedPrice>
-              <DiscountedPricePerMida>6.667</DiscountedPricePerMida>
+              <DiscountedPricePerMida>0.067</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
             </PromotionItem>
           </PromotionItems>
@@ -68600,7 +68600,7 @@
               <MaxQty/>
               <DiscountRate>35.25</DiscountRate>
               <DiscountedPrice>18.00</DiscountedPrice>
-              <DiscountedPricePerMida>1.286</DiscountedPricePerMida>
+              <DiscountedPricePerMida>0.013</DiscountedPricePerMida>
               <bIsWeighted>0</bIsWeighted>
             </PromotionItem>
             <PromotionItem>
