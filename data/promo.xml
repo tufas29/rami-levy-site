@@ -192771,66 +192771,6 @@
       </Groups>
     </Promotion>
     <Promotion>
-      <PromotionUpdateTime>2026-08-03T00:00:00.000</PromotionUpdateTime>
-      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
-      <PromotionID>0001421271</PromotionID>
-      <PromotionDescription>יין רקנאטי יסמין 750מל 2ב66 כולל</PromotionDescription>
-      <PromotionStartDateTime>2026-08-02T00:00:00.000</PromotionStartDateTime>
-      <PromotionEndDateTime>2026-08-28T23:59:00.000</PromotionEndDateTime>
-      <PromotionStartHour/>
-      <PromotionEndHour/>
-      <PromotionDays/>
-      <RedemptionLimit/>
-      <MinNoOfItemOffered>10</MinNoOfItemOffered>
-      <ClubID>0</ClubID>
-      <IsGiftItem>2</IsGiftItem>
-      <AdditionalIsCoupon>0</AdditionalIsCoupon>
-      <AdditionalRestrictions/>
-      <Remarks/>
-      <Groups>
-        <Group>
-          <GroupID>1</GroupID>
-          <MinPurchaseAmount>0.00</MinPurchaseAmount>
-          <DiscountType/>
-          <PromotionItems>
-            <PromotionItem>
-              <ItemCode>7290008670142</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>10</RewardType>
-              <MinQty>2</MinQty>
-              <MaxQty/>
-              <DiscountRate>10.33</DiscountRate>
-              <DiscountedPrice>66.00</DiscountedPrice>
-              <DiscountedPricePerMida>4.400</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
-              <ItemCode>7290008670159</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>10</RewardType>
-              <MinQty>2</MinQty>
-              <MaxQty/>
-              <DiscountRate>10.33</DiscountRate>
-              <DiscountedPrice>66.00</DiscountedPrice>
-              <DiscountedPricePerMida>4.400</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-            <PromotionItem>
-              <ItemCode>7290019512554</ItemCode>
-              <ItemType>1</ItemType>
-              <RewardType>10</RewardType>
-              <MinQty>2</MinQty>
-              <MaxQty/>
-              <DiscountRate>10.33</DiscountRate>
-              <DiscountedPrice>66.00</DiscountedPrice>
-              <DiscountedPricePerMida>4.400</DiscountedPricePerMida>
-              <bIsWeighted>0</bIsWeighted>
-            </PromotionItem>
-          </PromotionItems>
-        </Group>
-      </Groups>
-    </Promotion>
-    <Promotion>
       <PromotionUpdateTime>2026-08-02T00:00:00.000</PromotionUpdateTime>
       <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
       <PromotionID>0001421272</PromotionID>
